@@ -1,0 +1,368 @@
+Title,Company,Location,Salary,min_salary,max_salary,avg_salary,salary_range,job_category,seniority,salary_range_pct
+Duomenų inžinierius (-ė) Duomenų valdymo departamente,Duomenų inžinierius (-ė) Duomenų valdymo departamente,Vilnius / Remote,€ 3220 – 4830,3220.0,4830.0,4025.0,1610.0,Data Engineer,Not Specified,50.0
+Data Analyst for Risk & Procurement team,Data Analyst for Risk & Procurement team,Vilnius / Remote,€ 2800 – 5000,2800.0,5000.0,3900.0,2200.0,Data Analyst,Not Specified,78.57142857142857
+Outperformer - Global Management Program: Finance Track,Outperformer - Global Management Program: Finance Track,Vilnius / Remote,€ 2700 – 3300,2700.0,3300.0,3000.0,600.0,Other,Not Specified,22.22222222222222
+Engineering Leadership Development Program for Graduates,Engineering Leadership Development Program for Graduates,Vilnius / Remote,€ 2700 – 3300,2700.0,3300.0,3000.0,600.0,Senior/Lead Position,Senior,22.22222222222222
+Outperformer - Global Management Program: Business Track,Outperformer - Global Management Program: Business Track,Vilnius / Remote,€ 2700 – 3300,2700.0,3300.0,3000.0,600.0,Other,Not Specified,22.22222222222222
+Junior Data Management Consultant,Junior Data Management Consultant,Vilnius / Remote,€ 2000 – 2700,2000.0,2700.0,2350.0,700.0,Other,Junior,35.0
+Verslo aplikacijų ekspertė (-as),Verslo aplikacijų ekspertė (-as),Vilnius,€ 2980 – 4470,2980.0,4470.0,3725.0,1490.0,Other,Not Specified,50.0
+Fullstack Developer,Fullstack Developer,Vilnius,€ 2600 – 3425,2600.0,3425.0,3012.5,825.0,Software Developer,Not Specified,31.73076923076923
+IT sprendimų vadovė (-as),IT sprendimų vadovė (-as),Vilnius,€ 2350 – 3000,2350.0,3000.0,2675.0,650.0,Other,Not Specified,27.659574468085108
+Vyr. Duomenų mokslininkas (-ė),Vyr. Duomenų mokslininkas (-ė),Vilnius / Remote,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Data Scientist,Senior,50.0
+IT Platform Engineer for MLOps (Machine Learning) Area,IT Platform Engineer for MLOps (Machine Learning) Area,Vilnius,€ 3280 – 4920,3280.0,4920.0,4100.0,1640.0,Data Scientist,Not Specified,50.0
+Business System Support Analyst (+Danish language bonus allowance),Business System Support Analyst (+Danish language bonus allowance),Vilnius,€ 1480 – 2220,1480.0,2220.0,1850.0,740.0,IT Support,Not Specified,50.0
+"Senior Engineer in Internal Identity and Access Management | SEB, Vilnius","Senior Engineer in Internal Identity and Access Management | SEB, Vilnius",Vilnius,€ 3000 – 4500,3000.0,4500.0,3750.0,1500.0,Senior/Lead Position,Junior,50.0
+Software Developer,Software Developer,Vilnius,€ 3700 – 4200,3700.0,4200.0,3950.0,500.0,Software Developer,Not Specified,13.513513513513514
+QA Test Analyst,QA Test Analyst,Vilnius,€ 3500 – 4000,3500.0,4000.0,3750.0,500.0,QA Engineer,Not Specified,14.285714285714285
+Junior Software Developer,Junior Software Developer,Vilnius,€ 2500 – 3500,2500.0,3500.0,3000.0,1000.0,Software Developer,Junior,40.0
+Klientų aptarnavimo specialistas (-ė),Klientų aptarnavimo specialistas (-ė),Kaunas,€ 1500 – 2000,1500.0,2000.0,1750.0,500.0,Other,Not Specified,33.33333333333333
+Vyr. Programuotojas (-a),Vyr. Programuotojas (-a),Vilnius,€ 4000 – 5000,4000.0,5000.0,4500.0,1000.0,Software Developer,Senior,25.0
+Test Automation Lead,Test Automation Lead,Vilnius / Remote,€ 3900 – 6815,3900.0,6815.0,5357.5,2915.0,QA Engineer,Senior,74.74358974358975
+Senior iOS Software Engineer in Customer Engagement Individuals,Senior iOS Software Engineer in Customer Engagement Individuals,Vilnius,€ 4320 – 6480,4320.0,6480.0,5400.0,2160.0,Software Developer,Senior,50.0
+Senior Test Automation Engineer,Senior Test Automation Engineer,Vilnius / Remote,€ 3175 – 5340,3175.0,5340.0,4257.5,2165.0,QA Engineer,Senior,68.18897637795276
+Senior Android Software Engineer in Customer Engagement Individuals,Senior Android Software Engineer in Customer Engagement Individuals,Vilnius,€ 4320 – 6480,4320.0,6480.0,5400.0,2160.0,Software Developer,Senior,50.0
+.NET Technical Lead,.NET Technical Lead,Vilnius / Remote,€ 4600 – 7100,4600.0,7100.0,5850.0,2500.0,Software Developer,Senior,54.347826086956516
+QA Engineer (Omni+ Unit),QA Engineer (Omni+ Unit),Vilnius / Remote,€ 2200 – 3310,2200.0,3310.0,2755.0,1110.0,QA Engineer,Not Specified,50.45454545454545
+Senior .NET Software Engineer in Welcoming and Orchestration Tribe,Senior .NET Software Engineer in Welcoming and Orchestration Tribe,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Senior,50.0
+QA Engineer (Junior),QA Engineer (Junior),Vilnius / Remote,€ 1100 – 2200,1100.0,2200.0,1650.0,1100.0,QA Engineer,Junior,100.0
+PHP Developer (Junior),PHP Developer (Junior),Vilnius / Remote,€ 1100 – 2900,1100.0,2900.0,2000.0,1800.0,Software Developer,Junior,163.63636363636365
+PHP Developer,PHP Developer,Vilnius / Remote,€ 2600 – 4500,2600.0,4500.0,3550.0,1900.0,Software Developer,Not Specified,73.07692307692307
+IT Product manager,IT Product manager,Kaunas,€ 4000 – 5000,4000.0,5000.0,4500.0,1000.0,Other,Not Specified,25.0
+Back-End Developer (AI implementation),Back-End Developer (AI implementation),Vilnius,€ 4000 – 6000,4000.0,6000.0,5000.0,2000.0,Software Developer,Not Specified,50.0
+Junior IT Software Engineer in Intelligent Automation Tribe,Junior IT Software Engineer in Intelligent Automation Tribe,Vilnius,€ 2560 – 3840,2560.0,3840.0,3200.0,1280.0,Software Developer,Junior,50.0
+Outperformer - Global Management Program: Business Track,Outperformer - Global Management Program: Business Track,Vilnius / Remote,€ 2700 – 3300,2700.0,3300.0,3000.0,600.0,Other,Not Specified,22.22222222222222
+Engineering Leadership Development Program for Graduates,Engineering Leadership Development Program for Graduates,Vilnius / Remote,€ 2700 – 3300,2700.0,3300.0,3000.0,600.0,Senior/Lead Position,Senior,22.22222222222222
+IS specialistas I Technologijų skyrius,IS specialistas I Technologijų skyrius,Vilnius / Remote,€ 2374 – 2963,2374.0,2963.0,2668.5,589.0,Other,Not Specified,24.81044650379107
+Experienced Data Engineer to Join Danica Insurance Data Warehouse,Experienced Data Engineer to Join Danica Insurance Data Warehouse,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Data Engineer,Not Specified,50.0
+Technologijų vadovas (-ė) (Microsoft produktams),Technologijų vadovas (-ė) (Microsoft produktams),Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Other,Not Specified,50.0
+Senior recruiter - Regional coordinator,Senior recruiter - Regional coordinator,Vilnius / Remote,€ 3000 – 4000,3000.0,4000.0,3500.0,1000.0,Senior/Lead Position,Senior,33.33333333333333
+IT Business Analyst,IT Business Analyst,Vilnius,€ 2800 – 3800,2800.0,3800.0,3300.0,1000.0,Business Analyst,Not Specified,35.714285714285715
+Large Language Modelling/Gen AI engineer,Large Language Modelling/Gen AI engineer,Vilnius / Remote,€ 2600 – 5050,2600.0,5050.0,3825.0,2450.0,Data Scientist,Not Specified,94.23076923076923
+MLOps engineer,MLOps engineer,Vilnius / Remote,€ 3300 – 5350,3300.0,5350.0,4325.0,2050.0,Other,Not Specified,62.121212121212125
+System Developer (RPA),System Developer (RPA),Vilnius,€ 3500 – 4420,3500.0,4420.0,3960.0,920.0,Software Developer,Not Specified,26.285714285714285
+Vyr. analitikas (-ė),Vyr. analitikas (-ė),Vilnius / Remote,€ 3200 – 3500,3200.0,3500.0,3350.0,300.0,Data Analyst,Senior,9.375
+Customer Support Specialist,Customer Support Specialist,Vilnius,€ 1500 – 2200,1500.0,2200.0,1850.0,700.0,IT Support,Not Specified,46.666666666666664
+IT Architektas (-ė),IT Architektas (-ė),Kaunas,€ 5000 – 7500,5000.0,7500.0,6250.0,2500.0,Other,Not Specified,50.0
+IS pagalbos specialistas(-ė),IS pagalbos specialistas(-ė),Vilnius,€ 1800 – 2400,1800.0,2400.0,2100.0,600.0,IT Support,Not Specified,33.33333333333333
+SAP EWM Functional analyst,SAP EWM Functional analyst,Vilnius,€ 3800 – 5200,3800.0,5200.0,4500.0,1400.0,Other,Not Specified,36.84210526315789
+SAP Financial accounting/Controlling functional analyst,SAP Financial accounting/Controlling functional analyst,Vilnius,€ 3800 – 5200,3800.0,5200.0,4500.0,1400.0,Other,Not Specified,36.84210526315789
+Senior Business Development Manager,Senior Business Development Manager,Vilnius / Remote,€ 3300 – 5000,3300.0,5000.0,4150.0,1700.0,Senior/Lead Position,Senior,51.515151515151516
+SAP ABAP developer,SAP ABAP developer,Vilnius / Remote,€ 3175 – 5400,3175.0,5400.0,4287.5,2225.0,Software Developer,Not Specified,70.07874015748031
+SAP Integration Architect,SAP Integration Architect,Vilnius / Remote,€ 3175 – 5400,3175.0,5400.0,4287.5,2225.0,Other,Not Specified,70.07874015748031
+Product Owner (Loyalty System),Product Owner (Loyalty System),Vilnius,€ 3000 – 4500,3000.0,4500.0,3750.0,1500.0,Product Owner,Not Specified,50.0
+Business consultant,Business consultant,Vilnius,€ 4958 – 6611,4958.0,6611.0,5784.5,1653.0,Other,Not Specified,33.34005647438483
+Software developer,Software developer,Kaunas,€ 3750 – 5700,3750.0,5700.0,4725.0,1950.0,Software Developer,Not Specified,52.0
+Quality Assurance Engineer,Quality Assurance Engineer,Kaunas,€ 2455 – 3306,2455.0,3306.0,2880.5,851.0,QA Engineer,Not Specified,34.663951120162935
+Produkto vadovas (-ė),Produkto vadovas (-ė),Kaunas,€ 3800 – 4000,3800.0,4000.0,3900.0,200.0,Product Owner,Not Specified,5.263157894736842
+Produkto vadovas (-ė),Produkto vadovas (-ė),Vilnius,€ 3800 – 4000,3800.0,4000.0,3900.0,200.0,Product Owner,Not Specified,5.263157894736842
+Vyr. IS administratorius (-ė),Vyr. IS administratorius (-ė),Vilnius,€ 3300 – 4500,3300.0,4500.0,3900.0,1200.0,IT Support,Senior,36.36363636363637
+IT projektų specialistas(-ė),IT projektų specialistas(-ė),Vilnius / Remote,€ 2400 – 3600,2400.0,3600.0,3000.0,1200.0,Other,Not Specified,50.0
+Software Engineer - Ruby on Rails,Software Engineer - Ruby on Rails,Vilnius,€ 3400 – 4500,3400.0,4500.0,3950.0,1100.0,Software Developer,Not Specified,32.35294117647059
+Veiklos analitikas (-ė) (E-varžytynių ir aukcionų portalas),Veiklos analitikas (-ė) (E-varžytynių ir aukcionų portalas),Vilnius,€ 2175 – 3263,2175.0,3263.0,2719.0,1088.0,Data Analyst,Not Specified,50.02298850574712
+Produkto vadovas (-ė) (E. sveikata),Produkto vadovas (-ė) (E. sveikata),Vilnius,€ 2628 – 3942,2628.0,3942.0,3285.0,1314.0,Product Owner,Not Specified,50.0
+Chief Business Analyst for Welcoming and Orchestration,Chief Business Analyst for Welcoming and Orchestration,Vilnius,€ 4320 – 6480,4320.0,6480.0,5400.0,2160.0,Business Analyst,Senior,50.0
+"Back-end Developer (PHP, Laravel)","Back-end Developer (PHP, Laravel)",Vilnius,€ 8.5 – 11.5/h,1360.0,1840.0,1600.0,3.0,Software Developer,Not Specified,0.22058823529411764
+QA engineer,QA engineer,Vilnius,€ 4 – 6/h,640.0,960.0,800.0,2.0,QA Engineer,Not Specified,0.3125
+"Solution Architect for AI platforms/IT Expert | SEB, Vilnius","Solution Architect for AI platforms/IT Expert | SEB, Vilnius",Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Other,Not Specified,49.31506849315068
+IT Project Manager (Omnichannel),IT Project Manager (Omnichannel),Vilnius / Remote,€ 3000 – 5000,3000.0,5000.0,4000.0,2000.0,Project Manager,Not Specified,66.66666666666666
+Marketing Analytics Engineer @Bioma,Marketing Analytics Engineer @Bioma,Vilnius,€ 3800 – 5100,3800.0,5100.0,4450.0,1300.0,Data Analyst,Not Specified,34.21052631578947
+Technical Support Specialist (German),Technical Support Specialist (German),Vilnius / Remote,€ 2200 – 2700,2200.0,2700.0,2450.0,500.0,IT Support,Not Specified,22.727272727272727
+"Backend Engineer, Devex Platform","Backend Engineer, Devex Platform",Vilnius,€ 2500 – 4000,2500.0,4000.0,3250.0,1500.0,Software Developer,Not Specified,60.0
+DevOps Engineer,DevOps Engineer,Vilnius,€ 4500 – 6000,4500.0,6000.0,5250.0,1500.0,DevOps,Not Specified,33.33333333333333
+Experienced Backend Engineer - Wix Blog,Experienced Backend Engineer - Wix Blog,Vilnius,€ 3500 – 5000,3500.0,5000.0,4250.0,1500.0,Software Developer,Not Specified,42.857142857142854
+Komercijos vadybininkas (-ė),Komercijos vadybininkas (-ė),Jonava,€ 1700 – 3000,1700.0,3000.0,2350.0,1300.0,Other,Not Specified,76.47058823529412
+Senior Backend Engineer – CTO Group,Senior Backend Engineer – CTO Group,Vilnius,€ 5000 – 8000,5000.0,8000.0,6500.0,3000.0,Software Developer,Senior,60.0
+Techninės kontrolės inžinierius (-ė),Techninės kontrolės inžinierius (-ė),Jonava,€ 1600 – 3000,1600.0,3000.0,2300.0,1400.0,Other,Not Specified,87.5
+IT administratorius (-ė),IT administratorius (-ė),Vilnius,€ 2200 – 2700,2200.0,2700.0,2450.0,500.0,IT Support,Not Specified,22.727272727272727
+"Applied AI: Senior Software Engineer, AI Engineering","Applied AI: Senior Software Engineer, AI Engineering",Vilnius,€ 4100 – 4500,4100.0,4500.0,4300.0,400.0,Data Scientist,Senior,9.75609756097561
+Senior DevOps Engineer,Senior DevOps Engineer,Vilnius,€ 5000 – 6200,5000.0,6200.0,5600.0,1200.0,DevOps,Senior,24.0
+GEN AI Platform: Software Developer Specialist,GEN AI Platform: Software Developer Specialist,Vilnius,€ 4100 – 4500,4100.0,4500.0,4300.0,400.0,Software Developer,Not Specified,9.75609756097561
+Tarptautinių projektų vadybininkas (-ė),Tarptautinių projektų vadybininkas (-ė),Klaipėda,€ 2000 – 2500,2000.0,2500.0,2250.0,500.0,Other,Not Specified,25.0
+Junior Data Engineer in Finance Tribe,Junior Data Engineer in Finance Tribe,Vilnius,€ 2720 – 4080,2720.0,4080.0,3400.0,1360.0,Data Engineer,Junior,50.0
+"Senior Software Developer in Payments team | SEB, Vilnius","Senior Software Developer in Payments team | SEB, Vilnius",Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Software Developer,Senior,49.31506849315068
+"Full stack developer seeking new digital challenges | SEB, Vilnius","Full stack developer seeking new digital challenges | SEB, Vilnius",Vilnius,€ 2850 – 4250,2850.0,4250.0,3550.0,1400.0,Software Developer,Not Specified,49.122807017543856
+Application Management Support Specialist,Application Management Support Specialist,Vilnius,€ 2600 – 3500,2600.0,3500.0,3050.0,900.0,IT Support,Not Specified,34.61538461538461
+Mid/Senior QA Engineer for Progress OpenEdge Unit,Mid/Senior QA Engineer for Progress OpenEdge Unit,Vilnius / Remote,€ 2500 – 3800,2500.0,3800.0,3150.0,1300.0,QA Engineer,Senior,52.0
+Išmaniųjų laikrodžių ir elektronikos aksesuarų grupės vadovas,Išmaniųjų laikrodžių ir elektronikos aksesuarų grupės vadovas,Vilnius / Remote,€ 3200 – 3800,3200.0,3800.0,3500.0,600.0,Other,Not Specified,18.75
+ERP KONSULTANTAS (-Ė) – Galimybė keisti karjeros kryptį!,ERP KONSULTANTAS (-Ė) – Galimybė keisti karjeros kryptį!,Kaunas,€ 2600 – 3500,2600.0,3500.0,3050.0,900.0,Other,Not Specified,34.61538461538461
+Java Chapter Lead for Welcoming and Orchestration,Java Chapter Lead for Welcoming and Orchestration,Vilnius,€ 5200 – 7800,5200.0,7800.0,6500.0,2600.0,Software Developer,Senior,50.0
+BI Developer,BI Developer,Vilnius,€ 3500 – 5000,3500.0,5000.0,4250.0,1500.0,Software Developer,Not Specified,42.857142857142854
+DI diegimo vadovas (-ė),DI diegimo vadovas (-ė),Vilnius,€ 5500 – 7400,5500.0,7400.0,6450.0,1900.0,Other,Not Specified,34.54545454545455
+BUSINESS IMPROVEMENT PROJECT MANAGER (F/M/D) | IGNITIS RENEWABLES,BUSINESS IMPROVEMENT PROJECT MANAGER (F/M/D) | IGNITIS RENEWABLES,Vilnius,€ 2666 – 3999,2666.0,3999.0,3332.5,1333.0,Project Manager,Not Specified,50.0
+Outperformer - Global Management Program: Finance Track,Outperformer - Global Management Program: Finance Track,Vilnius / Remote,€ 2700 – 3300,2700.0,3300.0,3000.0,600.0,Other,Not Specified,22.22222222222222
+.NET programuotojas,.NET programuotojas,Vilnius / Remote,€ 4000 – 5400,4000.0,5400.0,4700.0,1400.0,Software Developer,Not Specified,35.0
+IT System Analyst,IT System Analyst,Vilnius / Remote,€ 3500 – 4700,3500.0,4700.0,4100.0,1200.0,Other,Not Specified,34.285714285714285
+BIM (statinio informacinio modeliavimo) koordinatorė (-ius),BIM (statinio informacinio modeliavimo) koordinatorė (-ius),Vilnius,€ 3000 – 3700,3000.0,3700.0,3350.0,700.0,Other,Not Specified,23.333333333333332
+IT inžinierė (-ius),IT inžinierė (-ius),Vilnius,€ 1500 – 2000,1500.0,2000.0,1750.0,500.0,Other,Not Specified,33.33333333333333
+Sistemų analitikė (-as),Sistemų analitikė (-as),Vilnius,€ 2200 – 4400,2200.0,4400.0,3300.0,2200.0,Other,Not Specified,100.0
+"Mid Full-Stack Developer (Front-end focus – Angular) | SEB, Vilnius","Mid Full-Stack Developer (Front-end focus – Angular) | SEB, Vilnius",Vilnius,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,Software Developer,Mid,91.22807017543859
+"Enterprise Area Architect | SEB, Vilnius","Enterprise Area Architect | SEB, Vilnius",Vilnius,€ 5900 – 8800,5900.0,8800.0,7350.0,2900.0,Other,Not Specified,49.152542372881356
+Back-end Software Developer,Back-end Software Developer,Latvia,€ 4500 – 6000,4500.0,6000.0,5250.0,1500.0,Software Developer,Not Specified,33.33333333333333
+Software Developer Lead,Software Developer Lead,Latvia,€ 6000 – 8000,6000.0,8000.0,7000.0,2000.0,Software Developer,Senior,33.33333333333333
+PERFORMANCE DATA ENGINEER (F/M/D) | IGNITIS RENEWABLES,PERFORMANCE DATA ENGINEER (F/M/D) | IGNITIS RENEWABLES,Vilnius,€ 2666 – 3999,2666.0,3999.0,3332.5,1333.0,Data Engineer,Not Specified,50.0
+Vyr. sistemų architektas (-ė),Vyr. sistemų architektas (-ė),Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Senior/Lead Position,Senior,50.0
+Software Testing Engineer,Software Testing Engineer,Vilnius,€ 2000 – 3200,2000.0,3200.0,2600.0,1200.0,QA Engineer,Not Specified,60.0
+IT Administratorius (-ė),IT Administratorius (-ė),Vilnius / Remote,€ 2600 – 3600,2600.0,3600.0,3100.0,1000.0,IT Support,Not Specified,38.46153846153847
+Vyr. Programuotojas (-a),Vyr. Programuotojas (-a),Šiauliai / Remote,€ 3500 – 4500,3500.0,4500.0,4000.0,1000.0,Software Developer,Senior,28.57142857142857
+Vyr. Programuotojas (-a),Vyr. Programuotojas (-a),Kaunas / Remote,€ 3500 – 4500,3500.0,4500.0,4000.0,1000.0,Software Developer,Senior,28.57142857142857
+Senior JAVA Developer for Pathway team,Senior JAVA Developer for Pathway team,Vilnius / Remote,€ 3600 – 6300,3600.0,6300.0,4950.0,2700.0,Software Developer,Senior,75.0
+Senior Front-end Developer,Senior Front-end Developer,Vilnius,€ 4320 – 6480,4320.0,6480.0,5400.0,2160.0,Software Developer,Senior,50.0
+Verslo analitikas (-ė) Produktų vystymo departamente,Verslo analitikas (-ė) Produktų vystymo departamente,Kaunas / Remote,€ 2500 – 3750,2500.0,3750.0,3125.0,1250.0,Data Analyst,Not Specified,50.0
+Verslo analitikas (-ė) Produktų vystymo departamente,Verslo analitikas (-ė) Produktų vystymo departamente,Vilnius / Remote,€ 2600 – 3890,2600.0,3890.0,3245.0,1290.0,Data Analyst,Not Specified,49.61538461538461
+"Product Owner for Jira and Confluence | SEB, Vilnius","Product Owner for Jira and Confluence | SEB, Vilnius",Vilnius,€ 3000 – 4500,3000.0,4500.0,3750.0,1500.0,Product Owner,Not Specified,50.0
+"IT Support Specialist at 1st Line Employee IT Support | SEB, Vilnius","IT Support Specialist at 1st Line Employee IT Support | SEB, Vilnius",Vilnius,€ 1750 – 1900,1750.0,1900.0,1825.0,150.0,IT Support,Not Specified,8.571428571428571
+IT Business Analyst,IT Business Analyst,Vilnius,€ 2800 – 4130,2800.0,4130.0,3465.0,1330.0,Business Analyst,Not Specified,47.5
+Vyr. ekspertas (-ė) (Dirbtinis intelektas - Teisės sritis),Vyr. ekspertas (-ė) (Dirbtinis intelektas - Teisės sritis),Vilnius / Remote,€ 2500 – 3500,2500.0,3500.0,3000.0,1000.0,Senior/Lead Position,Senior,40.0
+Test Automation Engineer (Python),Test Automation Engineer (Python),Vilnius / Remote,€ 1900 – 4500,1900.0,4500.0,3200.0,2600.0,QA Engineer,Not Specified,136.8421052631579
+Informacijos saugos vadovas (-ė) (CISO),Informacijos saugos vadovas (-ė) (CISO),Vilnius,€ 4000 – 7500,4000.0,7500.0,5750.0,3500.0,Security,Not Specified,87.5
+Senior Flutter Developer,Senior Flutter Developer,Vilnius,€ 5000 – 7000,5000.0,7000.0,6000.0,2000.0,Software Developer,Senior,40.0
+.Net developer,.Net developer,Kaunas,€ 4500 – 6000,4500.0,6000.0,5250.0,1500.0,Software Developer,Not Specified,33.33333333333333
+SENIOR JAVA DEVELOPER (F/M/D),SENIOR JAVA DEVELOPER (F/M/D),Vilnius,€ 3466 – 5199,3466.0,5199.0,4332.5,1733.0,Software Developer,Senior,50.0
+Help desk specialistas(-ė),Help desk specialistas(-ė),Vilnius / Remote,€ 2100 – 2700,2100.0,2700.0,2400.0,600.0,IT Support,Not Specified,28.57142857142857
+Business Intelligence Analyst for Daily Data Monitoring Squad,Business Intelligence Analyst for Daily Data Monitoring Squad,Vilnius,€ 2880 – 4320,2880.0,4320.0,3600.0,1440.0,Business Analyst,Not Specified,50.0
+POWER PLATFORM DEVELOPER (F/M/D),POWER PLATFORM DEVELOPER (F/M/D),Vilnius,€ 3121 – 4683,3121.0,4683.0,3902.0,1562.0,Software Developer,Not Specified,50.04806151874399
+Business Analyst for Visma Idella team,Business Analyst for Visma Idella team,Vilnius / Remote,€ 4100 – 5900,4100.0,5900.0,5000.0,1800.0,Business Analyst,Not Specified,43.90243902439025
+Senior Front-end/Full-stack (Angular) Developer for Visma Business NXT team,Senior Front-end/Full-stack (Angular) Developer for Visma Business NXT team,Vilnius / Remote,€ 3600 – 7500,3600.0,7500.0,5550.0,3900.0,Software Developer,Senior,108.33333333333333
+Product Security Specialist,Product Security Specialist,Vilnius / Remote,€ 3800 – 5600,3800.0,5600.0,4700.0,1800.0,Security,Not Specified,47.368421052631575
+.NET Software Engineer in Wealth Planning and Investments Tribe,.NET Software Engineer in Wealth Planning and Investments Tribe,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Software Developer,Not Specified,50.0
+Business Analyst for Progress OpenEdge Unit,Business Analyst for Progress OpenEdge Unit,Vilnius / Remote,€ 3000 – 4200,3000.0,4200.0,3600.0,1200.0,Business Analyst,Not Specified,40.0
+Android Developer (Junior),Android Developer (Junior),Vilnius,€ 1100 – 2900,1100.0,2900.0,2000.0,1800.0,Software Developer,Junior,163.63636363636365
+Vyresnysis (-ioji) IT specialistas (-ė) Informacinių technologijų paslaugų centre,Vyresnysis (-ioji) IT specialistas (-ė) Informacinių technologijų paslaugų centre,Vilnius / Remote,€ 2800 – 3850,2800.0,3850.0,3325.0,1050.0,Senior/Lead Position,Senior,37.5
+IT Project Manager (Data Solutions),IT Project Manager (Data Solutions),Vilnius / Remote,€ 2450 – 3700,2450.0,3700.0,3075.0,1250.0,Project Manager,Not Specified,51.02040816326531
+Data Engineer,Data Engineer,Vilnius / Remote,€ 2500 – 4300,2500.0,4300.0,3400.0,1800.0,Data Engineer,Not Specified,72.0
+.NET Developer (Junior),.NET Developer (Junior),Vilnius / Remote,€ 1100 – 2900,1100.0,2900.0,2000.0,1800.0,Software Developer,Junior,163.63636363636365
+Cloud Sales Assistant,Cloud Sales Assistant,Vilnius / Remote,€ 1500 – 2200,1500.0,2200.0,1850.0,700.0,DevOps,Not Specified,46.666666666666664
+Cyber Security Consultant,Cyber Security Consultant,Vilnius,€ 2000 – 2700,2000.0,2700.0,2350.0,700.0,Security,Not Specified,35.0
+Skaitmenintojas (-a) Vilniaus universiteto bibliotekoje,Skaitmenintojas (-a) Vilniaus universiteto bibliotekoje,Vilnius,€ 1300 – 1550,1300.0,1550.0,1425.0,250.0,Other,Not Specified,19.230769230769234
+Product Development Manager,Product Development Manager,Vilnius / Remote,€ 3700 – 4000,3700.0,4000.0,3850.0,300.0,Other,Not Specified,8.108108108108109
+Software Engineer (Java),Software Engineer (Java),Vilnius / Remote,€ 3240 – 3810,3240.0,3810.0,3525.0,570.0,Software Developer,Not Specified,17.59259259259259
+IT pirkimų vyr. specialistas (-ė),IT pirkimų vyr. specialistas (-ė),Vilnius,€ 2376 – 3564,2376.0,3564.0,2970.0,1188.0,Senior/Lead Position,Senior,50.0
+Business Analyst,Business Analyst,Vilnius / Remote,€ 2500 – 3500,2500.0,3500.0,3000.0,1000.0,Business Analyst,Not Specified,40.0
+Duomenų inžinierius(-ė)/Data Engineer,Duomenų inžinierius(-ė)/Data Engineer,Šiauliai,€ 2500 – 3200,2500.0,3200.0,2850.0,700.0,Data Engineer,Not Specified,28.000000000000004
+AI Engineer,AI Engineer,Vilnius,€ 2560 – 4500,2560.0,4500.0,3530.0,1940.0,Data Scientist,Not Specified,75.78125
+"Software Engineer within Digital Solutions Sweden, Customer Channels","Software Engineer within Digital Solutions Sweden, Customer Channels",Vilnius / Remote,€ 3800 – 5700,3800.0,5700.0,4750.0,1900.0,Software Developer,Not Specified,50.0
+R&D Manager,R&D Manager,Kaunas / Remote,€ 4000 – 5500,4000.0,5500.0,4750.0,1500.0,Other,Not Specified,37.5
+"Verslo sistemų (gamyba, operacijos) savininkas (-ė)","Verslo sistemų (gamyba, operacijos) savininkas (-ė)",Vilnius,€ 3000 – 4000,3000.0,4000.0,3500.0,1000.0,Other,Not Specified,33.33333333333333
+.NET Developer for PlusPort team,.NET Developer for PlusPort team,Vilnius / Remote,€ 2800 – 6300,2800.0,6300.0,4550.0,3500.0,Software Developer,Not Specified,125.0
+Pardavimo vadybininkas (-ė) esamiems ir naujiems klientams (kompiuterinė įranga),Pardavimo vadybininkas (-ė) esamiems ir naujiems klientams (kompiuterinė įranga),Kaunas,€ 2450 – 4100,2450.0,4100.0,3275.0,1650.0,Other,Not Specified,67.3469387755102
+Senior Software Engineer and Team Lead,Senior Software Engineer and Team Lead,Kaunas / Remote,€ 4950 – 8250,4950.0,8250.0,6600.0,3300.0,Software Developer,Senior,66.66666666666666
+Software Architect and Team Lead,Software Architect and Team Lead,Kaunas / Remote,€ 4950 – 8250,4950.0,8250.0,6600.0,3300.0,Senior/Lead Position,Senior,66.66666666666666
+Senior PHP Developer,Senior PHP Developer,Vilnius,€ 5000 – 6000,5000.0,6000.0,5500.0,1000.0,Software Developer,Senior,20.0
+Rinkos paslaugų planavimo grupės vadovė (-as),Rinkos paslaugų planavimo grupės vadovė (-as),Vilnius,€ 4300 – 5000,4300.0,5000.0,4650.0,700.0,Other,Not Specified,16.27906976744186
+Senior BI Analyst for Daily Data Monitoring Squad,Senior BI Analyst for Daily Data Monitoring Squad,Vilnius,€ 3600 – 5400,3600.0,5400.0,4500.0,1800.0,Senior/Lead Position,Senior,50.0
+Ieškome Mid Back-End programuotojo (-os),Ieškome Mid Back-End programuotojo (-os),Vilnius / Remote,€ 3500 – 5300,3500.0,5300.0,4400.0,1800.0,Software Developer,Mid,51.42857142857142
+SKAITMENINĖS SAUGOS EKSPERTĖ (-AS) (ATSINAUJINANTI ENERGETIKA),SKAITMENINĖS SAUGOS EKSPERTĖ (-AS) (ATSINAUJINANTI ENERGETIKA),Vilnius,€ 4403 – 6604,4403.0,6604.0,5503.5,2201.0,Security,Not Specified,49.98864410629116
+DI inžinierius (-ė) – prisijunk prie mūsų komandos ir kurk inovacijas!,DI inžinierius (-ė) – prisijunk prie mūsų komandos ir kurk inovacijas!,Vilnius,€ 4000 – 5500,4000.0,5500.0,4750.0,1500.0,Other,Not Specified,37.5
+AI Engineer,AI Engineer,Vilnius,€ 2560 – 3840,2560.0,3840.0,3200.0,1280.0,Data Scientist,Not Specified,50.0
+Senior Data Engineer – Data Platform Tribe,Senior Data Engineer – Data Platform Tribe,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Data Engineer,Senior,50.0
+Vyresnysis projektų vadovas(-ė) verslo valdymo sistemų diegime,Vyresnysis projektų vadovas(-ė) verslo valdymo sistemų diegime,Vilnius / Remote,€ 3200 – 5500,3200.0,5500.0,4350.0,2300.0,Project Manager,Senior,71.875
+"Java Developer in Account Channels | SEB, Vilnius","Java Developer in Account Channels | SEB, Vilnius",Vilnius,€ 2850 – 4250,2850.0,4250.0,3550.0,1400.0,Software Developer,Not Specified,49.122807017543856
+Veiklos analitikas (-ė) (Gyventojų registras),Veiklos analitikas (-ė) (Gyventojų registras),Vilnius,€ 2175 – 3262,2175.0,3262.0,2718.5,1087.0,Data Analyst,Not Specified,49.97701149425287
+Business Analyst,Business Analyst,Vilnius / Remote,€ 3306 – 3967,3306.0,3967.0,3636.5,661.0,Business Analyst,Not Specified,19.99395039322444
+Head of Information Security for European Markets,Head of Information Security for European Markets,Vilnius,€ 7500 – 10000,7500.0,10000.0,8750.0,2500.0,Security,Senior,33.33333333333333
+"Pozicijos pavadinimas, rodomas skelbimuose","Pozicijos pavadinimas, rodomas skelbimuose",Vilnius,€ 2500 – 4500,2500.0,4500.0,3500.0,2000.0,Other,Not Specified,80.0
+Mid Quality Assurance Engineer,Mid Quality Assurance Engineer,Vilnius,€ 2630 – 3945,2630.0,3945.0,3287.5,1315.0,QA Engineer,Mid,50.0
+Klinikinis modeliuotojas – veiklos procesų analitikas,Klinikinis modeliuotojas – veiklos procesų analitikas,Kaunas,€ 3300 – 4800,3300.0,4800.0,4050.0,1500.0,Data Analyst,Not Specified,45.45454545454545
+Senior / Lead DevOps,Senior / Lead DevOps,Vilnius,€ 5000 – 7500,5000.0,7500.0,6250.0,2500.0,DevOps,Senior,50.0
+Experienced Brand and Web Designer,Experienced Brand and Web Designer,Vilnius,€ 3000 – 5500,3000.0,5500.0,4250.0,2500.0,Other,Not Specified,83.33333333333334
+Talent Acquisition (TA) Partner,Talent Acquisition (TA) Partner,Vilnius,€ 2500 – 3400,2500.0,3400.0,2950.0,900.0,Other,Not Specified,36.0
+Experienced Talent Acquisition (TA) Partner,Experienced Talent Acquisition (TA) Partner,Vilnius,€ 3200 – 4100,3200.0,4100.0,3650.0,900.0,Other,Not Specified,28.125
+Frontend Software Engineer,Frontend Software Engineer,Vilnius,€ 3000 – 7000,3000.0,7000.0,5000.0,4000.0,Software Developer,Not Specified,133.33333333333331
+Senior Frontend Engineer - Functions & Members Area,Senior Frontend Engineer - Functions & Members Area,Vilnius,€ 4500 – 8000,4500.0,8000.0,6250.0,3500.0,Senior/Lead Position,Senior,77.77777777777779
+Frontend Engineer - Vilnius CTO Team,Frontend Engineer - Vilnius CTO Team,Vilnius,€ 4000 – 8000,4000.0,8000.0,6000.0,4000.0,Other,Not Specified,100.0
+Frontend Engineer - Rich Content,Frontend Engineer - Rich Content,Vilnius,€ 4500 – 7000,4500.0,7000.0,5750.0,2500.0,Other,Not Specified,55.55555555555556
+Data Engineer for Impairment and Stress Test Analytics,Data Engineer for Impairment and Stress Test Analytics,Vilnius,€ 3440 – 5160,3440.0,5160.0,4300.0,1720.0,Data Engineer,Not Specified,50.0
+Senior Service Owner,Senior Service Owner,Vilnius / Remote,€ 3500 – 4500,3500.0,4500.0,4000.0,1000.0,Senior/Lead Position,Senior,28.57142857142857
+Software Engineer,Software Engineer,Vilnius,€ 2500 – 5000,2500.0,5000.0,3750.0,2500.0,Software Developer,Not Specified,100.0
+Senior Platform Engineer (SAS Viya) in Shared Capabilities at Danica Pension,Senior Platform Engineer (SAS Viya) in Shared Capabilities at Danica Pension,Vilnius,€ 4160 – 6240,4160.0,6240.0,5200.0,2080.0,DevOps,Senior,50.0
+"Tech Lead / Solution Architect in Mobile Team | SEB, Vilnius","Tech Lead / Solution Architect in Mobile Team | SEB, Vilnius",Vilnius,€ 4350 – 6550,4350.0,6550.0,5450.0,2200.0,Senior/Lead Position,Senior,50.57471264367817
+"DevOps specialist seeking new digital challenges | SEB, Vilnius","DevOps specialist seeking new digital challenges | SEB, Vilnius",Vilnius,€ 2850 – 4250,2850.0,4250.0,3550.0,1400.0,DevOps,Not Specified,49.122807017543856
+.NET Programuotojas (-a),.NET Programuotojas (-a),Alytus,€ 3300 – 3600,3300.0,3600.0,3450.0,300.0,Software Developer,Not Specified,9.090909090909092
+IT projektų vadovas – veiklos procesų analitikas,IT projektų vadovas – veiklos procesų analitikas,Kaunas,€ 3500 – 5000,3500.0,5000.0,4250.0,1500.0,Data Analyst,Not Specified,42.857142857142854
+Tinklo inžinierius (-ė),Tinklo inžinierius (-ė),Kaunas,€ 2600 – 2925,2600.0,2925.0,2762.5,325.0,Other,Not Specified,12.5
+Backbase Java Developer,Backbase Java Developer,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Not Specified,50.0
+AI Engineer,AI Engineer,Vilnius / Remote,€ 2400 – 4000,2400.0,4000.0,3200.0,1600.0,Data Scientist,Not Specified,66.66666666666666
+Senior Technical Project Manager,Senior Technical Project Manager,Vilnius,€ 3600 – 4100,3600.0,4100.0,3850.0,500.0,Project Manager,Senior,13.88888888888889
+IT PROJECT PORTFOLIO ANALYST (F/M/D),IT PROJECT PORTFOLIO ANALYST (F/M/D),Vilnius,€ 3757 – 5635,3757.0,5635.0,4696.0,1878.0,Other,Not Specified,49.986691509182855
+SENIOR IT PROJECT MANAGER (F/M/D) (INFRASTRUCTURE),SENIOR IT PROJECT MANAGER (F/M/D) (INFRASTRUCTURE),Vilnius,€ 3757 – 5635,3757.0,5635.0,4696.0,1878.0,Project Manager,Senior,49.986691509182855
+IT paslaugų produktų vadovė (-as),IT paslaugų produktų vadovė (-as),Vilnius,€ 3400 – 4000,3400.0,4000.0,3700.0,600.0,Other,Not Specified,17.647058823529413
+Senior Data Engineer,Senior Data Engineer,Vilnius,€ 4000 – 5500,4000.0,5500.0,4750.0,1500.0,Data Engineer,Senior,37.5
+IS specialistas (-ė),IS specialistas (-ė),Vilnius,€ 2900 – 3100,2900.0,3100.0,3000.0,200.0,Other,Not Specified,6.896551724137931
+Duomenų analitikas (-ė),Duomenų analitikas (-ė),Vilnius / Remote,€ 2339 – 2928,2339.0,2928.0,2633.5,589.0,Data Analyst,Not Specified,25.181701581872595
+STAŽUOTOJA (-AS) DUOMENŲ ANALITIKOS SKYRIUJE,STAŽUOTOJA (-AS) DUOMENŲ ANALITIKOS SKYRIUJE,Vilnius,€ 1076 – 1614,1076.0,1614.0,1345.0,538.0,Data Analyst,Junior,50.0
+Kompiuterinių darbo vietų administratorius (-ė) Informacinių technologijų paslaugų centre,Kompiuterinių darbo vietų administratorius (-ė) Informacinių technologijų paslaugų centre,Vilnius / Remote,€ 1818 – 2340,1818.0,2340.0,2079.0,522.0,IT Support,Not Specified,28.71287128712871
+Configuration Engineer (mid/senior),Configuration Engineer (mid/senior),Kaunas / Remote,€ 3800 – 5500,3800.0,5500.0,4650.0,1700.0,Senior/Lead Position,Senior,44.73684210526316
+DevOps Engineer (mid/senior),DevOps Engineer (mid/senior),Vilnius / Remote,€ 3800 – 5700,3800.0,5700.0,4750.0,1900.0,DevOps,Senior,50.0
+Data Engineer in Finance Tribe,Data Engineer in Finance Tribe,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Data Engineer,Not Specified,50.0
+Data Solutions Architect,Data Solutions Architect,Vilnius,€ 5200 – 7800,5200.0,7800.0,6500.0,2600.0,Other,Not Specified,50.0
+Senior/Principal C++/Qt Engineer,Senior/Principal C++/Qt Engineer,Kaunas / Remote,€ 4000 – 6800,4000.0,6800.0,5400.0,2800.0,Software Developer,Senior,70.0
+Embedded Software Engineer - C/C++,Embedded Software Engineer - C/C++,Vilnius / Remote,€ 4000 – 6300,4000.0,6300.0,5150.0,2300.0,Software Developer,Not Specified,57.49999999999999
+Mid/Senior C++/Qt Engineer,Mid/Senior C++/Qt Engineer,Kauno apskritis / Remote,€ 3500 – 6300,3500.0,6300.0,4900.0,2800.0,Software Developer,Senior,80.0
+Junior .NET Software Engineer,Junior .NET Software Engineer,Vilnius,€ 2350 – 2750,2350.0,2750.0,2550.0,400.0,Software Developer,Junior,17.02127659574468
+IT sistemų specialistas (-ė),IT sistemų specialistas (-ė),Vilnius,€ 2454 – 2806,2454.0,2806.0,2630.0,352.0,Other,Not Specified,14.343928280358597
+"Programuotojas (-a) (0,5 etato) Vilniaus universiteto bibliotekoje","Programuotojas (-a) (0,5 etato) Vilniaus universiteto bibliotekoje",Vilnius,€ 1200 – 1350,1200.0,1350.0,1275.0,150.0,Software Developer,Not Specified,12.5
+Programuotojas (-a) Skaitmeninės bibliotekos skyriuje,Programuotojas (-a) Skaitmeninės bibliotekos skyriuje,Vilnius,€ 2400 – 2700,2400.0,2700.0,2550.0,300.0,Software Developer,Not Specified,12.5
+Data Engineer,Data Engineer,Vilnius,€ 3750 – 6250,3750.0,6250.0,5000.0,2500.0,Data Engineer,Not Specified,66.66666666666666
+QA Engineer,QA Engineer,Vilnius / Remote,€ 2200 – 3700,2200.0,3700.0,2950.0,1500.0,QA Engineer,Not Specified,68.18181818181817
+Experienced Full-stack Data Scientist for Behavioural Modelling Team,Experienced Full-stack Data Scientist for Behavioural Modelling Team,Vilnius,€ 4160 – 6240,4160.0,6240.0,5200.0,2080.0,Data Scientist,Not Specified,50.0
+IT verslo analitikas (-ė),IT verslo analitikas (-ė),Vilnius,€ 2900 – 3700,2900.0,3700.0,3300.0,800.0,Data Analyst,Not Specified,27.586206896551722
+IT PAGALBOS KONSULTANTAS (-Ė),IT PAGALBOS KONSULTANTAS (-Ė),Vilnius,€ 1200 – 1400,1200.0,1400.0,1300.0,200.0,IT Support,Not Specified,16.666666666666664
+"IT Security Analyst (Vulnerability Management) | SEB, Vilnius","IT Security Analyst (Vulnerability Management) | SEB, Vilnius",Vilnius,€ 2850 – 4250,2850.0,4250.0,3550.0,1400.0,Security,Not Specified,49.122807017543856
+"Information Security Manager (IAM) | SEB, Vilnius","Information Security Manager (IAM) | SEB, Vilnius",Vilnius,€ 4350 – 6550,4350.0,6550.0,5450.0,2200.0,Security,Not Specified,50.57471264367817
+"Information Security Consultant | SEB, Vilnius","Information Security Consultant | SEB, Vilnius",Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Security,Not Specified,49.31506849315068
+ServiceNow Application Developer,ServiceNow Application Developer,Vilnius,€ 3300 – 4500,3300.0,4500.0,3900.0,1200.0,Software Developer,Not Specified,36.36363636363637
+Jaunesnysis (-ioji) analitikas (-ė) Regionų kreditavimo skyriuje,Jaunesnysis (-ioji) analitikas (-ė) Regionų kreditavimo skyriuje,Vilnius / Remote,€ 1670 – 2500,1670.0,2500.0,2085.0,830.0,Data Analyst,Not Specified,49.700598802395206
+Data Scientist,Data Scientist,Vilnius / Remote,€ 3500 – 4500,3500.0,4500.0,4000.0,1000.0,Data Scientist,Not Specified,28.57142857142857
+System (Azure) Administrator,System (Azure) Administrator,Kaunas,€ 4132.24 – 4462.8,4132.24,4462.8,4297.52,330.5600000000004,IT Support,Not Specified,7.999535360966458
+Back-End Software developer (Java),Back-End Software developer (Java),Kaunas,€ 4600 – 5500,4600.0,5500.0,5050.0,900.0,Software Developer,Not Specified,19.565217391304348
+DevOps Engineer,DevOps Engineer,Kaunas,€ 4600 – 5500,4600.0,5500.0,5050.0,900.0,DevOps,Not Specified,19.565217391304348
+Product Owner,Product Owner,Kaunas,€ 3500 – 5000,3500.0,5000.0,4250.0,1500.0,Product Owner,Not Specified,42.857142857142854
+Mid Level C++ Software Engineer,Mid Level C++ Software Engineer,Vilnius,€ 3800 – 5000,3800.0,5000.0,4400.0,1200.0,Software Developer,Mid,31.57894736842105
+FP&A Business Partner,FP&A Business Partner,Vilnius,€ 3300 – 4500,3300.0,4500.0,3900.0,1200.0,Other,Not Specified,36.36363636363637
+Senior Software Engineer (Front-end) in AML Review Tribe,Senior Software Engineer (Front-end) in AML Review Tribe,Vilnius,€ 4320 – 6480,4320.0,6480.0,5400.0,2160.0,Software Developer,Senior,50.0
+Software Engineer (Cloud Specialist) in AML Review Tribe,Software Engineer (Cloud Specialist) in AML Review Tribe,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Software Developer,Not Specified,50.0
+"Automation test analyst in Trade Finance | SEB, Vilnius","Automation test analyst in Trade Finance | SEB, Vilnius",Vilnius,€ 2850 – 4250,2850.0,4250.0,3550.0,1400.0,QA Engineer,Not Specified,49.122807017543856
+IT PROJECT MANAGER – INFRASTRUCTURE TRANSFORMATION PROJECTS,IT PROJECT MANAGER – INFRASTRUCTURE TRANSFORMATION PROJECTS,Vilnius / Remote,€ 3900 – 5400,3900.0,5400.0,4650.0,1500.0,Project Manager,Not Specified,38.46153846153847
+PHP programuotojas (-a),PHP programuotojas (-a),Vilnius,€ 2000 – 2800,2000.0,2800.0,2400.0,800.0,Software Developer,Not Specified,40.0
+OPERATIONAL TECHNOLOGY SYSTEM ADMINISTRATOR (OTSA) (F/M/D) | IGNITIS RENEWABLES,OPERATIONAL TECHNOLOGY SYSTEM ADMINISTRATOR (OTSA) (F/M/D) | IGNITIS RENEWABLES,Vilnius,€ 2401 – 3602,2401.0,3602.0,3001.5,1201.0,IT Support,Not Specified,50.020824656393174
+Darbo užmokesčio sistemų diegimo projektų konsultantas (-ė),Darbo užmokesčio sistemų diegimo projektų konsultantas (-ė),Vilnius / Remote,€ 2300 – 3400,2300.0,3400.0,2850.0,1100.0,Other,Not Specified,47.82608695652174
+Junior Digital Marketing Manager,Junior Digital Marketing Manager,Vilnius / Remote,€ 1800 – 2300,1800.0,2300.0,2050.0,500.0,Other,Junior,27.77777777777778
+Intermediate Digital Marketing Manager,Intermediate Digital Marketing Manager,Vilnius / Remote,€ 2400 – 3000,2400.0,3000.0,2700.0,600.0,Other,Mid,25.0
+.NET Backend Developer in Everyday Banking Domain,.NET Backend Developer in Everyday Banking Domain,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Software Developer,Not Specified,50.0
+Buhalterinės apskaitos modulio IT produkto vadovas (-ė),Buhalterinės apskaitos modulio IT produkto vadovas (-ė),Vilnius / Remote,€ 3000 – 4000,3000.0,4000.0,3500.0,1000.0,Product Owner,Not Specified,33.33333333333333
+MS Dynamics 365 Business Central jaunesnysis programuotojas (-a),MS Dynamics 365 Business Central jaunesnysis programuotojas (-a),Vilnius / Remote,€ 1600 – 2500,1600.0,2500.0,2050.0,900.0,Software Developer,Not Specified,56.25
+Senior Data Analyst,Senior Data Analyst,Vilnius,€ 4000 – 5200,4000.0,5200.0,4600.0,1200.0,Data Analyst,Senior,30.0
+"Mid/Senior Site Reliability Engineer with passion for innovation | SEB, Vilnius","Mid/Senior Site Reliability Engineer with passion for innovation | SEB, Vilnius",Vilnius,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,DevOps,Senior,91.22807017543859
+"Mid/Senior Site Reliability Engineer with passion for innovation | SEB, Kaunas","Mid/Senior Site Reliability Engineer with passion for innovation | SEB, Kaunas",Kaunas,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,DevOps,Senior,91.22807017543859
+Junior Data Analyst,Junior Data Analyst,Vilnius,€ 2000 – 2500,2000.0,2500.0,2250.0,500.0,Data Analyst,Junior,25.0
+Embedded Developer,Embedded Developer,Vilnius,€ 4000 – 6000,4000.0,6000.0,5000.0,2000.0,Software Developer,Not Specified,50.0
+.NET Software Engineer in Customer Communication and Channels,.NET Software Engineer in Customer Communication and Channels,Vilnius,€ 3480 – 5220,3480.0,5220.0,4350.0,1740.0,Software Developer,Not Specified,50.0
+CISO,CISO,Vilnius / Remote,€ 5300 – 7800,5300.0,7800.0,6550.0,2500.0,Security,Not Specified,47.16981132075472
+Administratorius (-ė),Administratorius (-ė),Kaunas,€ 6 – 8/h,960.0,1280.0,1120.0,2.0,IT Support,Not Specified,0.20833333333333334
+IT inžinierius (-ė) MS Windows infrastruktūros valdymui ir administravimui,IT inžinierius (-ė) MS Windows infrastruktūros valdymui ir administravimui,Vilnius,€ 3300 – 3500,3300.0,3500.0,3400.0,200.0,Other,Not Specified,6.0606060606060606
+IT tinklų administratorius (-ė),IT tinklų administratorius (-ė),Vilnius / Remote,€ 3500 – 4100,3500.0,4100.0,3800.0,600.0,IT Support,Not Specified,17.142857142857142
+Senior Capacity Building Expert,Senior Capacity Building Expert,Vilnius / Remote,€ 4500 – 5500,4500.0,5500.0,5000.0,1000.0,Senior/Lead Position,Senior,22.22222222222222
+Technical Support Specialist (French),Technical Support Specialist (French),Vilnius / Remote,€ 2200 – 2700,2200.0,2700.0,2450.0,500.0,IT Support,Not Specified,22.727272727272727
+IT sistemų analitikas (-ė),IT sistemų analitikas (-ė),Vilnius,€ 1800 – 3300,1800.0,3300.0,2550.0,1500.0,Data Analyst,Not Specified,83.33333333333334
+Data Quality Engineer,Data Quality Engineer,Vilnius,€ 2000 – 3333,2000.0,3333.0,2666.5,1333.0,QA Engineer,Not Specified,66.64999999999999
+Senior Java Developer for Credit Journey Tribe,Senior Java Developer for Credit Journey Tribe,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Senior,50.0
+Senior .NET Engineer in Financial Crime Lifecycle Management Tribe,Senior .NET Engineer in Financial Crime Lifecycle Management Tribe,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Senior,50.0
+"Java/ Angular Software Developer at Financing & Loans Tribe | SEB, Vilnius","Java/ Angular Software Developer at Financing & Loans Tribe | SEB, Vilnius",Vilnius,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,Software Developer,Not Specified,91.22807017543859
+Produktų vadovas (-ė),Produktų vadovas (-ė),Vilnius / Remote,€ 2800 – 3400,2800.0,3400.0,3100.0,600.0,Other,Not Specified,21.428571428571427
+Senior Systems Engineer - Virtualization,Senior Systems Engineer - Virtualization,Vilnius,€ 4200 – 6700,4200.0,6700.0,5450.0,2500.0,Senior/Lead Position,Senior,59.523809523809526
+Senior Systems Engineer - Linux,Senior Systems Engineer - Linux,Vilnius,€ 4200 – 6700,4200.0,6700.0,5450.0,2500.0,Senior/Lead Position,Senior,59.523809523809526
+Software QA Engineer (manual),Software QA Engineer (manual),Vilnius,€ 2500 – 3000,2500.0,3000.0,2750.0,500.0,QA Engineer,Not Specified,20.0
+"Programinės įrangos inžinierius (-ė) .NET, C#","Programinės įrangos inžinierius (-ė) .NET, C#",Vilnius,€ 3000 – 3600,3000.0,3600.0,3300.0,600.0,Software Developer,Not Specified,20.0
+AML specialist,AML specialist,Vilnius / Remote,€ 1900 – 2500,1900.0,2500.0,2200.0,600.0,Other,Not Specified,31.57894736842105
+Senior Data Analyst,Senior Data Analyst,Vilnius,€ 2900 – 3500,2900.0,3500.0,3200.0,600.0,Data Analyst,Senior,20.689655172413794
+Data Analyst,Data Analyst,Vilnius,€ 2300 – 2800,2300.0,2800.0,2550.0,500.0,Data Analyst,Not Specified,21.73913043478261
+"Senior Dynamics 365 and Power Platform Solution Developer | SEB, Vilnius","Senior Dynamics 365 and Power Platform Solution Developer | SEB, Vilnius",Vilnius,€ 4350 – 6300,4350.0,6300.0,5325.0,1950.0,Software Developer,Senior,44.827586206896555
+IT Security Analyst | SEB Vilnius,IT Security Analyst | SEB Vilnius,Vilnius,€ 3000 – 4500,3000.0,4500.0,3750.0,1500.0,Security,Not Specified,50.0
+IT Business Analyst,IT Business Analyst,Vilnius / Remote,€ 2500 – 3500,2500.0,3500.0,3000.0,1000.0,Business Analyst,Not Specified,40.0
+Senior/Lead Machine Learning Engineer,Senior/Lead Machine Learning Engineer,Vilnius,€ 6000 – 7500,6000.0,7500.0,6750.0,1500.0,Data Scientist,Senior,25.0
+Web designer (Figma),Web designer (Figma),Vilnius,€ 5 – 8.8/h,800.0,1408.0,1104.0,3.8000000000000007,Other,Not Specified,0.4750000000000001
+"Front-end developer (React, Vue)","Front-end developer (React, Vue)",Vilnius,€ 5 – 8.8/h,800.0,1408.0,1104.0,3.8000000000000007,Software Developer,Not Specified,0.4750000000000001
+.NET Developer for Idella team,.NET Developer for Idella team,Vilnius / Remote,€ 2800 – 4600,2800.0,4600.0,3700.0,1800.0,Software Developer,Not Specified,64.28571428571429
+IT projektų vadovė (-as) - Informacinių technologijų ir telekomunikacijų centras,IT projektų vadovė (-as) - Informacinių technologijų ir telekomunikacijų centras,Vilnius,€ 4000 – 5000,4000.0,5000.0,4500.0,1000.0,Project Manager,Not Specified,25.0
+Projektų vadovas(-ė) verslo valdymo sistemų diegime,Projektų vadovas(-ė) verslo valdymo sistemų diegime,Vilnius / Remote,€ 2600 – 4000,2600.0,4000.0,3300.0,1400.0,Project Manager,Not Specified,53.84615384615385
+IT system architect (Java),IT system architect (Java),Vilnius,€ 5000 – 5700,5000.0,5700.0,5350.0,700.0,Software Developer,Not Specified,14.000000000000002
+Senior Java developer,Senior Java developer,Vilnius,€ 3800 – 5200,3800.0,5200.0,4500.0,1400.0,Software Developer,Senior,36.84210526315789
+IOS Developer,IOS Developer,Vilnius,€ 8.5 – 14/h,1360.0,2240.0,1800.0,5.5,Software Developer,Not Specified,0.4044117647058824
+Senior backend Oracle PL/SQL developer,Senior backend Oracle PL/SQL developer,Vilnius,€ 3800 – 5200,3800.0,5200.0,4500.0,1400.0,Software Developer,Senior,36.84210526315789
+IT system architect (Oracle),IT system architect (Oracle),Vilnius,€ 5000 – 5700,5000.0,5700.0,5350.0,700.0,Other,Not Specified,14.000000000000002
+KOMPIUTERIZUOTŲ DARBO VIETŲ PRIEŽIŪROS INŽINIERĖ (-IUS),KOMPIUTERIZUOTŲ DARBO VIETŲ PRIEŽIŪROS INŽINIERĖ (-IUS),Vilnius,€ 1755 – 2632,1755.0,2632.0,2193.5,877.0,Other,Not Specified,49.97150997150997
+.NET Software Engineer in Customer Engagement Individuals,.NET Software Engineer in Customer Engagement Individuals,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Software Developer,Not Specified,50.0
+Chapter Lead for Business and Functional Specialist (Business Analyst),Chapter Lead for Business and Functional Specialist (Business Analyst),Vilnius,€ 3920 – 5880,3920.0,5880.0,4900.0,1960.0,Business Analyst,Senior,50.0
+"SAS Developer | SEB, Vilnius","SAS Developer | SEB, Vilnius",Vilnius,€ 2850 – 4250,2850.0,4250.0,3550.0,1400.0,Software Developer,Not Specified,49.122807017543856
+Data Engineer in Data Quality Team,Data Engineer in Data Quality Team,Vilnius,€ 3440 – 5160,3440.0,5160.0,4300.0,1720.0,Data Engineer,Not Specified,50.0
+Data Engineer in Finance Tribe,Data Engineer in Finance Tribe,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Data Engineer,Not Specified,50.0
+Senior Data Engineer in Finance Tribe,Senior Data Engineer in Finance Tribe,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Data Engineer,Senior,50.0
+Java Developer for Welcoming and Orchestration Tribe,Java Developer for Welcoming and Orchestration Tribe,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Software Developer,Not Specified,50.0
+Senior Java Developer in Payment Execution Team,Senior Java Developer in Payment Execution Team,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Senior,50.0
+Chief .NET Software Engineer in Everyday Banking Individuals Tribe,Chief .NET Software Engineer in Everyday Banking Individuals Tribe,Vilnius,€ 5440 – 8160,5440.0,8160.0,6800.0,2720.0,Software Developer,Senior,50.0
+POWER PLATFORM DEVELOPER (F/M/D),POWER PLATFORM DEVELOPER (F/M/D),Vilnius,€ 3121 – 4683,3121.0,4683.0,3902.0,1562.0,Software Developer,Not Specified,50.04806151874399
+SENIOR POWER PLATFORM DEVELOPER (F/M/D),SENIOR POWER PLATFORM DEVELOPER (F/M/D),Vilnius,€ 3466 – 5199,3466.0,5199.0,4332.5,1733.0,Software Developer,Senior,50.0
+Business Analyst,Business Analyst,Vilnius / Remote,€ 3300 – 3650,3300.0,3650.0,3475.0,350.0,Business Analyst,Not Specified,10.606060606060606
+Mainframe Engineer in Finance Tribe,Mainframe Engineer in Finance Tribe,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Other,Not Specified,50.0
+"Full Stack Developer in Credit & Capital tribe | SEB, Vilnius","Full Stack Developer in Credit & Capital tribe | SEB, Vilnius",Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Software Developer,Not Specified,49.31506849315068
+Senior Software Engineer (Mainframe) in Credit Journey Tribe,Senior Software Engineer (Mainframe) in Credit Journey Tribe,Vilnius,€ 4640 – 6960,4640.0,6960.0,5800.0,2320.0,Software Developer,Senior,50.0
+DevOps Engineer for Journey Automation Team,DevOps Engineer for Journey Automation Team,Vilnius,€ 4640 – 6960,4640.0,6960.0,5800.0,2320.0,DevOps,Not Specified,50.0
+DATA HUB IT TESTUOTOJA (-AS) / QA TESTER,DATA HUB IT TESTUOTOJA (-AS) / QA TESTER,Vilnius,€ 2240 – 3361,2240.0,3361.0,2800.5,1121.0,Data Engineer,Not Specified,50.04464285714286
+Senior SAS Platform Engineer,Senior SAS Platform Engineer,Vilnius,€ 4160 – 6240,4160.0,6240.0,5200.0,2080.0,DevOps,Senior,50.0
+Senior .NET Software Engineer in Housing Journeys Tribe,Senior .NET Software Engineer in Housing Journeys Tribe,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Senior,50.0
+IT LICENSE ADMINISTRATOR (F/M/D),IT LICENSE ADMINISTRATOR (F/M/D),Vilnius,€ 2379 – 3568,2379.0,3568.0,2973.5,1189.0,IT Support,Not Specified,49.97898276586801
+"Senior Business Analyst, Digital Signing solutions (Maternity Cover)","Senior Business Analyst, Digital Signing solutions (Maternity Cover)",Vilnius,€ 3600 – 5400,3600.0,5400.0,4500.0,1800.0,Business Analyst,Senior,50.0
+Chapter lead in Credit Journey Tribe,Chapter lead in Credit Journey Tribe,Vilnius,€ 5200 – 7800,5200.0,7800.0,6500.0,2600.0,Senior/Lead Position,Senior,50.0
+Senior Business Analyst in End User Services – GenAI services,Senior Business Analyst in End User Services – GenAI services,Vilnius,€ 3600 – 5400,3600.0,5400.0,4500.0,1800.0,Business Analyst,Senior,50.0
+DATA ENGINEER (F/M/D),DATA ENGINEER (F/M/D),Vilnius,€ 3121 – 4683,3121.0,4683.0,3902.0,1562.0,Data Engineer,Not Specified,50.04806151874399
+Java Chapter Lead in Credit Journey Tribe,Java Chapter Lead in Credit Journey Tribe,Vilnius,€ 5200 – 7800,5200.0,7800.0,6500.0,2600.0,Software Developer,Senior,50.0
+Full - Stack Developer,Full - Stack Developer,Vilnius / Remote,€ 3400 – 4000,3400.0,4000.0,3700.0,600.0,Software Developer,Not Specified,17.647058823529413
+DATA ENGINEER (F/M/D),DATA ENGINEER (F/M/D),Vilnius,€ 3121 – 4683,3121.0,4683.0,3902.0,1562.0,Data Engineer,Not Specified,50.04806151874399
+DATA ENGINEER (F/M/D),DATA ENGINEER (F/M/D),Vilnius,€ 3121 – 4683,3121.0,4683.0,3902.0,1562.0,Data Engineer,Not Specified,50.04806151874399
+Data Engineer,Data Engineer,Vilnius / Remote,€ 3500 – 4500,3500.0,4500.0,4000.0,1000.0,Data Engineer,Not Specified,28.57142857142857
+DATA ENGINEER (F/M/D),DATA ENGINEER (F/M/D),Vilnius,€ 3121 – 4683,3121.0,4683.0,3902.0,1562.0,Data Engineer,Not Specified,50.04806151874399
+Software Engineer (Java) in Core Payments Tribe,Software Engineer (Java) in Core Payments Tribe,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Software Developer,Not Specified,50.0
+IT Software Architect,IT Software Architect,Vilnius,€ 5040 – 7560,5040.0,7560.0,6300.0,2520.0,Other,Not Specified,50.0
+Senior DevOps Engineer,Senior DevOps Engineer,Vilnius,€ 4640 – 6960,4640.0,6960.0,5800.0,2320.0,DevOps,Senior,50.0
+Senior Java Engineer for Market Data Squad,Senior Java Engineer for Market Data Squad,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Senior,50.0
+IT TEAM/DELIVERY MANAGER (F/M/D),IT TEAM/DELIVERY MANAGER (F/M/D),Vilnius,€ 4247 – 6370,4247.0,6370.0,5308.5,2123.0,Other,Not Specified,49.988226983753236
+IT Network Engineer,IT Network Engineer,Vilnius / Remote,€ 3636 – 4462,3636.0,4462.0,4049.0,826.0,Other,Not Specified,22.717271727172715
+Data Engineering Chapter Lead in Everyday Banking Individuals Tribe,Data Engineering Chapter Lead in Everyday Banking Individuals Tribe,Vilnius,€ 5200 – 7800,5200.0,7800.0,6500.0,2600.0,Data Engineer,Senior,50.0
+Senior Data Engineer in Everyday Banking Individuals Tribe,Senior Data Engineer in Everyday Banking Individuals Tribe,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Data Engineer,Senior,50.0
+"Senior Cloud Data Engineer in HR IT, Corporate Functions | SEB, Vilnius","Senior Cloud Data Engineer in HR IT, Corporate Functions | SEB, Vilnius",Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Data Engineer,Senior,49.31506849315068
+Lead Tableau and Alteryx Platform Engineer,Lead Tableau and Alteryx Platform Engineer,Vilnius,€ 4160 – 6240,4160.0,6240.0,5200.0,2080.0,DevOps,Senior,50.0
+Senior Java Developer in Credit Journey Tribe,Senior Java Developer in Credit Journey Tribe,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Senior,50.0
+Java developer in Credit Journey Tribe,Java developer in Credit Journey Tribe,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Software Developer,Not Specified,50.0
+DUOMENŲ VALDYSENOS (DATA GOVERNANCE) KOORDINATORĖ (-IUS),DUOMENŲ VALDYSENOS (DATA GOVERNANCE) KOORDINATORĖ (-IUS),Vilnius,€ 3267 – 4900,3267.0,4900.0,4083.5,1633.0,Other,Not Specified,49.984695439240895
+Onsite Support Engineer,Onsite Support Engineer,Vilnius,€ 2100 – 2500,2100.0,2500.0,2300.0,400.0,IT Support,Not Specified,19.047619047619047
+"Data Engineer to Savings Offering | SEB, Vilnius","Data Engineer to Savings Offering | SEB, Vilnius",Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Data Engineer,Not Specified,49.31506849315068
+Data Science Consultant for AI Centre of Excellence,Data Science Consultant for AI Centre of Excellence,Vilnius,€ 2680 – 4020,2680.0,4020.0,3350.0,1340.0,Other,Not Specified,50.0
+Senior .NET Software Engineer in Everyday Banking Individuals Tribe,Senior .NET Software Engineer in Everyday Banking Individuals Tribe,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Senior,50.0
+Tech Product Owner at Danica,Tech Product Owner at Danica,Vilnius,€ 3920 – 5880,3920.0,5880.0,4900.0,1960.0,Product Owner,Not Specified,50.0
+"Google Cloud Platform Engineer | SEB, Vilnius","Google Cloud Platform Engineer | SEB, Vilnius",Vilnius,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,DevOps,Not Specified,91.22807017543859
+"Google Cloud Platform Engineer | SEB, Kaunas","Google Cloud Platform Engineer | SEB, Kaunas",Kaunas,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,DevOps,Not Specified,91.22807017543859
+Data Scientist,Data Scientist,Vilnius / Remote,€ 4000 – 6612,4000.0,6612.0,5306.0,2612.0,Data Scientist,Not Specified,65.3
+HEAD OF INTEGRATIONS (F/M/D),HEAD OF INTEGRATIONS (F/M/D),Vilnius,€ 4247 – 6370,4247.0,6370.0,5308.5,2123.0,Senior/Lead Position,Senior,49.988226983753236
+.NET Engineer in Housing Journeys Tribe,.NET Engineer in Housing Journeys Tribe,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Software Developer,Not Specified,50.0
+Senior Solution Architect in Financial Crime Lifecycle Management,Senior Solution Architect in Financial Crime Lifecycle Management,Vilnius,€ 5600 – 8400,5600.0,8400.0,7000.0,2800.0,Senior/Lead Position,Senior,50.0
+"Data Engineer for Sustainable Banking| SEB, Vilnius","Data Engineer for Sustainable Banking| SEB, Vilnius",Vilnius,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,Data Engineer,Not Specified,91.22807017543859
+"Senior .NET developer | SEB, Vilnius","Senior .NET developer | SEB, Vilnius",Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Software Developer,Senior,49.31506849315068
+"DevOps Engineer for Log Infrastructure | SEB, Vilnius","DevOps Engineer for Log Infrastructure | SEB, Vilnius",Vilnius,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,DevOps,Not Specified,91.22807017543859
+Senior IT Platform Engineer,Senior IT Platform Engineer,Vilnius,€ 4160 – 6240,4160.0,6240.0,5200.0,2080.0,DevOps,Senior,50.0
+Software Engineer (Mainframe) in Core Financing Platform Tribe,Software Engineer (Mainframe) in Core Financing Platform Tribe,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Software Developer,Not Specified,50.0
+Chief .NET Engineer in Cards Domain,Chief .NET Engineer in Cards Domain,Vilnius,€ 5440 – 8160,5440.0,8160.0,6800.0,2720.0,Software Developer,Senior,50.0
+Senior .NET Engineer in Cards Domain,Senior .NET Engineer in Cards Domain,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Senior,50.0
+Senior Software Engineer (.NET) in AML Review Tribe,Senior Software Engineer (.NET) in AML Review Tribe,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Senior,50.0
+"MS SQL DBA/Database Developer | SEB, Vilnius","MS SQL DBA/Database Developer | SEB, Vilnius",Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Software Developer,Not Specified,49.31506849315068
+APPLICATION ARCHITECT (F/M/D),APPLICATION ARCHITECT (F/M/D),Vilnius / Remote,€ 4247 – 6370,4247.0,6370.0,5308.5,2123.0,Other,Not Specified,49.988226983753236
+Senior Java Developer for Welcoming and Orchestration Tribe,Senior Java Developer for Welcoming and Orchestration Tribe,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Senior,50.0
+Experienced IT Software Engineer (.NET) in Transactional Data Squad,Experienced IT Software Engineer (.NET) in Transactional Data Squad,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Not Specified,50.0
+Senior Data Scientist for Commercial Data Science CoE,Senior Data Scientist for Commercial Data Science CoE,Vilnius,€ 4160 – 6240,4160.0,6240.0,5200.0,2080.0,Data Scientist,Senior,50.0
+Associate .NET Software Engineer in Finance Tribe,Associate .NET Software Engineer in Finance Tribe,Vilnius,€ 2720 – 4080,2720.0,4080.0,3400.0,1360.0,Software Developer,Junior,50.0
+".NET Backend Developer for high quality solutions | SEB, Vilnius",".NET Backend Developer for high quality solutions | SEB, Vilnius",Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Software Developer,Not Specified,49.31506849315068
+Senior .Net Software Engineer for Risk and Compliance Tribe,Senior .Net Software Engineer for Risk and Compliance Tribe,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Senior,50.0
+JUNIOR ORACLE DEVELOPER (F/M/D),JUNIOR ORACLE DEVELOPER (F/M/D),Vilnius,€ 2532 – 3800,2532.0,3800.0,3166.0,1268.0,Software Developer,Junior,50.07898894154819
+IT Solution Architect for People Tribe,IT Solution Architect for People Tribe,Vilnius,€ 5040 – 7560,5040.0,7560.0,6300.0,2520.0,Other,Not Specified,50.0
+Engineering (.NET) Chapter Lead,Engineering (.NET) Chapter Lead,Vilnius,€ 5200 – 7800,5200.0,7800.0,6500.0,2600.0,Software Developer,Senior,50.0
+Senior .NET Software Engineer in Wealth Planning and Investments Tribe,Senior .NET Software Engineer in Wealth Planning and Investments Tribe,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Software Developer,Senior,50.0
+Chief Data Architect in Financial Crime Lifecycle Management,Chief Data Architect in Financial Crime Lifecycle Management,Vilnius,€ 6640 – 9960,6640.0,9960.0,8300.0,3320.0,Senior/Lead Position,Senior,50.0
+"Application Support specialist for Data Quality | SEB, Vilnius","Application Support specialist for Data Quality | SEB, Vilnius",Vilnius,€ 2850 – 4250,2850.0,4250.0,3550.0,1400.0,QA Engineer,Not Specified,49.122807017543856
+Chief Java Engineer,Chief Java Engineer,Vilnius,€ 5440 – 8160,5440.0,8160.0,6800.0,2720.0,Software Developer,Senior,50.0
+Senior Cloud Specialist: Kubernetes and Linux,Senior Cloud Specialist: Kubernetes and Linux,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,DevOps,Senior,50.0
+Senior Cloud Specialist: Kubernetes,Senior Cloud Specialist: Kubernetes,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,DevOps,Senior,50.0
+Java Software Engineer in Debt Management Development Tribe,Java Software Engineer in Debt Management Development Tribe,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Software Developer,Not Specified,50.0
+IT INFRASTRUKTŪROS KOMANDOS VADOVĖ (-AS),IT INFRASTRUKTŪROS KOMANDOS VADOVĖ (-AS),Vilnius,€ 3594 – 5390,3594.0,5390.0,4492.0,1796.0,Other,Not Specified,49.97217584863662
+"Java Developer for Event Driven Integration Team | SEB,Vilnius","Java Developer for Event Driven Integration Team | SEB,Vilnius",Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Software Developer,Not Specified,49.31506849315068
+IT PROJECT MANAGER (public sector),IT PROJECT MANAGER (public sector),Vilnius,€ 3300 – 5000,3300.0,5000.0,4150.0,1700.0,Project Manager,Not Specified,51.515151515151516
+Java Back-end Developer,Java Back-end Developer,Kaunas,€ 2803 – 5621,2803.0,5621.0,4212.0,2818.0,Software Developer,Not Specified,100.53514092044237
+Power platform development lead,Power platform development lead,Vilnius,€ 5500 – 6500,5500.0,6500.0,6000.0,1000.0,Senior/Lead Position,Senior,18.181818181818183
+Java Solution Developer in Liquidity Risk Team,Java Solution Developer in Liquidity Risk Team,Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Software Developer,Not Specified,49.31506849315068
+Įterptinių sistemų programuotojas (-a),Įterptinių sistemų programuotojas (-a),Vilnius,€ 3000 – 3700,3000.0,3700.0,3350.0,700.0,Software Developer,Not Specified,23.333333333333332
+"Quality, Compliance & Environment Officer","Quality, Compliance & Environment Officer",Kaunas,€ 2000 – 2500,2000.0,2500.0,2250.0,500.0,QA Engineer,Not Specified,25.0
+SAP BI Data Engineer,SAP BI Data Engineer,Vilnius,€ 3500 – 5000,3500.0,5000.0,4250.0,1500.0,Data Engineer,Not Specified,42.857142857142854
+Full Stack Developer,Full Stack Developer,Vilnius,€ 5000 – 8000,5000.0,8000.0,6500.0,3000.0,Software Developer,Not Specified,60.0
+SAP BI Data Engineer,SAP BI Data Engineer,Vilnius,€ 3500 – 5000,3500.0,5000.0,4250.0,1500.0,Data Engineer,Not Specified,42.857142857142854
+Data analyst,Data analyst,Vilnius,€ 2300 – 3300,2300.0,3300.0,2800.0,1000.0,Data Analyst,Not Specified,43.47826086956522
+Product Owner (KYC/AML),Product Owner (KYC/AML),Vilnius,€ 3500 – 6500,3500.0,6500.0,5000.0,3000.0,Product Owner,Not Specified,85.71428571428571
+Full Stack Programuotojas,Full Stack Programuotojas,Kaunas,€ 3000 – 4300,3000.0,4300.0,3650.0,1300.0,Software Developer,Not Specified,43.333333333333336
+xf
