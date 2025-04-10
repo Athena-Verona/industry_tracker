@@ -74,7 +74,7 @@ while True:
             title = "N/A"
 
         try:
-            company = job.find_element(By.CSS_SELECTOR, "a.jsx-3606875256").text.strip()
+            company = job.find_element(By.CSS_SELECTOR, "a[href*='/en/search/employer/']").text.strip()
         except:
             company = "N/A"
 
