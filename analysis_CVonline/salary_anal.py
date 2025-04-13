@@ -4,7 +4,6 @@ import seaborn as sns
 import re
 import numpy as np
 from collections import Counter
-import os
 
 #plt.style.use('ggplot')
 #sns.set_palette("viridis")
