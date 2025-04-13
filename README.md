@@ -9,3 +9,13 @@ Goals for next week
 + Define at least 3 main competitors for Baltic Amadeus
 + Using Python with different libraries, try scraping websites: Rekvizitai.lt, MeetFrank, CVbankas.lt and similiar 
 + Look into automatic scraping tools 
+# Project updates: WEEK 4
+What we have managed so far:
++ Scraping scripts for CVonline, CVbankas and Rekvizitai are done
++ Automated analysis started (in Python script form for now, using matplotlib)
++ Presentation of product pitch done
++ Still haven't decided on front-end of this tool
+Goals for next week
++ Finally decide on the analysis output (dashboard, newsletter or automated spreadsheet)
++ Write scrapers for Baltic Amadeus competitors (at least 4?)
++ Write a script that compares data in a timeline (for example last week vs current week updates)
