@@ -8,9 +8,7 @@ from collections import Counter
 #plt.style.use('ggplot')
 #sns.set_palette("viridis")
 
-def main():
-    print("Loading and analyzing job salary data...")
-    
+def main():    
     try:
         df = pd.read_csv('analysis_CVonline/cvonline_jobs.csv', delimiter=';')
         print(f"Successfully loaded data with {len(df)} job listings")
@@ -24,26 +22,19 @@ def main():
     create_visualizations(df)
     
     df.to_csv('analysis_CVonline/processed_salary_data.csv', index=False)
-    print("Analysis complete!")
 
-def clean_data(df):
-    print("Cleaning and preparing data...")
-    
+def clean_data(df):    
     df = df.copy()
     
     df['min_salary'], df['max_salary'] = zip(*df['Salary'].apply(extract_salary_range)) #PROBLEM 1!
     df['avg_salary'] = (df['min_salary'] + df['max_salary']) / 2
     df['salary_range'] = df['max_salary'] - df['min_salary']
     
-    # Remove rows with no salary info
-    original_count = len(df)
     df = df.dropna(subset=['min_salary', 'max_salary'])
-    print(f"Removed {original_count - len(df)} rows with missing salary information")
     
     # Convert hourly to monthly
     hourly_mask = df['Salary'].str.contains('/h')
     if hourly_mask.sum() > 0:
-        print(f"Converting {hourly_mask.sum()} hourly rates to monthly rates")
         df.loc[hourly_mask, 'min_salary'] = df.loc[hourly_mask, 'min_salary'] * 160
         df.loc[hourly_mask, 'max_salary'] = df.loc[hourly_mask, 'max_salary'] * 160
         df.loc[hourly_mask, 'avg_salary'] = df.loc[hourly_mask, 'avg_salary'] * 160
@@ -71,7 +62,6 @@ def extract_salary_range(salary_str):
     return pd.NA, pd.NA
 
 def categorize_jobs(df):
-    print("Categorizing job positions...")
     
     job_categories = {
         'Project Manager/Product Owner': ['project manager', 'projektų vadov', 'projektų vadov',  'product owner', 
@@ -109,15 +99,11 @@ def categorize_jobs(df):
         
         for category, keywords in job_categories.items():
             if any(keyword.lower() in title_lower for keyword in keywords):
-                return category
-        
-        # Seniority indicators
-        #if any(word in title_lower for word in ['senior', 'lead', 'head', 'chief', 'vyr']):   #COMMENTED THIS (REDUNDANT)
-        #    return 'Senior/Lead Position'                          
+                return category                      
             
         return 'Other'
     
-    # Add seniority indicator (Junior, Mid, Senior)
+    # Seniority indicator
     def detect_seniority(title):
         if pd.isna(title):
             return "Unknown"
@@ -145,12 +131,6 @@ def categorize_jobs(df):
     return df
 
 def analyze_salaries(df):
-    # Analyze salary statistics by job category
-    
-    print(f"\nOverall market statistics:")
-    print(f"  Salary range: €{df['min_salary'].min():.0f} - €{df['max_salary'].max():.0f}")
-    print(f"  Average salary: €{df['avg_salary'].mean():.0f}")
-    print(f"  Median salary: €{df['avg_salary'].median():.0f}")
     
     # Group by job category and calculate stats
     salary_stats = df.groupby('job_category').agg({
@@ -173,22 +153,22 @@ def analyze_salaries(df):
         print(f"    Typical Range: €{median_min:.0f} - €{median_max:.0f}")
         print(f"    Median Salary: €{median_avg:.0f}")
     
-    # Vyr seniority
+    # Salary by seniority
     seniority_stats = df.groupby('seniority').agg({
         'avg_salary': ['median', 'mean', 'min', 'max', 'count']
     }).sort_values(('avg_salary', 'median'))
     
     # Remove not specified for now
     seniority_stats = seniority_stats.drop(index='Not Specified', errors='ignore')
-    print("\nSalary by Seniority Level:")
+    print("\nMedian salary by Seniority Level:")
     for level in seniority_stats.index:
         count = seniority_stats.loc[level, ('avg_salary', 'count')]
         median = seniority_stats.loc[level, ('avg_salary', 'median')]
-        print(f"  {level}: €{median:.0f} (median, {int(count)} positions)") 
+        print(f"  {level}: €{median:.0f} ({int(count)} positions)") 
     
     # Find highest paying job categories
     top_categories = salary_stats.head(5).index.tolist()
-    print(f"\nTop 5 Highest Paying Job Categories (by median salary):")
+    print(f"\nTop 5 Highest Paying Job Categories:")            #(by median salary)
     for i, category in enumerate(top_categories, 1):
         median = salary_stats.loc[category, ('avg_salary', 'median')]
         print(f"  {i}. {category}: €{median:.0f}")
