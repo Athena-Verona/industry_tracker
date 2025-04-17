@@ -1,0 +1,500 @@
+Title,Company,Location,Salary,min_salary,max_salary,avg_salary,salary_range,job_category,seniority,is_it_job
+Elektrikas,UAB „Pack Klaipėda“,Klaipėda,From 1600,1600.0,,1600.0,0.0,Other,Other,False
+Gamybos darbuotojai,UAB „Electronic House“,Vilnius,1200-1600,1200.0,1600.0,1400.0,400.0,Manufacturing & Production,Other,True
+Transporto logistikos vadybininkas (-ė) darbas su autovežiais,UAB „Beljana“,Kaunas,1800-2700,1800.0,2700.0,2250.0,900.0,Sales & Customer Service,Other,True
+KOMPIUTERIŲ TECHNIKAS (-Ė) - KLIENTŲ APTARNAVIMO SPECIALISTAS (-Ė),UAB „IT DARBAI“,Vilnius,800-1100,800.0,1100.0,950.0,300.0,Sales & Customer Service,Mid,True
+PARDAVĖJAS (-A) – KONSULTANTAS (-Ė) Vieta: Vilnius ( Gariūnų verslo centras ),UAB „Teronis“,Vilnius,1800-2500,1800.0,2500.0,2150.0,700.0,Sales & Customer Service,Other,False
+"Gamybos darbuotojas (be naktinio darbo, laisvi savaitgaliai)",ARIMEX UAB,Vilnius,1520-1900,1520.0,1900.0,1710.0,380.0,Manufacturing & Production,Other,True
+Kelių statybos darbų vadovas,UAB „Road Construction“,Vilnius,2500-2800,2500.0,2800.0,2650.0,300.0,Management,Other,False
+Švaros grupės vadovas (-ė) Vilniuje,"Daily Spaces, UAB",Vilnius,1500-2500,1500.0,2500.0,2000.0,1000.0,Management,Other,False
+Pardavėja (-as) - konsultantė (-as) GUESS parduotuvėje KLAIPĖDOS AKROPOLYJE,UAB „Poldma“,Klaipėda,1100-1500,1100.0,1500.0,1300.0,400.0,Sales & Customer Service,Other,True
+STAKLININKO PADĖJĖJAS (-A) (ŠILAINIUOSE ARBA GARLIAVOJE),UAB „Trukmė“,Kaunas,1000-1100,1000.0,1100.0,1050.0,100.0,Other,Other,True
+"KONSULTANTAS (-Ė) - PARDAVĖJAS (-A) EKSPERTAS (-Ė), DAŽŲ IR PLYTELIŲ SK., OZO G. 25, VILNIUS",UAB „Ermitažas“,Vilnius,1340-1580,1340.0,1580.0,1460.0,240.0,Sales & Customer Service,Other,False
+LAIDŲ KIRPIMO OPERATORIUS (-Ė),UAB „Electronic House“,Vilnius,1200-1800,1200.0,1800.0,1500.0,600.0,Manufacturing & Production,Other,True
+Senior IT Support Specialist,AB „Volfas Engelman“,Kaunas,3000,3000.0,,3000.0,0.0,Other,Senior,True
+Autošaltkavis,UAB „Schmitz Cargobull Baltic“,Panevėžys,1200-1500,1200.0,1500.0,1350.0,300.0,Other,Other,False
+KRAUTUVO VAIRUOTOJAS (-A) ( KROVINIŲ IŠDAVIMAS),UAB SKUBA,Vilnius,1050-1170,1050.0,1170.0,1110.0,120.0,Logistics & Transport,Other,True
+Sandėlininkas (-ė),UAB „PKC Group Lithuania“,Panevėžys,1283-1508,1283.0,1508.0,1395.5,225.0,Logistics & Transport,Other,False
+PARDAVĖJA (-AS) – KONSULTANTĖ (-AS) (Japonų kosmetika ir maisto papildai),"Kristalė, UAB",Vilnius,1200,1200.0,,1200.0,0.0,Sales & Customer Service,Other,True
+Pardavėja (-as) - konsultantė (-as) „GUESS“ parduotuvėje PC Vilnius Outlet Pilaitė,UAB „Poldma“,Vilnius,1100-1500,1100.0,1500.0,1300.0,400.0,Sales & Customer Service,Other,True
+PIRKIMŲ INŽINIERIUS (-Ė),UAB „Hanner“,Vilnius,From 2500,2500.0,,2500.0,0.0,Manufacturing & Production,Other,False
+Elektromechanikas (-ė),UAB „Press Glass“,Kaunas,2200-2700,2200.0,2700.0,2450.0,500.0,Engineering,Other,False
+Transporto vadybininkas (-ė),"Carrox, UAB",Panevėžys,From 1000,1000.0,,1000.0,0.0,Sales & Customer Service,Other,False
+"Telemarketingo specialistas (-ė) , VILNIUS - Tapk pardavimų guru!",UAB „Dormeo Home“,Vilnius,1100-5000,1100.0,5000.0,3050.0,3900.0,Sales & Customer Service,Mid,False
+Aktyvių pardavimų vadybininkas (-ė) (Telematikos sprendimai),UAB „Besko LT“,Kaunas,1400-1800,1400.0,1800.0,1600.0,400.0,Sales & Customer Service,Other,True
+Pardavimų vadybininkas Tele2 salone Kaune,UAB „TELE2“,Kaunas,1200-4900,1200.0,4900.0,3050.0,3700.0,Sales & Customer Service,Other,False
+Buhalteris (-ė),UAB „Apskaita visiems“,Klaipėda,From 1500,1500.0,,1500.0,0.0,Finance & Accounting,Other,False
+Šlifuotojas (2 pamainos) (APMOKOME),UAB „Novameta“,Kaunas,1150-1440,1150.0,1440.0,1295.0,290.0,Other,Other,True
+Buhalterė (-is) (terminuota darbo sutartis),AB „Eurovia Lietuva“,Vilnius,2000-2400,2000.0,2400.0,2200.0,400.0,Finance & Accounting,Other,False
+Techninės priežiūros darbuotojas (-a),UAB „Press Glass“,Kaunas,2200-2700,2200.0,2700.0,2450.0,500.0,Maintenance,Other,True
+KLIENTŲ APTARNAVIMO IR PARDAVIMŲ SPECIALISTAS (-Ė),UAB „Elektrum Lietuva“,Panevėžys,1103-1569,1103.0,1569.0,1336.0,466.0,Sales & Customer Service,Mid,False
+PARDAVĖJA (-AS) DEIMANTŲ PARDUOTUVĖJE VILNIAUS ORO UOSTE,UAB „EX FACTORY JEWELRY“,Vilnius,1100-2000,1100.0,2000.0,1550.0,900.0,Retail,Other,False
+Vairuotojas (-a) - Sandėlininkas (-ė),UAB „LANEDA“,Vilnius,970-1050,970.0,1050.0,1010.0,80.0,Logistics & Transport,Other,True
+Statybų įmonės direktorius (-ė),„Hirelabas“ įmonių grupė,Kaunas,3500-4000,3500.0,4000.0,3750.0,500.0,Management,Other,False
+Telemarketingo specialistė (-as),UAB „Stiliaus kodas“,Klaipėda,800-3000,800.0,3000.0,1900.0,2200.0,Marketing & Communications,Mid,False
+Žaliavų sandėlininkas (-ė) (LEZ),UAB FREDA II,Kaunas,2300-2500,2300.0,2500.0,2400.0,200.0,Logistics & Transport,Other,False
+"Nesudėtingas darbas elektronikos gamyboje, patirtis nebūtina - APMOKOME! Darbų pradžia 04.28 d.",UAB „Selteka“,Kaunas,864-974,864.0,974.0,919.0,110.0,Manufacturing & Production,Other,False
+Mechanizatorius,UAB „Projektana“,Kaunas,1400-2600,1400.0,2600.0,2000.0,1200.0,Other,Other,False
+Betonuotojas,UAB „Projektana“,Kaunas,1300-2300,1300.0,2300.0,1800.0,1000.0,Other,Other,False
+STATYBOS DARBŲ VADOVAS (-Ė),UAB „Projektana“,Kaunas,1500-3000,1500.0,3000.0,2250.0,1500.0,Management,Other,False
+Saulės elektrinių montuotojų pagalbininkų,MB Esolis,Panevėžys,1000-2000,1000.0,2000.0,1500.0,1000.0,Other,Other,False
+JŪROS IR ORO TRANSPORTO PASLAUGŲ PARDAVĖJAS (-A),UAB „BALTIC FREIGHT SERVICES“,Vilnius,1700-2500,1700.0,2500.0,2100.0,800.0,Logistics & Transport,Other,False
+Siuntų skirstytojas (-a) naktinėje pamainoje (vežame į/iš darbo vietą),Venipak įmonių grupė,Kaunas,900-1400,900.0,1400.0,1150.0,500.0,Other,Other,True
+STATYBOS DARBŲ VADOVAS,UAB „Indema“,Vilnius,3000-4200,3000.0,4200.0,3600.0,1200.0,Management,Other,False
+TIESIOGINIŲ ŽAIDIMŲ VEDĖJAS (-A) (APMOKOME),UAB „TV ŽAIDIMAI“,Vilnius,900-1600,900.0,1600.0,1250.0,700.0,Other,Other,True
+Operatoriaus asistentas (-ė) PATIRTIS NEBŪTINA,UAB „FREDA“,Kaunas,1850-2300,1850.0,2300.0,2075.0,450.0,HR & Administration,Other,False
+Gamybos darbuotojas - pakuotojas (savaitgaliai laisvi),UAB „Grainmore“,Trakai,1000,1000.0,,1000.0,0.0,Manufacturing & Production,Other,True
+Prekių surinkėjas (-a) (14:00-23:00),ACME įmonių grupė,Kaunas,1735-2453,1735.0,2453.0,2094.0,718.0,Marketing & Communications,Other,False
+Vairuotojas (-a) - Ekspeditorius (-ė),UAB „Neirada“,Kaunas,1200-1400,1200.0,1400.0,1300.0,200.0,Logistics & Transport,Other,True
+Operatorius (-ė) - pardavėjas (-a),UAB „Circle K Lietuva“,Vilnius,1500-1800,1500.0,1800.0,1650.0,300.0,Manufacturing & Production,Other,False
+Lead Accounting Specialist,EY,Vilnius,2800-3500,2800.0,3500.0,3150.0,700.0,Finance & Accounting,Senior,False
+Picų kepėjas (-a),"Ringaudų picerija, MB",Kaunas,1200-1600,1200.0,1600.0,1400.0,400.0,Other,Other,False
+TECHNIKAS (-Ė),UAB „Electronic House“,Vilnius,1600-2000,1600.0,2000.0,1800.0,400.0,Engineering,Other,True
+Pardavimų projektų vadovas (-ė) (prancūzų kalba),UAB „Novameta“,Kaunas,1960-2310,1960.0,2310.0,2135.0,350.0,IT Management,Other,True
+Gamybos operatorius,UAB „GEALAN BALTIC“,Vilnius,2000-2800,2000.0,2800.0,2400.0,800.0,Manufacturing & Production,Other,False
+BIM INŽINIERIUS (-Ė),INHUS,Vilnius,2550-3150,2550.0,3150.0,2850.0,600.0,Manufacturing & Production,Other,False
+Aktyvių pardavimų vadybininkas (-ė),UAB „EHR Media“,Vilnius,1000-4150,1000.0,4150.0,2575.0,3150.0,Sales & Customer Service,Other,False
+"„APRANGOS GALERIJA“ pardavėjas (-a) - konsultantas (-ė), (0,5 - 0,75 et.), PC ""MEGA"", Kaunas",„Aprangos“ grupė,Kaunas,590-1080,590.0,1080.0,835.0,490.0,Sales & Customer Service,Other,False
+Aptarnavimo technikas (mechanikas),UAB „Lemba“,Germany,3500-6000,3500.0,6000.0,4750.0,2500.0,Engineering,Other,True
+Prekių atrinkėjas (-a) - krovėjas (-a),UAB „Signeda“,Kaunas,1478-2266,1478.0,2266.0,1872.0,788.0,Marketing & Communications,Other,False
+Prekių atrinkėjas (-a) - krovėjas (-a) slenkančiu grafiku,UAB „Signeda“,Kaunas,1501-2367,1501.0,2367.0,1934.0,866.0,Design & UI/UX,Other,True
+Restorano komandos narys (-ė),UAB „Maisto inovacijos“,Vilnius,1000-1200,1000.0,1200.0,1100.0,200.0,Food Service,Other,False
+CNC Programuotojas - Derintojas / Komandos Lyderis,UAB „Baltec CNC Technologies“,Kaunas,1800-2200,1800.0,2200.0,2000.0,400.0,Software Development,Other,True
+Linijos darbininkas (-ė),UAB „Schmitz Cargobull Baltic“,Panevėžys,From 1000,1000.0,,1000.0,0.0,Other,Other,False
+Stalius Staklininkas,UAB „VIGIDAS PACK“,Šiauliai,1100-1700,1100.0,1700.0,1400.0,600.0,Other,Other,False
+JAUNESNYSIS INŽINIERIUS - PROJEKTUOTOJAS (-Ė),UAB „ERGOVENT“,Kaunas,From 1300,1300.0,,1300.0,0.0,Manufacturing & Production,Junior,False
+Elektrokrautuvo vairuotojas,UAB „Press Glass“,Kaunas,2030-2250,2030.0,2250.0,2140.0,220.0,Logistics & Transport,Other,True
+KOKYBĖS KONTROLĖS VADOVAS (-Ė) Rail Baltica objekte,AB „Eurovia Lietuva“,Panevėžys,3000-4000,3000.0,4000.0,3500.0,1000.0,QA & Testing,Other,True
+Orlaivių struktūros remonto technikas (-ė) - mokinys (-ė) - startas gegužės 26 d. - LAISVOS APMOKAMOS VASAROS,UAB „Kaunas Aircraft Maintenance Services“,Kaunas,830-925,830.0,925.0,877.5,95.0,Engineering,Other,True
+Darbuotojas (-a) PVC langų gamyboje (Nemėžyje),UAB „Selorsa“,Vilnius,1000-1400,1000.0,1400.0,1200.0,400.0,Manufacturing & Production,Other,False
+Techninės priežiūros ir aptarnavimo skyriaus vadovas (-ė),UAB „Marx Vilnius“,Vilnius,1700-2100,1700.0,2100.0,1900.0,400.0,Management,Other,True
+GAMYBOS DARBUOTOJAS (-A) surinkimo ceche (savaitgaliai laisvi),UAB „ERGOVENT“,Kaunas,1000-1100,1000.0,1100.0,1050.0,100.0,Marketing & Communications,Other,True
+Elektrikas (-ė),UAB „BORDENA“,Kaunas,1100-1600,1100.0,1600.0,1350.0,500.0,Other,Other,False
+Dokumentų valdymo administratorė (-ius),Klaipėdos Ernesto Galvanausko profesinio mokymo centras,Klaipėda,1428-1963,1428.0,1963.0,1695.5,535.0,DevOps & Systems,Other,True
+Kupažinio cecho operatorius (-ė),UAB „Boslita“ ir Ko,Kaunas,1300-1600,1300.0,1600.0,1450.0,300.0,Manufacturing & Production,Other,False
+Operatorius - kuteruotojas,AB „Pieno žvaigždės“,Kaunas,1450-1800,1450.0,1800.0,1625.0,350.0,Manufacturing & Production,Other,False
+Pardavėjas (-a) Vilniuje (Dūkštų g.) (galimybė dirbti nepilnu etatu),UAB „Lidl Lietuva“,Vilnius,1225-1990,1225.0,1990.0,1607.5,765.0,Retail,Other,False
+INŽINIERIUS - TECHNOLOGAS,UAB „Electronic House“,Vilnius,2000-3000,2000.0,3000.0,2500.0,1000.0,Manufacturing & Production,Other,True
+Gamybos meistras,UAB „Viking Industrier“,Mažeikiai,From 1800,1800.0,,1800.0,0.0,Manufacturing & Production,Other,False
+Renginių vedėjas,MB „GOCRAZY LT“,Klaipėda,20-35,3200.0,5600.0,4400.0,15.0,Other,Other,False
+Renginių vedėjas,MB „GOCRAZY LT“,Kaunas,20-35,3200.0,5600.0,4400.0,15.0,Other,Other,False
+Renginių vedėjas,MB „GOCRAZY LT“,Vilnius,20-35,3200.0,5600.0,4400.0,15.0,Other,Other,False
+Stalius-staklininkas (-ė),SBA Grupė,Kaunas,900-1400,900.0,1400.0,1150.0,500.0,Other,Other,False
+Masažuotojas (-a) - Kineziterapeutas (-ė),Kūno tobulinimo studija,Kaunas,1200-1600,1200.0,1600.0,1400.0,400.0,Other,Other,False
+BUHALTERIS (-Ė),UAB „Bauen“,Kaunas,1200-1400,1200.0,1400.0,1300.0,200.0,Finance & Accounting,Other,False
+"IEŠKOME KORTŲ ŽAIDIMŲ VEDĖJŲ KAUNE (0,5-1 ETATU) - PRISIJUNK IR GAUK 100 EUR BONUSĄ",UAB „Evolution Lithuania“,Kaunas,7.40-15.75,1184.0,2520.0,1852.0,8.35,Other,Other,True
+"IEŠKOME KORTŲ MAIŠYTOJŲ KAUNE - CV NEREIKIA (0,5-1 ETATU) - PRISIJUNK IR GAUK 100 EUR BONUSĄ",UAB „Evolution Lithuania“,Kaunas,7.40-11.60,1184.0,1856.0,1520.0,4.199999999999999,Other,Other,True
+"IEŠKOME KORTŲ ŽAIDIMŲ VEDĖJŲ KAUNE (0,5-1 ETATU) - PRISIJUNK IR GAUK 100 EUR BONUSĄ",UAB „Evolution Lithuania“,Kaunas,830-1600,830.0,1600.0,1215.0,770.0,Other,Other,True
+Darbas liftų montuotojams Danijoje,UAB „Litpersona LT“,Denmark,3000-3400,3000.0,3400.0,3200.0,400.0,Other,Other,False
+MECHANIKAS (-Ė) - TECHNIKAS (-Ė),UAB „Techvitas“,Kaunas,1200-2200,1200.0,2200.0,1700.0,1000.0,Engineering,Other,True
+Autokrautuvo vairuotojas (-a),SBA Grupė,Klaipėda,950-1200,950.0,1200.0,1075.0,250.0,Logistics & Transport,Other,True
+Pakuotojas (-a) BE PATIRTIES APMOKOME,UAB „FREDA“,Kaunas,1850-2400,1850.0,2400.0,2125.0,550.0,Other,Other,False
+"Operatoriaus asistentas (-ė) - patirtis nebūtina, APMOKOME!",UAB FREDA II,Kaunas,1750-2200,1750.0,2200.0,1975.0,450.0,HR & Administration,Other,False
+Panama Food Garden ieško Padavėjo (-os),UAB „Raudonas šuo“,Vilnius,5-7,800.0,1120.0,960.0,2.0,Food Service,Other,False
+Stiklo plastiko formuotojas,UAB „RONIKA“,Kaunas,1100,1100.0,,1100.0,0.0,Other,Other,False
+Preso operatorius (-ė),UAB „BORDENA“,Kaunas,1400-1900,1400.0,1900.0,1650.0,500.0,Manufacturing & Production,Other,False
+Klientų aptarnavimo specialistė (-as),UAB „Schenker“,Vilnius,1200-1400,1200.0,1400.0,1300.0,200.0,Sales & Customer Service,Mid,False
+Prekių surinkėjas (-a) - Vokietijoje (TINKA POROMS),MB „Worknos“,Germany,1800-2500,1800.0,2500.0,2150.0,700.0,Marketing & Communications,Other,False
+"Kurjeris (-ė), Kaunas, Hyper Maxima",UAB „Barbora“,Kaunas,1100-1400,1100.0,1400.0,1250.0,300.0,Logistics & Transport,Other,False
+Stabilus darbas gamyboje - rinkis tai kas Tau tinka!,UAB „Advantus“,Kaunas,1200-1770,1200.0,1770.0,1485.0,570.0,Marketing & Communications,Other,True
+"Aptarnaujantis personalas ""Hesburger""",HESBURGER,Kaunas,7.20-7.70,1152.0,1232.0,1192.0,0.5,HR & Administration,Other,False
+Mobiliųjų telefonų - kompiuterių specialistas,UAB „ELITELA“,Ukmergė,900-1500,900.0,1500.0,1200.0,600.0,Mobile Development,Mid,True
+Prisijunk prie fantastiškos INTERACTIVE studios žaidimų vedėjų komandos Klaipėdoje!,UAB „SP STUDIO“,Klaipėda,6.36-24.81,1017.6,3969.6,2493.6,18.45,Mobile Development,Other,True
+❗️Pamainos vadovas (-ė),UAB „BORDENA“,Kaunas,1400-1799,1400.0,1799.0,1599.5,399.0,Management,Other,True
+Jaunesnioji kokybės kontrolierė (-ius),UAB „Global Snus“,Vilnius,1000-2000,1000.0,2000.0,1500.0,1000.0,QA & Testing,Other,True
+GAMYBOS APSKAITININKO (-ĖS),AB „Klaipėdos pienas“,Klaipėda,950-1000,950.0,1000.0,975.0,50.0,Finance & Accounting,Other,True
+"Vairuotojas (-a) - ekspeditorius (-ė) (B kategorija), Vilniaus mieste",UAB „OK transportas“,Vilnius,1200-1600,1200.0,1600.0,1400.0,400.0,Logistics & Transport,Other,True
+ĮRENGIMŲ TECHNIKAS (-Ė) GALI BŪTI STUDENTAS (darbas VILKIJOJE),ECOWOOD GROUP,Kaunas,1200-1400,1200.0,1400.0,1300.0,200.0,Engineering,Other,True
+AUTOMATIZUOTOS GAMYBOS LINIJOS OPERATORIUS (-Ė) (darbas slenkančiu grafiku),UAB „Littelfuse LT“,Kaunas,1100-1300,1100.0,1300.0,1200.0,200.0,Design & UI/UX,Other,True
+Regulatory Compliance Consultant,EY,Vilnius,1800-2600,1800.0,2600.0,2200.0,800.0,Other,Other,False
+Sandėlininkas (-ė),UAB „Hautica“,Kaunas,9.59,1534.4,245504.0,1534.4,0.0,Logistics & Transport,Other,False
+Mobiliųjų telefonų - kompiuterių specialistas,UAB „ELITELA“,Vilnius,1100-1700,1100.0,1700.0,1400.0,600.0,Mobile Development,Mid,True
+Co-living administratorė (-ius),"Atlas Living, UAB",Vilnius,1200,1200.0,,1200.0,0.0,DevOps & Systems,Other,True
+Automatikų komandos lyderis (-ė),UAB „FREDA“,Kaunas,3500-4500,3500.0,4500.0,4000.0,1000.0,Other,Other,False
+Operatorius - technikas,UAB „Mondelez Lietuva Production“,Kaunas,2500,2500.0,,2500.0,0.0,Manufacturing & Production,Other,True
+Kelių meistras / Darbų vadovas,UAB „Miesto Inžineriniai Sprendimai“,Vilnius,2000-2500,2000.0,2500.0,2250.0,500.0,Management,Other,False
+Stiklo konstrukcijų montuotojas,UAB „WSG Projektai“,Kaunas,1000-1400,1000.0,1400.0,1200.0,400.0,Other,Other,False
+PROJEKTŲ KOORDINATORĖ (-IUS),UAB „EMC Projects“,Vilnius,2100-2630,2100.0,2630.0,2365.0,530.0,Other,Other,False
+KOKYBĖS INŽINIERIUS (-Ė),UAB „Simna“,Vilnius,2200-3500,2200.0,3500.0,2850.0,1300.0,QA & Testing,Other,True
+Verslo analitikų grupės komandos vadovas (-ė),ADB „Compensa Vienna Insurance Group“,Vilnius,3500-5000,3500.0,5000.0,4250.0,1500.0,IT Management,Other,True
+SANDĖLININKAS (-Ė) ŠLAITUVOJE,AB „Kauno grūdai“,Prienai,1100,1100.0,,1100.0,0.0,Logistics & Transport,Other,True
+"Sandėlio pagalbinis (-ė) darbuotojas (-a), Aukštieji Paneriai","EVRC, UAB",Vilnius,1058,1058.0,,1058.0,0.0,Logistics & Transport,Other,True
+KLIENTŲ APTARNAVIMO SPECIALISTAS (-Ė) KAUNE arba VILNIUJE,UAB „Raben Lietuva“,Kaunas,1700,1700.0,,1700.0,0.0,Sales & Customer Service,Mid,False
+Ekspedicijos grupės vadovas (-ės),UAB „Manvesta“,Vilnius,3305-4135,3305.0,4135.0,3720.0,830.0,Management,Other,False
+Gamybos darbuotojai (-os)! Terminuota darbo sutartis!,UAB „Domus Decora Group“,Kaunas,1106-1304,1106.0,1304.0,1205.0,198.0,Manufacturing & Production,Other,True
+Kelio darbininkas,UAB „Kauno keliai“,Kaunas,1200-1700,1200.0,1700.0,1450.0,500.0,Other,Other,False
+ELEKTRIKAS - AUTOMATIKAS ŠVEDIJOJE (Išvykimas 05.17),UAB „Elviva“,Sweden,From 3000,3000.0,,3000.0,0.0,Other,Other,False
+DIREKTORIUS (-Ė),Company name is hidden,Vilnius,3000-3500,3000.0,3500.0,3250.0,500.0,Management,Other,False
+Personalo vadybininkė (-as),UAB „Dussmann Service“,Vilnius,1000-1500,1000.0,1500.0,1250.0,500.0,Sales & Customer Service,Other,False
+Betonvežio vairuotojas,"Heidelberg Materials Lietuva Betonas, UAB",Kaunas,1300-2000,1300.0,2000.0,1650.0,700.0,Logistics & Transport,Other,True
+Gamybos operatorius (-ė),UAB „GLASSBEL BALTIC“,Klaipėda,1000-1400,1000.0,1400.0,1200.0,400.0,Manufacturing & Production,Other,False
+Darbuotojų saugos ir sveikatos specialistas / specialistė,AB Lietuvos oro uostai,Kaunas,2500-3000,2500.0,3000.0,2750.0,500.0,Security,Mid,True
+Container Conversion Specialist / Builder,"Boxrent, UAB",Vilnius,2400-4200,2400.0,4200.0,3300.0,1800.0,Design & UI/UX,Mid,True
+"Sandėlio darbuotojas (-a) parduotuvėje, Vilniuje (PC ""CUP"")",UAB „Pigu“,Vilnius,850-950,850.0,950.0,900.0,100.0,Logistics & Transport,Other,False
+Serviso padalinio vadovas (-ė) Kaune,UAB „Axioma servisas“,Kaunas,5000-5400,5000.0,5400.0,5200.0,400.0,Management,Other,False
+Pradinių klasių mokytoja (-as),UAB „Erudito licėjus“,Kaunas,2100-2500,2100.0,2500.0,2300.0,400.0,Education,Other,False
+Junior Customer Care Specialist (Night Shifts),Girteka įmonių grupė,Vilnius,1470-1840,1470.0,1840.0,1655.0,370.0,Sales & Customer Service,Junior,False
+Krovėjas (-a) Kaune (Juozapavičiaus pr.),UAB „Lidl Lietuva“,Kaunas,1135-1850,1135.0,1850.0,1492.5,715.0,Other,Other,False
+Talent Acquisition - Vice President,Citco Group of Companies,Vilnius,4000-5000,4000.0,5000.0,4500.0,1000.0,Design & UI/UX,Other,True
+"Pardavėjas (-a) - konsultantas (-ė), pilnas etatas, (Vynoteka, Lietuvininkų g. 68 A, Šilutė)",UAB „Gelsva“,Šilutė,1040-1200,1040.0,1200.0,1120.0,160.0,Sales & Customer Service,Other,False
+Telekomunikacinių tinklų statybos vadovas Vokietijoje,EILE GmbH,Germany,5000-8000,5000.0,8000.0,6500.0,3000.0,DevOps & Systems,Other,True
+"Pardavėjas - konsultantas (-ė), pilnam etatui, Vynoteka (Struikų g. 2, Šilalė)",UAB „Gelsva“,Šilalė,1040-1200,1040.0,1200.0,1120.0,160.0,Design & UI/UX,Other,True
+Pradinių klasių mokytoja (-as) Vitlio licėjuje,VšĮ „Vilniaus inžinerijos ir technologijų licėjus“,Vilnius,From 1300,1300.0,,1300.0,0.0,Manufacturing & Production,Other,True
+Team Lead of Accounts Payable Group,UAB „FESTO“,Kaunas,3000-3250,3000.0,3250.0,3125.0,250.0,Other,Senior,False
+Mokytojo asistentas (-ė) darželyje,VšĮ „Vilniaus inžinerijos ir technologijų licėjus“,Vilnius,From 850,850.0,,850.0,0.0,HR & Administration,Other,True
+Vadybininko asistentas (-ė),UAB „Midateksas“,Mažeikiai,1100-1500,1100.0,1500.0,1300.0,400.0,Sales & Customer Service,Other,False
+Ikimokyklinio ugdymo mokytoja (-as) Vitlio darželyje,VšĮ „Vilniaus inžinerijos ir technologijų licėjus“,Vilnius,From 1200,1200.0,,1200.0,0.0,Manufacturing & Production,Other,True
+Sales Executive,"Grand Hotel Vilnius, Curio Collection by Hilton",Vilnius,2000-2200,2000.0,2200.0,2100.0,200.0,Sales & Customer Service,Other,False
+"Pardavėjas (-a) - konsultantas (-ė) 0.5 et. PPC ""AKROPOLIS"" ŠIAULIUOSE",UAB „ALAN DEKO“,Šiauliai,520-570,520.0,570.0,545.0,50.0,Sales & Customer Service,Other,False
+Jaunesnysis (-ioji) Specialistas (-ė) Operacijų akcijomis skyriuje,Swedbank,Vilnius,1200-1800,1200.0,1800.0,1500.0,600.0,Other,Junior,False
+"Konsultantas (-ė) klientų aptarnavimo skyriuje, Šiauliuose",AS „Citadele banka“ Lietuvos filialas,Šiauliai,1400-1800,1400.0,1800.0,1600.0,400.0,Sales & Customer Service,Other,False
+Kliento patirties vadybininkė (-as),UAB „Intellectus kalbų centras“,Vilnius,From 1500,1500.0,,1500.0,0.0,Sales & Customer Service,Other,False
+Gamybos operatorius (-ė),UAB „Press Glass“,Kaunas,1800-2100,1800.0,2100.0,1950.0,300.0,Manufacturing & Production,Other,False
+Padavėja (-as),"Restoranų Grupė Fortas, UAB",Klaipėda,6.36,1017.6,162816.0,1017.6,0.0,Food Service,Other,False
+Barmenas (-ė) - padavėjas (-a),UAB „DARNU GROUP“,Vilnius,From 1100,1100.0,,1100.0,0.0,Food Service,Other,False
+Statybos / projekto vadovas (-ė),UAB „Incorpus“,Vilnius,3675-6026,3675.0,6026.0,4850.5,2351.0,Management,Other,False
+Finansų patarėjas (-a) (Būsto paskolų sritis) Kaune,Luminor Bank AS Lietuvos skyrius,Kaunas,2000-2510,2000.0,2510.0,2255.0,510.0,Finance & Accounting,Other,False
+Sandėlininkas (-ė) - konsultantas (-ė),AB „Lytagra“,Šakiai,1000-1300,1000.0,1300.0,1150.0,300.0,Sales & Customer Service,Other,False
+Restorano vadovas (-ė),Company name is hidden,Kaunas,From 1200,1200.0,,1200.0,0.0,Management,Other,False
+Transporto vadybininkas (-ė) (galime suteikti apgyvendinimą),UAB „Gedlito transportas“,Klaipėda,2450-3300,2450.0,3300.0,2875.0,850.0,Sales & Customer Service,Other,False
+Skerdimo skyriaus meistras (-ė),Company name is hidden,Joniškis,1800-2200,1800.0,2200.0,2000.0,400.0,Other,Other,False
+"Autošaltkalvis (Darbas su sunkvežimiais, yra galimybė apgyvendinti)",UAB „Gedlito transportas“,Klaipėda,1500-2200,1500.0,2200.0,1850.0,700.0,Logistics & Transport,Other,True
+PAMAINOS VADOVAS (-Ė) • PLASTIKO GAMYBA,"TELTONIKA EMS, UAB",Vilnius,2240-2720,2240.0,2720.0,2480.0,480.0,Manufacturing & Production,Other,True
+Barista (-a),UAB „Formosa LT“,Klaipėda,6.35-8,1016.0,1280.0,1148.0,1.6500000000000004,Food Service,Other,False
+Operatorius (-ė) - mechanikas (-ė),Company name is hidden,Joniškis,1300-1500,1300.0,1500.0,1400.0,200.0,Manufacturing & Production,Other,False
+Kompetencijų vadovas (-ė),VšĮ „Nacionalinis socialinės integracijos institutas“,Vilnius,3000-3400,3000.0,3400.0,3200.0,400.0,IT Management,Other,True
+"Smulkių siuntų kurjeris (-ė), Ukmergės padalinys",UAB „AD Baltic“,Vilnius,1100-1500,1100.0,1500.0,1300.0,400.0,Logistics & Transport,Other,False
+Renginių įrangos nuomos projektų vadovas (-ė),"Baltic tents, UAB",Vilnius,2200-2800,2200.0,2800.0,2500.0,600.0,IT Management,Other,True
+Elektrikas - Elektros Spintų Surinkėjas (darbui Nyderlanduose),UAB „De Gilde Global Services“,Netherlands,2800-3000,2800.0,3000.0,2900.0,200.0,Design & UI/UX,Other,True
+INDUSTRINIO EKSKAVATORIAUS / FRONTALINIO KRAUTUVO OPERATORIUS (-Ė),UAB „Milsa“,Vilnius,From 1400,1400.0,,1400.0,0.0,Manufacturing & Production,Other,False
+Finance Master Data Specialist,UAB „Metso Global Business Services“,Vilnius,2000-2500,2000.0,2500.0,2250.0,500.0,Data & Analytics,Mid,True
+Brigadininkas (-ė) statybų įmonėje,UAB „Retiva“,Panevėžys,2455-2975,2455.0,2975.0,2715.0,520.0,Construction,Other,False
+Pardavėja (-as) - Konsultantė (-as),UAB „ZBIGA“,Vilnius,1510-2160,1510.0,2160.0,1835.0,650.0,Sales & Customer Service,Other,False
+Pardavėja (-as) - Konsultantė (-as),UAB „ZBIGA“,Kaunas,1510-2160,1510.0,2160.0,1835.0,650.0,Sales & Customer Service,Other,False
+Autoelektrikas,"Platinum service, UAB",Kaunas,1300-2500,1300.0,2500.0,1900.0,1200.0,Other,Other,False
+TECHNIKAS - MONTUOTOJAS,UAB „Velansta“,Vilnius,Up to 1150,1150.0,,1150.0,0.0,Engineering,Other,True
+"Klientų aptarnavimo specialistai (-ės) Šiauliai, Dubijos g. 1C",UAB „Viada LT“,Šiauliai,1450-1650,1450.0,1650.0,1550.0,200.0,Sales & Customer Service,Mid,True
+"Klientų aptarnavimo specialistas (-ė) Anykščiuose, Vienuolio g.",UAB „Viada LT“,Anykščiai,850-900,850.0,900.0,875.0,50.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistas (-ė) Pasvalio r., Brazdigalos k.",UAB „Viada LT“,Pasvalys,900-950,900.0,950.0,925.0,50.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistas (-ė) Rokiškyje, Panevėžio g. 5",UAB „Viada LT“,Rokiškis,900-950,900.0,950.0,925.0,50.0,Sales & Customer Service,Mid,False
+Klientų aptarnavimo specialistas (-ė) Pabradėje,UAB „Viada LT“,Pabradė,850-950,850.0,950.0,900.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistai (-ės) Vilniaus r., Avižieniuose",UAB „Viada LT“,Vilnius,950-1050,950.0,1050.0,1000.0,100.0,Sales & Customer Service,Mid,True
+"Kurjeris (-ė), Vilniuje (paštomatai)","SmartPosti, UAB",Vilnius,1181-2800,1181.0,2800.0,1990.5,1619.0,Logistics & Transport,Other,True
+Klientų aptarnavimo specialistai (-ės) Vilniuje,UAB „Viada LT“,Vilnius,900-1200,900.0,1200.0,1050.0,300.0,Sales & Customer Service,Mid,True
+Vyresnysis mechanikas,Bolt Services LT,Vilnius,1600-1900,1600.0,1900.0,1750.0,300.0,Engineering,Senior,False
+Sprichst du Deutsch? Become a Business Clients Orders Coordinator!,UAB „Transcom Worldwide Vilnius“,Vilnius,1520-1616,1520.0,1616.0,1568.0,96.0,Other,Other,False
+"Klientų aptarnavimo specialistas (-ė) Vilniuje, Kirtimų g.",UAB „Viada LT“,Vilnius,1000-1100,1000.0,1100.0,1050.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistas (-ė) Vilniuje, Olandų g.",UAB „Viada LT“,Vilnius,1000-1100,1000.0,1100.0,1050.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistai (-ės) Vilniuje, Nemenčinės pl.",UAB „Viada LT“,Vilnius,900-1000,900.0,1000.0,950.0,100.0,Sales & Customer Service,Mid,True
+"Klientų aptarnavimo specialistas (-ė) Vilniuje, Naugarduko g.",UAB „Viada LT“,Vilnius,1100-1200,1100.0,1200.0,1150.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistai (-ės) Vilniuje, Dariaus ir Girėno g.",UAB „Viada LT“,Vilnius,1000-1100,1000.0,1100.0,1050.0,100.0,Sales & Customer Service,Mid,True
+"Klientų aptarnavimo specialistai (-ės) Vilniuje, Ozo g.",UAB „Viada LT“,Vilnius,1000-1200,1000.0,1200.0,1100.0,200.0,Sales & Customer Service,Mid,True
+Biuro patalpų valytojas (-a) 0.5 etatu miesto centre,UAB „OLYMPIC CASINO GROUP BALTIJA“,Vilnius,519,519.0,,519.0,0.0,Cleaning & Facilities,Other,False
+Sprichst du Deutsch? Become a Business Clients Orders Coordinator!,UAB „Transcom Worldwide Vilnius“,Kaunas,1520-1616,1520.0,1616.0,1568.0,96.0,Other,Other,False
+Suvirinimo inžinierius (-ė) - technologas (-ė) (IWE/IWT),UAB „ALVORA“,Mažeikiai,2000-2500,2000.0,2500.0,2250.0,500.0,Manufacturing & Production,Other,True
+"Vairuotojas - ekspeditorius, CE kategorija (Водитель - экспедитор, СЕ категория)",UAB „Autecha“,Kaunas,1500-2000,1500.0,2000.0,1750.0,500.0,Logistics & Transport,Other,True
+"Padavėjas (-a) - barmenas (-ė) sūrio ""Džiugas"" namuose, Palangoje",UAB „Čia Market“,Palanga,1500-1900,1500.0,1900.0,1700.0,400.0,Marketing & Communications,Other,False
+Traktoriaus - krautuvo vairuotojas (-a),UAB „Ekonovus“,Alytus,950,950.0,,950.0,0.0,Logistics & Transport,Other,True
+OPERATORIUS / MECHANIKAS – DARBAS SU PAKAVIMO LINIJOMIS,UAB „Galinta ir partneriai“,Kaunas,2095,2095.0,,2095.0,0.0,Manufacturing & Production,Other,False
+LABORANTAS (-Ė),AB „Kauno energija“,Kaunas,1471-1550,1471.0,1550.0,1510.5,79.0,Other,Other,False
+VADYBININKĖ (-AS) VILNIAUS KLIENTŲ APTARNAVIMO SKYRIUJE,Ignitis grupė,Vilnius,1755-2632,1755.0,2632.0,2193.5,877.0,Sales & Customer Service,Other,False
+Business Development Project Manager,"EVERWEST, UAB",Vilnius,3290-4110,3290.0,4110.0,3700.0,820.0,IT Management,Other,True
+Accounts Payable Analyst,UAB „COWI Lietuva“,Vilnius,1700-2200,1700.0,2200.0,1950.0,500.0,Data & Analytics,Other,True
+"Grill kepėjas (-a), virėjas (-a), virtuvės darbuotojai",MB „Čikipuki purslai“,Klaipėda,6-12,960.0,1920.0,1440.0,6.0,Food Service,Other,True
+Fondų ir paramos pritraukimo specialistas (-ė),UAB „Beinitas“,Klaipėda,1231-2000,1231.0,2000.0,1615.5,769.0,Other,Mid,False
+Šaltkalvis - surinkėjas - pakuotojas (-ė),UAB „ROL Lithuania“,Šiauliai,1430-1600,1430.0,1600.0,1515.0,170.0,Marketing & Communications,Other,False
+"Kepyklos darbuotojas (-a) naujai atidaromoje parduotuvėje Kaune (Šilainiai, Baltijos g.)",UAB „Lidl Lietuva“,Kaunas,1135-1850,1135.0,1850.0,1492.5,715.0,Retail,Other,True
+SERVISO TECHNIKO ASISTENTAS (-Ė),UAB „Kavos draugas“,Vilnius,1200,1200.0,,1200.0,0.0,HR & Administration,Other,True
+Vadybininkas (-ė),VšĮ Lietuvos nacionalinis radijas ir televizija,Vilnius,1800-2200,1800.0,2200.0,2000.0,400.0,IT Management,Other,True
+Indų plovėja (-as),UAB „Apex Alliance Hotel Management“,Vilnius,6.40-7,1024.0,1120.0,1072.0,0.5999999999999996,Other,Other,False
+RYTŲ REGIONO KLINIKŲ TINKLO VADOVAS,Company name is hidden,Vilnius,1700-2000,1700.0,2000.0,1850.0,300.0,DevOps & Systems,Other,True
+IQOS salono konsultantas (-ė) Klaipėda ( terminuota sutartis metams),UAB „Manpower Lit“,Klaipėda,From 9.50,1520.0,243200.0,1520.0,0.0,Sales & Customer Service,Other,True
+"Pardavėjas (-a) - konsultantas (-ė), ŠAULIŲ G. 37, MARIJAMPOLĖ","IKI Lietuva, UAB",Marijampolė,1050-1165,1050.0,1165.0,1107.5,115.0,Sales & Customer Service,Other,False
+PROJEKTŲ KOORDINATORĖ (-IUS),UAB „EMC Projects“,Vilnius,2100-2630,2100.0,2630.0,2365.0,530.0,Other,Other,False
+KOKYBĖS INŽINIERIUS (-Ė),UAB „Simna“,Vilnius,2200-3500,2200.0,3500.0,2850.0,1300.0,QA & Testing,Other,True
+Verslo analitikų grupės komandos vadovas (-ė),ADB „Compensa Vienna Insurance Group“,Vilnius,3500-5000,3500.0,5000.0,4250.0,1500.0,IT Management,Other,True
+SANDĖLININKAS (-Ė) ŠLAITUVOJE,AB „Kauno grūdai“,Prienai,1100,1100.0,,1100.0,0.0,Logistics & Transport,Other,True
+"Sandėlio pagalbinis (-ė) darbuotojas (-a), Aukštieji Paneriai","EVRC, UAB",Vilnius,1058,1058.0,,1058.0,0.0,Logistics & Transport,Other,True
+KLIENTŲ APTARNAVIMO SPECIALISTAS (-Ė) KAUNE arba VILNIUJE,UAB „Raben Lietuva“,Kaunas,1700,1700.0,,1700.0,0.0,Sales & Customer Service,Mid,False
+Ekspedicijos grupės vadovas (-ės),UAB „Manvesta“,Vilnius,3305-4135,3305.0,4135.0,3720.0,830.0,Management,Other,False
+Gamybos darbuotojai (-os)! Terminuota darbo sutartis!,UAB „Domus Decora Group“,Kaunas,1106-1304,1106.0,1304.0,1205.0,198.0,Manufacturing & Production,Other,True
+Kelio darbininkas,UAB „Kauno keliai“,Kaunas,1200-1700,1200.0,1700.0,1450.0,500.0,Other,Other,False
+ELEKTRIKAS - AUTOMATIKAS ŠVEDIJOJE (Išvykimas 05.17),UAB „Elviva“,Sweden,From 3000,3000.0,,3000.0,0.0,Other,Other,False
+DIREKTORIUS (-Ė),Company name is hidden,Vilnius,3000-3500,3000.0,3500.0,3250.0,500.0,Management,Other,False
+Personalo vadybininkė (-as),UAB „Dussmann Service“,Vilnius,1000-1500,1000.0,1500.0,1250.0,500.0,Sales & Customer Service,Other,False
+Betonvežio vairuotojas,"Heidelberg Materials Lietuva Betonas, UAB",Kaunas,1300-2000,1300.0,2000.0,1650.0,700.0,Logistics & Transport,Other,True
+Gamybos operatorius (-ė),UAB „GLASSBEL BALTIC“,Klaipėda,1000-1400,1000.0,1400.0,1200.0,400.0,Manufacturing & Production,Other,False
+Darbuotojų saugos ir sveikatos specialistas / specialistė,AB Lietuvos oro uostai,Kaunas,2500-3000,2500.0,3000.0,2750.0,500.0,Security,Mid,True
+Container Conversion Specialist / Builder,"Boxrent, UAB",Vilnius,2400-4200,2400.0,4200.0,3300.0,1800.0,Design & UI/UX,Mid,True
+"Sandėlio darbuotojas (-a) parduotuvėje, Vilniuje (PC ""CUP"")",UAB „Pigu“,Vilnius,850-950,850.0,950.0,900.0,100.0,Logistics & Transport,Other,False
+Serviso padalinio vadovas (-ė) Kaune,UAB „Axioma servisas“,Kaunas,5000-5400,5000.0,5400.0,5200.0,400.0,Management,Other,False
+Pradinių klasių mokytoja (-as),UAB „Erudito licėjus“,Kaunas,2100-2500,2100.0,2500.0,2300.0,400.0,Education,Other,False
+Junior Customer Care Specialist (Night Shifts),Girteka įmonių grupė,Vilnius,1470-1840,1470.0,1840.0,1655.0,370.0,Sales & Customer Service,Junior,False
+Krovėjas (-a) Kaune (Juozapavičiaus pr.),UAB „Lidl Lietuva“,Kaunas,1135-1850,1135.0,1850.0,1492.5,715.0,Other,Other,False
+Talent Acquisition - Vice President,Citco Group of Companies,Vilnius,4000-5000,4000.0,5000.0,4500.0,1000.0,Design & UI/UX,Other,True
+"Pardavėjas (-a) - konsultantas (-ė), pilnas etatas, (Vynoteka, Lietuvininkų g. 68 A, Šilutė)",UAB „Gelsva“,Šilutė,1040-1200,1040.0,1200.0,1120.0,160.0,Sales & Customer Service,Other,False
+Telekomunikacinių tinklų statybos vadovas Vokietijoje,EILE GmbH,Germany,5000-8000,5000.0,8000.0,6500.0,3000.0,DevOps & Systems,Other,True
+"Pardavėjas - konsultantas (-ė), pilnam etatui, Vynoteka (Struikų g. 2, Šilalė)",UAB „Gelsva“,Šilalė,1040-1200,1040.0,1200.0,1120.0,160.0,Design & UI/UX,Other,True
+Pradinių klasių mokytoja (-as) Vitlio licėjuje,VšĮ „Vilniaus inžinerijos ir technologijų licėjus“,Vilnius,From 1300,1300.0,,1300.0,0.0,Manufacturing & Production,Other,True
+Team Lead of Accounts Payable Group,UAB „FESTO“,Kaunas,3000-3250,3000.0,3250.0,3125.0,250.0,Other,Senior,False
+Mokytojo asistentas (-ė) darželyje,VšĮ „Vilniaus inžinerijos ir technologijų licėjus“,Vilnius,From 850,850.0,,850.0,0.0,HR & Administration,Other,True
+Vadybininko asistentas (-ė),UAB „Midateksas“,Mažeikiai,1100-1500,1100.0,1500.0,1300.0,400.0,Sales & Customer Service,Other,False
+Ikimokyklinio ugdymo mokytoja (-as) Vitlio darželyje,VšĮ „Vilniaus inžinerijos ir technologijų licėjus“,Vilnius,From 1200,1200.0,,1200.0,0.0,Manufacturing & Production,Other,True
+Sales Executive,"Grand Hotel Vilnius, Curio Collection by Hilton",Vilnius,2000-2200,2000.0,2200.0,2100.0,200.0,Sales & Customer Service,Other,False
+"Pardavėjas (-a) - konsultantas (-ė) 0.5 et. PPC ""AKROPOLIS"" ŠIAULIUOSE",UAB „ALAN DEKO“,Šiauliai,520-570,520.0,570.0,545.0,50.0,Sales & Customer Service,Other,False
+Jaunesnysis (-ioji) Specialistas (-ė) Operacijų akcijomis skyriuje,Swedbank,Vilnius,1200-1800,1200.0,1800.0,1500.0,600.0,Other,Junior,False
+"Konsultantas (-ė) klientų aptarnavimo skyriuje, Šiauliuose",AS „Citadele banka“ Lietuvos filialas,Šiauliai,1400-1800,1400.0,1800.0,1600.0,400.0,Sales & Customer Service,Other,False
+Kliento patirties vadybininkė (-as),UAB „Intellectus kalbų centras“,Vilnius,From 1500,1500.0,,1500.0,0.0,Sales & Customer Service,Other,False
+Gamybos operatorius (-ė),UAB „Press Glass“,Kaunas,1800-2100,1800.0,2100.0,1950.0,300.0,Manufacturing & Production,Other,False
+Padavėja (-as),"Restoranų Grupė Fortas, UAB",Klaipėda,6.36,1017.6,162816.0,1017.6,0.0,Food Service,Other,False
+Barmenas (-ė) - padavėjas (-a),UAB „DARNU GROUP“,Vilnius,From 1100,1100.0,,1100.0,0.0,Food Service,Other,False
+Statybos / projekto vadovas (-ė),UAB „Incorpus“,Vilnius,3675-6026,3675.0,6026.0,4850.5,2351.0,Management,Other,False
+Finansų patarėjas (-a) (Būsto paskolų sritis) Kaune,Luminor Bank AS Lietuvos skyrius,Kaunas,2000-2510,2000.0,2510.0,2255.0,510.0,Finance & Accounting,Other,False
+Sandėlininkas (-ė) - konsultantas (-ė),AB „Lytagra“,Šakiai,1000-1300,1000.0,1300.0,1150.0,300.0,Sales & Customer Service,Other,False
+Restorano vadovas (-ė),Company name is hidden,Kaunas,From 1200,1200.0,,1200.0,0.0,Management,Other,False
+Transporto vadybininkas (-ė) (galime suteikti apgyvendinimą),UAB „Gedlito transportas“,Klaipėda,2450-3300,2450.0,3300.0,2875.0,850.0,Sales & Customer Service,Other,False
+Skerdimo skyriaus meistras (-ė),Company name is hidden,Joniškis,1800-2200,1800.0,2200.0,2000.0,400.0,Other,Other,False
+"Autošaltkalvis (Darbas su sunkvežimiais, yra galimybė apgyvendinti)",UAB „Gedlito transportas“,Klaipėda,1500-2200,1500.0,2200.0,1850.0,700.0,Logistics & Transport,Other,True
+PAMAINOS VADOVAS (-Ė) • PLASTIKO GAMYBA,"TELTONIKA EMS, UAB",Vilnius,2240-2720,2240.0,2720.0,2480.0,480.0,Manufacturing & Production,Other,True
+Barista (-a),UAB „Formosa LT“,Klaipėda,6.35-8,1016.0,1280.0,1148.0,1.6500000000000004,Food Service,Other,False
+Operatorius (-ė) - mechanikas (-ė),Company name is hidden,Joniškis,1300-1500,1300.0,1500.0,1400.0,200.0,Manufacturing & Production,Other,False
+Kompetencijų vadovas (-ė),VšĮ „Nacionalinis socialinės integracijos institutas“,Vilnius,3000-3400,3000.0,3400.0,3200.0,400.0,IT Management,Other,True
+"Smulkių siuntų kurjeris (-ė), Ukmergės padalinys",UAB „AD Baltic“,Vilnius,1100-1500,1100.0,1500.0,1300.0,400.0,Logistics & Transport,Other,False
+Renginių įrangos nuomos projektų vadovas (-ė),"Baltic tents, UAB",Vilnius,2200-2800,2200.0,2800.0,2500.0,600.0,IT Management,Other,True
+Elektrikas - Elektros Spintų Surinkėjas (darbui Nyderlanduose),UAB „De Gilde Global Services“,Netherlands,2800-3000,2800.0,3000.0,2900.0,200.0,Design & UI/UX,Other,True
+INDUSTRINIO EKSKAVATORIAUS / FRONTALINIO KRAUTUVO OPERATORIUS (-Ė),UAB „Milsa“,Vilnius,From 1400,1400.0,,1400.0,0.0,Manufacturing & Production,Other,False
+Finance Master Data Specialist,UAB „Metso Global Business Services“,Vilnius,2000-2500,2000.0,2500.0,2250.0,500.0,Data & Analytics,Mid,True
+Brigadininkas (-ė) statybų įmonėje,UAB „Retiva“,Panevėžys,2455-2975,2455.0,2975.0,2715.0,520.0,Construction,Other,False
+Pardavėja (-as) - Konsultantė (-as),UAB „ZBIGA“,Vilnius,1510-2160,1510.0,2160.0,1835.0,650.0,Sales & Customer Service,Other,False
+Pardavėja (-as) - Konsultantė (-as),UAB „ZBIGA“,Kaunas,1510-2160,1510.0,2160.0,1835.0,650.0,Sales & Customer Service,Other,False
+Autoelektrikas,"Platinum service, UAB",Kaunas,1300-2500,1300.0,2500.0,1900.0,1200.0,Other,Other,False
+TECHNIKAS - MONTUOTOJAS,UAB „Velansta“,Vilnius,Up to 1150,1150.0,,1150.0,0.0,Engineering,Other,True
+"Klientų aptarnavimo specialistai (-ės) Šiauliai, Dubijos g. 1C",UAB „Viada LT“,Šiauliai,1450-1650,1450.0,1650.0,1550.0,200.0,Sales & Customer Service,Mid,True
+"Klientų aptarnavimo specialistas (-ė) Anykščiuose, Vienuolio g.",UAB „Viada LT“,Anykščiai,850-900,850.0,900.0,875.0,50.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistas (-ė) Pasvalio r., Brazdigalos k.",UAB „Viada LT“,Pasvalys,900-950,900.0,950.0,925.0,50.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistas (-ė) Rokiškyje, Panevėžio g. 5",UAB „Viada LT“,Rokiškis,900-950,900.0,950.0,925.0,50.0,Sales & Customer Service,Mid,False
+Klientų aptarnavimo specialistas (-ė) Pabradėje,UAB „Viada LT“,Pabradė,850-950,850.0,950.0,900.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistai (-ės) Vilniaus r., Avižieniuose",UAB „Viada LT“,Vilnius,950-1050,950.0,1050.0,1000.0,100.0,Sales & Customer Service,Mid,True
+"Kurjeris (-ė), Vilniuje (paštomatai)","SmartPosti, UAB",Vilnius,1181-2800,1181.0,2800.0,1990.5,1619.0,Logistics & Transport,Other,True
+Klientų aptarnavimo specialistai (-ės) Vilniuje,UAB „Viada LT“,Vilnius,900-1200,900.0,1200.0,1050.0,300.0,Sales & Customer Service,Mid,True
+Vyresnysis mechanikas,Bolt Services LT,Vilnius,1600-1900,1600.0,1900.0,1750.0,300.0,Engineering,Senior,False
+Sprichst du Deutsch? Become a Business Clients Orders Coordinator!,UAB „Transcom Worldwide Vilnius“,Vilnius,1520-1616,1520.0,1616.0,1568.0,96.0,Other,Other,False
+"Klientų aptarnavimo specialistas (-ė) Vilniuje, Kirtimų g.",UAB „Viada LT“,Vilnius,1000-1100,1000.0,1100.0,1050.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistas (-ė) Vilniuje, Olandų g.",UAB „Viada LT“,Vilnius,1000-1100,1000.0,1100.0,1050.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistai (-ės) Vilniuje, Nemenčinės pl.",UAB „Viada LT“,Vilnius,900-1000,900.0,1000.0,950.0,100.0,Sales & Customer Service,Mid,True
+"Klientų aptarnavimo specialistas (-ė) Vilniuje, Naugarduko g.",UAB „Viada LT“,Vilnius,1100-1200,1100.0,1200.0,1150.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistai (-ės) Vilniuje, Dariaus ir Girėno g.",UAB „Viada LT“,Vilnius,1000-1100,1000.0,1100.0,1050.0,100.0,Sales & Customer Service,Mid,True
+"Klientų aptarnavimo specialistai (-ės) Vilniuje, Ozo g.",UAB „Viada LT“,Vilnius,1000-1200,1000.0,1200.0,1100.0,200.0,Sales & Customer Service,Mid,True
+Biuro patalpų valytojas (-a) 0.5 etatu miesto centre,UAB „OLYMPIC CASINO GROUP BALTIJA“,Vilnius,519,519.0,,519.0,0.0,Cleaning & Facilities,Other,False
+Sprichst du Deutsch? Become a Business Clients Orders Coordinator!,UAB „Transcom Worldwide Vilnius“,Kaunas,1520-1616,1520.0,1616.0,1568.0,96.0,Other,Other,False
+Suvirinimo inžinierius (-ė) - technologas (-ė) (IWE/IWT),UAB „ALVORA“,Mažeikiai,2000-2500,2000.0,2500.0,2250.0,500.0,Manufacturing & Production,Other,True
+"Vairuotojas - ekspeditorius, CE kategorija (Водитель - экспедитор, СЕ категория)",UAB „Autecha“,Kaunas,1500-2000,1500.0,2000.0,1750.0,500.0,Logistics & Transport,Other,True
+"Padavėjas (-a) - barmenas (-ė) sūrio ""Džiugas"" namuose, Palangoje",UAB „Čia Market“,Palanga,1500-1900,1500.0,1900.0,1700.0,400.0,Marketing & Communications,Other,False
+Traktoriaus - krautuvo vairuotojas (-a),UAB „Ekonovus“,Alytus,950,950.0,,950.0,0.0,Logistics & Transport,Other,True
+OPERATORIUS / MECHANIKAS – DARBAS SU PAKAVIMO LINIJOMIS,UAB „Galinta ir partneriai“,Kaunas,2095,2095.0,,2095.0,0.0,Manufacturing & Production,Other,False
+LABORANTAS (-Ė),AB „Kauno energija“,Kaunas,1471-1550,1471.0,1550.0,1510.5,79.0,Other,Other,False
+VADYBININKĖ (-AS) VILNIAUS KLIENTŲ APTARNAVIMO SKYRIUJE,Ignitis grupė,Vilnius,1755-2632,1755.0,2632.0,2193.5,877.0,Sales & Customer Service,Other,False
+Business Development Project Manager,"EVERWEST, UAB",Vilnius,3290-4110,3290.0,4110.0,3700.0,820.0,IT Management,Other,True
+Accounts Payable Analyst,UAB „COWI Lietuva“,Vilnius,1700-2200,1700.0,2200.0,1950.0,500.0,Data & Analytics,Other,True
+"Grill kepėjas (-a), virėjas (-a), virtuvės darbuotojai",MB „Čikipuki purslai“,Klaipėda,6-12,960.0,1920.0,1440.0,6.0,Food Service,Other,True
+Fondų ir paramos pritraukimo specialistas (-ė),UAB „Beinitas“,Klaipėda,1231-2000,1231.0,2000.0,1615.5,769.0,Other,Mid,False
+Šaltkalvis - surinkėjas - pakuotojas (-ė),UAB „ROL Lithuania“,Šiauliai,1430-1600,1430.0,1600.0,1515.0,170.0,Marketing & Communications,Other,False
+"Kepyklos darbuotojas (-a) naujai atidaromoje parduotuvėje Kaune (Šilainiai, Baltijos g.)",UAB „Lidl Lietuva“,Kaunas,1135-1850,1135.0,1850.0,1492.5,715.0,Retail,Other,True
+SERVISO TECHNIKO ASISTENTAS (-Ė),UAB „Kavos draugas“,Vilnius,1200,1200.0,,1200.0,0.0,HR & Administration,Other,True
+Vadybininkas (-ė),VšĮ Lietuvos nacionalinis radijas ir televizija,Vilnius,1800-2200,1800.0,2200.0,2000.0,400.0,IT Management,Other,True
+Indų plovėja (-as),UAB „Apex Alliance Hotel Management“,Vilnius,6.40-7,1024.0,1120.0,1072.0,0.5999999999999996,Other,Other,False
+RYTŲ REGIONO KLINIKŲ TINKLO VADOVAS,Company name is hidden,Vilnius,1700-2000,1700.0,2000.0,1850.0,300.0,DevOps & Systems,Other,True
+IQOS salono konsultantas (-ė) Klaipėda ( terminuota sutartis metams),UAB „Manpower Lit“,Klaipėda,From 9.50,1520.0,243200.0,1520.0,0.0,Sales & Customer Service,Other,True
+"Pardavėjas (-a) - konsultantas (-ė), ŠAULIŲ G. 37, MARIJAMPOLĖ","IKI Lietuva, UAB",Marijampolė,1050-1165,1050.0,1165.0,1107.5,115.0,Sales & Customer Service,Other,False
+PROJEKTŲ KOORDINATORĖ (-IUS),UAB „EMC Projects“,Vilnius,2100-2630,2100.0,2630.0,2365.0,530.0,Other,Other,False
+KOKYBĖS INŽINIERIUS (-Ė),UAB „Simna“,Vilnius,2200-3500,2200.0,3500.0,2850.0,1300.0,QA & Testing,Other,True
+Verslo analitikų grupės komandos vadovas (-ė),ADB „Compensa Vienna Insurance Group“,Vilnius,3500-5000,3500.0,5000.0,4250.0,1500.0,IT Management,Other,True
+SANDĖLININKAS (-Ė) ŠLAITUVOJE,AB „Kauno grūdai“,Prienai,1100,1100.0,,1100.0,0.0,Logistics & Transport,Other,True
+"Sandėlio pagalbinis (-ė) darbuotojas (-a), Aukštieji Paneriai","EVRC, UAB",Vilnius,1058,1058.0,,1058.0,0.0,Logistics & Transport,Other,True
+KLIENTŲ APTARNAVIMO SPECIALISTAS (-Ė) KAUNE arba VILNIUJE,UAB „Raben Lietuva“,Kaunas,1700,1700.0,,1700.0,0.0,Sales & Customer Service,Mid,False
+Ekspedicijos grupės vadovas (-ės),UAB „Manvesta“,Vilnius,3305-4135,3305.0,4135.0,3720.0,830.0,Management,Other,False
+Gamybos darbuotojai (-os)! Terminuota darbo sutartis!,UAB „Domus Decora Group“,Kaunas,1106-1304,1106.0,1304.0,1205.0,198.0,Manufacturing & Production,Other,True
+Kelio darbininkas,UAB „Kauno keliai“,Kaunas,1200-1700,1200.0,1700.0,1450.0,500.0,Other,Other,False
+ELEKTRIKAS - AUTOMATIKAS ŠVEDIJOJE (Išvykimas 05.17),UAB „Elviva“,Sweden,From 3000,3000.0,,3000.0,0.0,Other,Other,False
+DIREKTORIUS (-Ė),Company name is hidden,Vilnius,3000-3500,3000.0,3500.0,3250.0,500.0,Management,Other,False
+Personalo vadybininkė (-as),UAB „Dussmann Service“,Vilnius,1000-1500,1000.0,1500.0,1250.0,500.0,Sales & Customer Service,Other,False
+Betonvežio vairuotojas,"Heidelberg Materials Lietuva Betonas, UAB",Kaunas,1300-2000,1300.0,2000.0,1650.0,700.0,Logistics & Transport,Other,True
+Gamybos operatorius (-ė),UAB „GLASSBEL BALTIC“,Klaipėda,1000-1400,1000.0,1400.0,1200.0,400.0,Manufacturing & Production,Other,False
+Darbuotojų saugos ir sveikatos specialistas / specialistė,AB Lietuvos oro uostai,Kaunas,2500-3000,2500.0,3000.0,2750.0,500.0,Security,Mid,True
+Container Conversion Specialist / Builder,"Boxrent, UAB",Vilnius,2400-4200,2400.0,4200.0,3300.0,1800.0,Design & UI/UX,Mid,True
+"Sandėlio darbuotojas (-a) parduotuvėje, Vilniuje (PC ""CUP"")",UAB „Pigu“,Vilnius,850-950,850.0,950.0,900.0,100.0,Logistics & Transport,Other,False
+Serviso padalinio vadovas (-ė) Kaune,UAB „Axioma servisas“,Kaunas,5000-5400,5000.0,5400.0,5200.0,400.0,Management,Other,False
+Pradinių klasių mokytoja (-as),UAB „Erudito licėjus“,Kaunas,2100-2500,2100.0,2500.0,2300.0,400.0,Education,Other,False
+Junior Customer Care Specialist (Night Shifts),Girteka įmonių grupė,Vilnius,1470-1840,1470.0,1840.0,1655.0,370.0,Sales & Customer Service,Junior,False
+Krovėjas (-a) Kaune (Juozapavičiaus pr.),UAB „Lidl Lietuva“,Kaunas,1135-1850,1135.0,1850.0,1492.5,715.0,Other,Other,False
+Talent Acquisition - Vice President,Citco Group of Companies,Vilnius,4000-5000,4000.0,5000.0,4500.0,1000.0,Design & UI/UX,Other,True
+"Pardavėjas (-a) - konsultantas (-ė), pilnas etatas, (Vynoteka, Lietuvininkų g. 68 A, Šilutė)",UAB „Gelsva“,Šilutė,1040-1200,1040.0,1200.0,1120.0,160.0,Sales & Customer Service,Other,False
+Telekomunikacinių tinklų statybos vadovas Vokietijoje,EILE GmbH,Germany,5000-8000,5000.0,8000.0,6500.0,3000.0,DevOps & Systems,Other,True
+"Pardavėjas - konsultantas (-ė), pilnam etatui, Vynoteka (Struikų g. 2, Šilalė)",UAB „Gelsva“,Šilalė,1040-1200,1040.0,1200.0,1120.0,160.0,Design & UI/UX,Other,True
+Pradinių klasių mokytoja (-as) Vitlio licėjuje,VšĮ „Vilniaus inžinerijos ir technologijų licėjus“,Vilnius,From 1300,1300.0,,1300.0,0.0,Manufacturing & Production,Other,True
+Team Lead of Accounts Payable Group,UAB „FESTO“,Kaunas,3000-3250,3000.0,3250.0,3125.0,250.0,Other,Senior,False
+Mokytojo asistentas (-ė) darželyje,VšĮ „Vilniaus inžinerijos ir technologijų licėjus“,Vilnius,From 850,850.0,,850.0,0.0,HR & Administration,Other,True
+Vadybininko asistentas (-ė),UAB „Midateksas“,Mažeikiai,1100-1500,1100.0,1500.0,1300.0,400.0,Sales & Customer Service,Other,False
+Ikimokyklinio ugdymo mokytoja (-as) Vitlio darželyje,VšĮ „Vilniaus inžinerijos ir technologijų licėjus“,Vilnius,From 1200,1200.0,,1200.0,0.0,Manufacturing & Production,Other,True
+Sales Executive,"Grand Hotel Vilnius, Curio Collection by Hilton",Vilnius,2000-2200,2000.0,2200.0,2100.0,200.0,Sales & Customer Service,Other,False
+"Pardavėjas (-a) - konsultantas (-ė) 0.5 et. PPC ""AKROPOLIS"" ŠIAULIUOSE",UAB „ALAN DEKO“,Šiauliai,520-570,520.0,570.0,545.0,50.0,Sales & Customer Service,Other,False
+Jaunesnysis (-ioji) Specialistas (-ė) Operacijų akcijomis skyriuje,Swedbank,Vilnius,1200-1800,1200.0,1800.0,1500.0,600.0,Other,Junior,False
+"Konsultantas (-ė) klientų aptarnavimo skyriuje, Šiauliuose",AS „Citadele banka“ Lietuvos filialas,Šiauliai,1400-1800,1400.0,1800.0,1600.0,400.0,Sales & Customer Service,Other,False
+Kliento patirties vadybininkė (-as),UAB „Intellectus kalbų centras“,Vilnius,From 1500,1500.0,,1500.0,0.0,Sales & Customer Service,Other,False
+Gamybos operatorius (-ė),UAB „Press Glass“,Kaunas,1800-2100,1800.0,2100.0,1950.0,300.0,Manufacturing & Production,Other,False
+Padavėja (-as),"Restoranų Grupė Fortas, UAB",Klaipėda,6.36,1017.6,162816.0,1017.6,0.0,Food Service,Other,False
+Barmenas (-ė) - padavėjas (-a),UAB „DARNU GROUP“,Vilnius,From 1100,1100.0,,1100.0,0.0,Food Service,Other,False
+Statybos / projekto vadovas (-ė),UAB „Incorpus“,Vilnius,3675-6026,3675.0,6026.0,4850.5,2351.0,Management,Other,False
+Finansų patarėjas (-a) (Būsto paskolų sritis) Kaune,Luminor Bank AS Lietuvos skyrius,Kaunas,2000-2510,2000.0,2510.0,2255.0,510.0,Finance & Accounting,Other,False
+Sandėlininkas (-ė) - konsultantas (-ė),AB „Lytagra“,Šakiai,1000-1300,1000.0,1300.0,1150.0,300.0,Sales & Customer Service,Other,False
+Restorano vadovas (-ė),Company name is hidden,Kaunas,From 1200,1200.0,,1200.0,0.0,Management,Other,False
+Transporto vadybininkas (-ė) (galime suteikti apgyvendinimą),UAB „Gedlito transportas“,Klaipėda,2450-3300,2450.0,3300.0,2875.0,850.0,Sales & Customer Service,Other,False
+Skerdimo skyriaus meistras (-ė),Company name is hidden,Joniškis,1800-2200,1800.0,2200.0,2000.0,400.0,Other,Other,False
+"Autošaltkalvis (Darbas su sunkvežimiais, yra galimybė apgyvendinti)",UAB „Gedlito transportas“,Klaipėda,1500-2200,1500.0,2200.0,1850.0,700.0,Logistics & Transport,Other,True
+PAMAINOS VADOVAS (-Ė) • PLASTIKO GAMYBA,"TELTONIKA EMS, UAB",Vilnius,2240-2720,2240.0,2720.0,2480.0,480.0,Manufacturing & Production,Other,True
+Barista (-a),UAB „Formosa LT“,Klaipėda,6.35-8,1016.0,1280.0,1148.0,1.6500000000000004,Food Service,Other,False
+Operatorius (-ė) - mechanikas (-ė),Company name is hidden,Joniškis,1300-1500,1300.0,1500.0,1400.0,200.0,Manufacturing & Production,Other,False
+Kompetencijų vadovas (-ė),VšĮ „Nacionalinis socialinės integracijos institutas“,Vilnius,3000-3400,3000.0,3400.0,3200.0,400.0,IT Management,Other,True
+"Smulkių siuntų kurjeris (-ė), Ukmergės padalinys",UAB „AD Baltic“,Vilnius,1100-1500,1100.0,1500.0,1300.0,400.0,Logistics & Transport,Other,False
+Renginių įrangos nuomos projektų vadovas (-ė),"Baltic tents, UAB",Vilnius,2200-2800,2200.0,2800.0,2500.0,600.0,IT Management,Other,True
+Elektrikas - Elektros Spintų Surinkėjas (darbui Nyderlanduose),UAB „De Gilde Global Services“,Netherlands,2800-3000,2800.0,3000.0,2900.0,200.0,Design & UI/UX,Other,True
+INDUSTRINIO EKSKAVATORIAUS / FRONTALINIO KRAUTUVO OPERATORIUS (-Ė),UAB „Milsa“,Vilnius,From 1400,1400.0,,1400.0,0.0,Manufacturing & Production,Other,False
+Finance Master Data Specialist,UAB „Metso Global Business Services“,Vilnius,2000-2500,2000.0,2500.0,2250.0,500.0,Data & Analytics,Mid,True
+Brigadininkas (-ė) statybų įmonėje,UAB „Retiva“,Panevėžys,2455-2975,2455.0,2975.0,2715.0,520.0,Construction,Other,False
+Pardavėja (-as) - Konsultantė (-as),UAB „ZBIGA“,Vilnius,1510-2160,1510.0,2160.0,1835.0,650.0,Sales & Customer Service,Other,False
+Pardavėja (-as) - Konsultantė (-as),UAB „ZBIGA“,Kaunas,1510-2160,1510.0,2160.0,1835.0,650.0,Sales & Customer Service,Other,False
+Autoelektrikas,"Platinum service, UAB",Kaunas,1300-2500,1300.0,2500.0,1900.0,1200.0,Other,Other,False
+TECHNIKAS - MONTUOTOJAS,UAB „Velansta“,Vilnius,Up to 1150,1150.0,,1150.0,0.0,Engineering,Other,True
+"Klientų aptarnavimo specialistai (-ės) Šiauliai, Dubijos g. 1C",UAB „Viada LT“,Šiauliai,1450-1650,1450.0,1650.0,1550.0,200.0,Sales & Customer Service,Mid,True
+"Klientų aptarnavimo specialistas (-ė) Anykščiuose, Vienuolio g.",UAB „Viada LT“,Anykščiai,850-900,850.0,900.0,875.0,50.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistas (-ė) Pasvalio r., Brazdigalos k.",UAB „Viada LT“,Pasvalys,900-950,900.0,950.0,925.0,50.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistas (-ė) Rokiškyje, Panevėžio g. 5",UAB „Viada LT“,Rokiškis,900-950,900.0,950.0,925.0,50.0,Sales & Customer Service,Mid,False
+Klientų aptarnavimo specialistas (-ė) Pabradėje,UAB „Viada LT“,Pabradė,850-950,850.0,950.0,900.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistai (-ės) Vilniaus r., Avižieniuose",UAB „Viada LT“,Vilnius,950-1050,950.0,1050.0,1000.0,100.0,Sales & Customer Service,Mid,True
+"Kurjeris (-ė), Vilniuje (paštomatai)","SmartPosti, UAB",Vilnius,1181-2800,1181.0,2800.0,1990.5,1619.0,Logistics & Transport,Other,True
+Klientų aptarnavimo specialistai (-ės) Vilniuje,UAB „Viada LT“,Vilnius,900-1200,900.0,1200.0,1050.0,300.0,Sales & Customer Service,Mid,True
+Vyresnysis mechanikas,Bolt Services LT,Vilnius,1600-1900,1600.0,1900.0,1750.0,300.0,Engineering,Senior,False
+Sprichst du Deutsch? Become a Business Clients Orders Coordinator!,UAB „Transcom Worldwide Vilnius“,Vilnius,1520-1616,1520.0,1616.0,1568.0,96.0,Other,Other,False
+"Klientų aptarnavimo specialistas (-ė) Vilniuje, Kirtimų g.",UAB „Viada LT“,Vilnius,1000-1100,1000.0,1100.0,1050.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistas (-ė) Vilniuje, Olandų g.",UAB „Viada LT“,Vilnius,1000-1100,1000.0,1100.0,1050.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistai (-ės) Vilniuje, Nemenčinės pl.",UAB „Viada LT“,Vilnius,900-1000,900.0,1000.0,950.0,100.0,Sales & Customer Service,Mid,True
+"Klientų aptarnavimo specialistas (-ė) Vilniuje, Naugarduko g.",UAB „Viada LT“,Vilnius,1100-1200,1100.0,1200.0,1150.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistai (-ės) Vilniuje, Dariaus ir Girėno g.",UAB „Viada LT“,Vilnius,1000-1100,1000.0,1100.0,1050.0,100.0,Sales & Customer Service,Mid,True
+"Klientų aptarnavimo specialistai (-ės) Vilniuje, Ozo g.",UAB „Viada LT“,Vilnius,1000-1200,1000.0,1200.0,1100.0,200.0,Sales & Customer Service,Mid,True
+Biuro patalpų valytojas (-a) 0.5 etatu miesto centre,UAB „OLYMPIC CASINO GROUP BALTIJA“,Vilnius,519,519.0,,519.0,0.0,Cleaning & Facilities,Other,False
+Sprichst du Deutsch? Become a Business Clients Orders Coordinator!,UAB „Transcom Worldwide Vilnius“,Kaunas,1520-1616,1520.0,1616.0,1568.0,96.0,Other,Other,False
+Suvirinimo inžinierius (-ė) - technologas (-ė) (IWE/IWT),UAB „ALVORA“,Mažeikiai,2000-2500,2000.0,2500.0,2250.0,500.0,Manufacturing & Production,Other,True
+"Vairuotojas - ekspeditorius, CE kategorija (Водитель - экспедитор, СЕ категория)",UAB „Autecha“,Kaunas,1500-2000,1500.0,2000.0,1750.0,500.0,Logistics & Transport,Other,True
+"Padavėjas (-a) - barmenas (-ė) sūrio ""Džiugas"" namuose, Palangoje",UAB „Čia Market“,Palanga,1500-1900,1500.0,1900.0,1700.0,400.0,Marketing & Communications,Other,False
+Traktoriaus - krautuvo vairuotojas (-a),UAB „Ekonovus“,Alytus,950,950.0,,950.0,0.0,Logistics & Transport,Other,True
+OPERATORIUS / MECHANIKAS – DARBAS SU PAKAVIMO LINIJOMIS,UAB „Galinta ir partneriai“,Kaunas,2095,2095.0,,2095.0,0.0,Manufacturing & Production,Other,False
+LABORANTAS (-Ė),AB „Kauno energija“,Kaunas,1471-1550,1471.0,1550.0,1510.5,79.0,Other,Other,False
+VADYBININKĖ (-AS) VILNIAUS KLIENTŲ APTARNAVIMO SKYRIUJE,Ignitis grupė,Vilnius,1755-2632,1755.0,2632.0,2193.5,877.0,Sales & Customer Service,Other,False
+Business Development Project Manager,"EVERWEST, UAB",Vilnius,3290-4110,3290.0,4110.0,3700.0,820.0,IT Management,Other,True
+Accounts Payable Analyst,UAB „COWI Lietuva“,Vilnius,1700-2200,1700.0,2200.0,1950.0,500.0,Data & Analytics,Other,True
+"Grill kepėjas (-a), virėjas (-a), virtuvės darbuotojai",MB „Čikipuki purslai“,Klaipėda,6-12,960.0,1920.0,1440.0,6.0,Food Service,Other,True
+Fondų ir paramos pritraukimo specialistas (-ė),UAB „Beinitas“,Klaipėda,1231-2000,1231.0,2000.0,1615.5,769.0,Other,Mid,False
+Šaltkalvis - surinkėjas - pakuotojas (-ė),UAB „ROL Lithuania“,Šiauliai,1430-1600,1430.0,1600.0,1515.0,170.0,Marketing & Communications,Other,False
+"Kepyklos darbuotojas (-a) naujai atidaromoje parduotuvėje Kaune (Šilainiai, Baltijos g.)",UAB „Lidl Lietuva“,Kaunas,1135-1850,1135.0,1850.0,1492.5,715.0,Retail,Other,True
+SERVISO TECHNIKO ASISTENTAS (-Ė),UAB „Kavos draugas“,Vilnius,1200,1200.0,,1200.0,0.0,HR & Administration,Other,True
+Vadybininkas (-ė),VšĮ Lietuvos nacionalinis radijas ir televizija,Vilnius,1800-2200,1800.0,2200.0,2000.0,400.0,IT Management,Other,True
+Indų plovėja (-as),UAB „Apex Alliance Hotel Management“,Vilnius,6.40-7,1024.0,1120.0,1072.0,0.5999999999999996,Other,Other,False
+RYTŲ REGIONO KLINIKŲ TINKLO VADOVAS,Company name is hidden,Vilnius,1700-2000,1700.0,2000.0,1850.0,300.0,DevOps & Systems,Other,True
+IQOS salono konsultantas (-ė) Klaipėda ( terminuota sutartis metams),UAB „Manpower Lit“,Klaipėda,From 9.50,1520.0,243200.0,1520.0,0.0,Sales & Customer Service,Other,True
+"Pardavėjas (-a) - konsultantas (-ė), ŠAULIŲ G. 37, MARIJAMPOLĖ","IKI Lietuva, UAB",Marijampolė,1050-1165,1050.0,1165.0,1107.5,115.0,Sales & Customer Service,Other,False
+Tapk „Telia“ klientų aptarnavimo specialistu (-e) el. kanalais Šiauliuose,Telia,Šiauliai,1155-1910,1155.0,1910.0,1532.5,755.0,Sales & Customer Service,Mid,True
+Biuro vadybininkas (-ė),EPSO-G grupė,Vilnius,2300-2700,2300.0,2700.0,2500.0,400.0,Sales & Customer Service,Other,False
+PROJEKTŲ KOORDINATORĖ (-IUS),UAB „EMC Projects“,Vilnius,2100-2630,2100.0,2630.0,2365.0,530.0,Other,Other,False
+KOKYBĖS INŽINIERIUS (-Ė),UAB „Simna“,Vilnius,2200-3500,2200.0,3500.0,2850.0,1300.0,QA & Testing,Other,True
+Verslo analitikų grupės komandos vadovas (-ė),ADB „Compensa Vienna Insurance Group“,Vilnius,3500-5000,3500.0,5000.0,4250.0,1500.0,IT Management,Other,True
+SANDĖLININKAS (-Ė) ŠLAITUVOJE,AB „Kauno grūdai“,Prienai,1100,1100.0,,1100.0,0.0,Logistics & Transport,Other,True
+"Sandėlio pagalbinis (-ė) darbuotojas (-a), Aukštieji Paneriai","EVRC, UAB",Vilnius,1058,1058.0,,1058.0,0.0,Logistics & Transport,Other,True
+KLIENTŲ APTARNAVIMO SPECIALISTAS (-Ė) KAUNE arba VILNIUJE,UAB „Raben Lietuva“,Kaunas,1700,1700.0,,1700.0,0.0,Sales & Customer Service,Mid,False
+Ekspedicijos grupės vadovas (-ės),UAB „Manvesta“,Vilnius,3305-4135,3305.0,4135.0,3720.0,830.0,Management,Other,False
+Gamybos darbuotojai (-os)! Terminuota darbo sutartis!,UAB „Domus Decora Group“,Kaunas,1106-1304,1106.0,1304.0,1205.0,198.0,Manufacturing & Production,Other,True
+Kelio darbininkas,UAB „Kauno keliai“,Kaunas,1200-1700,1200.0,1700.0,1450.0,500.0,Other,Other,False
+ELEKTRIKAS - AUTOMATIKAS ŠVEDIJOJE (Išvykimas 05.17),UAB „Elviva“,Sweden,From 3000,3000.0,,3000.0,0.0,Other,Other,False
+DIREKTORIUS (-Ė),Company name is hidden,Vilnius,3000-3500,3000.0,3500.0,3250.0,500.0,Management,Other,False
+Personalo vadybininkė (-as),UAB „Dussmann Service“,Vilnius,1000-1500,1000.0,1500.0,1250.0,500.0,Sales & Customer Service,Other,False
+Betonvežio vairuotojas,"Heidelberg Materials Lietuva Betonas, UAB",Kaunas,1300-2000,1300.0,2000.0,1650.0,700.0,Logistics & Transport,Other,True
+Gamybos operatorius (-ė),UAB „GLASSBEL BALTIC“,Klaipėda,1000-1400,1000.0,1400.0,1200.0,400.0,Manufacturing & Production,Other,False
+Darbuotojų saugos ir sveikatos specialistas / specialistė,AB Lietuvos oro uostai,Kaunas,2500-3000,2500.0,3000.0,2750.0,500.0,Security,Mid,True
+Container Conversion Specialist / Builder,"Boxrent, UAB",Vilnius,2400-4200,2400.0,4200.0,3300.0,1800.0,Design & UI/UX,Mid,True
+"Sandėlio darbuotojas (-a) parduotuvėje, Vilniuje (PC ""CUP"")",UAB „Pigu“,Vilnius,850-950,850.0,950.0,900.0,100.0,Logistics & Transport,Other,False
+Serviso padalinio vadovas (-ė) Kaune,UAB „Axioma servisas“,Kaunas,5000-5400,5000.0,5400.0,5200.0,400.0,Management,Other,False
+Pradinių klasių mokytoja (-as),UAB „Erudito licėjus“,Kaunas,2100-2500,2100.0,2500.0,2300.0,400.0,Education,Other,False
+Junior Customer Care Specialist (Night Shifts),Girteka įmonių grupė,Vilnius,1470-1840,1470.0,1840.0,1655.0,370.0,Sales & Customer Service,Junior,False
+Krovėjas (-a) Kaune (Juozapavičiaus pr.),UAB „Lidl Lietuva“,Kaunas,1135-1850,1135.0,1850.0,1492.5,715.0,Other,Other,False
+Talent Acquisition - Vice President,Citco Group of Companies,Vilnius,4000-5000,4000.0,5000.0,4500.0,1000.0,Design & UI/UX,Other,True
+"Pardavėjas (-a) - konsultantas (-ė), pilnas etatas, (Vynoteka, Lietuvininkų g. 68 A, Šilutė)",UAB „Gelsva“,Šilutė,1040-1200,1040.0,1200.0,1120.0,160.0,Sales & Customer Service,Other,False
+Telekomunikacinių tinklų statybos vadovas Vokietijoje,EILE GmbH,Germany,5000-8000,5000.0,8000.0,6500.0,3000.0,DevOps & Systems,Other,True
+"Pardavėjas - konsultantas (-ė), pilnam etatui, Vynoteka (Struikų g. 2, Šilalė)",UAB „Gelsva“,Šilalė,1040-1200,1040.0,1200.0,1120.0,160.0,Design & UI/UX,Other,True
+Pradinių klasių mokytoja (-as) Vitlio licėjuje,VšĮ „Vilniaus inžinerijos ir technologijų licėjus“,Vilnius,From 1300,1300.0,,1300.0,0.0,Manufacturing & Production,Other,True
+Team Lead of Accounts Payable Group,UAB „FESTO“,Kaunas,3000-3250,3000.0,3250.0,3125.0,250.0,Other,Senior,False
+Mokytojo asistentas (-ė) darželyje,VšĮ „Vilniaus inžinerijos ir technologijų licėjus“,Vilnius,From 850,850.0,,850.0,0.0,HR & Administration,Other,True
+Vadybininko asistentas (-ė),UAB „Midateksas“,Mažeikiai,1100-1500,1100.0,1500.0,1300.0,400.0,Sales & Customer Service,Other,False
+Ikimokyklinio ugdymo mokytoja (-as) Vitlio darželyje,VšĮ „Vilniaus inžinerijos ir technologijų licėjus“,Vilnius,From 1200,1200.0,,1200.0,0.0,Manufacturing & Production,Other,True
+Sales Executive,"Grand Hotel Vilnius, Curio Collection by Hilton",Vilnius,2000-2200,2000.0,2200.0,2100.0,200.0,Sales & Customer Service,Other,False
+"Pardavėjas (-a) - konsultantas (-ė) 0.5 et. PPC ""AKROPOLIS"" ŠIAULIUOSE",UAB „ALAN DEKO“,Šiauliai,520-570,520.0,570.0,545.0,50.0,Sales & Customer Service,Other,False
+Jaunesnysis (-ioji) Specialistas (-ė) Operacijų akcijomis skyriuje,Swedbank,Vilnius,1200-1800,1200.0,1800.0,1500.0,600.0,Other,Junior,False
+"Konsultantas (-ė) klientų aptarnavimo skyriuje, Šiauliuose",AS „Citadele banka“ Lietuvos filialas,Šiauliai,1400-1800,1400.0,1800.0,1600.0,400.0,Sales & Customer Service,Other,False
+Kliento patirties vadybininkė (-as),UAB „Intellectus kalbų centras“,Vilnius,From 1500,1500.0,,1500.0,0.0,Sales & Customer Service,Other,False
+Gamybos operatorius (-ė),UAB „Press Glass“,Kaunas,1800-2100,1800.0,2100.0,1950.0,300.0,Manufacturing & Production,Other,False
+Padavėja (-as),"Restoranų Grupė Fortas, UAB",Klaipėda,6.36,1017.6,162816.0,1017.6,0.0,Food Service,Other,False
+Barmenas (-ė) - padavėjas (-a),UAB „DARNU GROUP“,Vilnius,From 1100,1100.0,,1100.0,0.0,Food Service,Other,False
+Statybos / projekto vadovas (-ė),UAB „Incorpus“,Vilnius,3675-6026,3675.0,6026.0,4850.5,2351.0,Management,Other,False
+Finansų patarėjas (-a) (Būsto paskolų sritis) Kaune,Luminor Bank AS Lietuvos skyrius,Kaunas,2000-2510,2000.0,2510.0,2255.0,510.0,Finance & Accounting,Other,False
+Sandėlininkas (-ė) - konsultantas (-ė),AB „Lytagra“,Šakiai,1000-1300,1000.0,1300.0,1150.0,300.0,Sales & Customer Service,Other,False
+Restorano vadovas (-ė),Company name is hidden,Kaunas,From 1200,1200.0,,1200.0,0.0,Management,Other,False
+Transporto vadybininkas (-ė) (galime suteikti apgyvendinimą),UAB „Gedlito transportas“,Klaipėda,2450-3300,2450.0,3300.0,2875.0,850.0,Sales & Customer Service,Other,False
+Skerdimo skyriaus meistras (-ė),Company name is hidden,Joniškis,1800-2200,1800.0,2200.0,2000.0,400.0,Other,Other,False
+"Autošaltkalvis (Darbas su sunkvežimiais, yra galimybė apgyvendinti)",UAB „Gedlito transportas“,Klaipėda,1500-2200,1500.0,2200.0,1850.0,700.0,Logistics & Transport,Other,True
+Operatorius (-ė) - mechanikas (-ė),Company name is hidden,Joniškis,1300-1500,1300.0,1500.0,1400.0,200.0,Manufacturing & Production,Other,False
+Kompetencijų vadovas (-ė),VšĮ „Nacionalinis socialinės integracijos institutas“,Vilnius,3000-3400,3000.0,3400.0,3200.0,400.0,IT Management,Other,True
+"Smulkių siuntų kurjeris (-ė), Ukmergės padalinys",UAB „AD Baltic“,Vilnius,1100-1500,1100.0,1500.0,1300.0,400.0,Logistics & Transport,Other,False
+Renginių įrangos nuomos projektų vadovas (-ė),"Baltic tents, UAB",Vilnius,2200-2800,2200.0,2800.0,2500.0,600.0,IT Management,Other,True
+Elektrikas - Elektros Spintų Surinkėjas (darbui Nyderlanduose),UAB „De Gilde Global Services“,Netherlands,2800-3000,2800.0,3000.0,2900.0,200.0,Design & UI/UX,Other,True
+INDUSTRINIO EKSKAVATORIAUS / FRONTALINIO KRAUTUVO OPERATORIUS (-Ė),UAB „Milsa“,Vilnius,From 1400,1400.0,,1400.0,0.0,Manufacturing & Production,Other,False
+Finance Master Data Specialist,UAB „Metso Global Business Services“,Vilnius,2000-2500,2000.0,2500.0,2250.0,500.0,Data & Analytics,Mid,True
+Brigadininkas (-ė) statybų įmonėje,UAB „Retiva“,Panevėžys,2455-2975,2455.0,2975.0,2715.0,520.0,Construction,Other,False
+Pardavėja (-as) - Konsultantė (-as),UAB „ZBIGA“,Vilnius,1510-2160,1510.0,2160.0,1835.0,650.0,Sales & Customer Service,Other,False
+Pardavėja (-as) - Konsultantė (-as),UAB „ZBIGA“,Kaunas,1510-2160,1510.0,2160.0,1835.0,650.0,Sales & Customer Service,Other,False
+Autoelektrikas,"Platinum service, UAB",Kaunas,1300-2500,1300.0,2500.0,1900.0,1200.0,Other,Other,False
+TECHNIKAS - MONTUOTOJAS,UAB „Velansta“,Vilnius,Up to 1150,1150.0,,1150.0,0.0,Engineering,Other,True
+"Klientų aptarnavimo specialistai (-ės) Šiauliai, Dubijos g. 1C",UAB „Viada LT“,Šiauliai,1450-1650,1450.0,1650.0,1550.0,200.0,Sales & Customer Service,Mid,True
+"Klientų aptarnavimo specialistas (-ė) Anykščiuose, Vienuolio g.",UAB „Viada LT“,Anykščiai,850-900,850.0,900.0,875.0,50.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistas (-ė) Pasvalio r., Brazdigalos k.",UAB „Viada LT“,Pasvalys,900-950,900.0,950.0,925.0,50.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistas (-ė) Rokiškyje, Panevėžio g. 5",UAB „Viada LT“,Rokiškis,900-950,900.0,950.0,925.0,50.0,Sales & Customer Service,Mid,False
+Klientų aptarnavimo specialistas (-ė) Pabradėje,UAB „Viada LT“,Pabradė,850-950,850.0,950.0,900.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistai (-ės) Vilniaus r., Avižieniuose",UAB „Viada LT“,Vilnius,950-1050,950.0,1050.0,1000.0,100.0,Sales & Customer Service,Mid,True
+"Kurjeris (-ė), Vilniuje (paštomatai)","SmartPosti, UAB",Vilnius,1181-2800,1181.0,2800.0,1990.5,1619.0,Logistics & Transport,Other,True
+Klientų aptarnavimo specialistai (-ės) Vilniuje,UAB „Viada LT“,Vilnius,900-1200,900.0,1200.0,1050.0,300.0,Sales & Customer Service,Mid,True
+Vyresnysis mechanikas,Bolt Services LT,Vilnius,1600-1900,1600.0,1900.0,1750.0,300.0,Engineering,Senior,False
+Sprichst du Deutsch? Become a Business Clients Orders Coordinator!,UAB „Transcom Worldwide Vilnius“,Vilnius,1520-1616,1520.0,1616.0,1568.0,96.0,Other,Other,False
+"Klientų aptarnavimo specialistas (-ė) Vilniuje, Kirtimų g.",UAB „Viada LT“,Vilnius,1000-1100,1000.0,1100.0,1050.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistas (-ė) Vilniuje, Olandų g.",UAB „Viada LT“,Vilnius,1000-1100,1000.0,1100.0,1050.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistai (-ės) Vilniuje, Nemenčinės pl.",UAB „Viada LT“,Vilnius,900-1000,900.0,1000.0,950.0,100.0,Sales & Customer Service,Mid,True
+"Klientų aptarnavimo specialistas (-ė) Vilniuje, Naugarduko g.",UAB „Viada LT“,Vilnius,1100-1200,1100.0,1200.0,1150.0,100.0,Sales & Customer Service,Mid,False
+"Klientų aptarnavimo specialistai (-ės) Vilniuje, Dariaus ir Girėno g.",UAB „Viada LT“,Vilnius,1000-1100,1000.0,1100.0,1050.0,100.0,Sales & Customer Service,Mid,True
+"Klientų aptarnavimo specialistai (-ės) Vilniuje, Ozo g.",UAB „Viada LT“,Vilnius,1000-1200,1000.0,1200.0,1100.0,200.0,Sales & Customer Service,Mid,True
+Biuro patalpų valytojas (-a) 0.5 etatu miesto centre,UAB „OLYMPIC CASINO GROUP BALTIJA“,Vilnius,519,519.0,,519.0,0.0,Cleaning & Facilities,Other,False
+Sprichst du Deutsch? Become a Business Clients Orders Coordinator!,UAB „Transcom Worldwide Vilnius“,Kaunas,1520-1616,1520.0,1616.0,1568.0,96.0,Other,Other,False
+Suvirinimo inžinierius (-ė) - technologas (-ė) (IWE/IWT),UAB „ALVORA“,Mažeikiai,2000-2500,2000.0,2500.0,2250.0,500.0,Manufacturing & Production,Other,True
+"Vairuotojas - ekspeditorius, CE kategorija (Водитель - экспедитор, СЕ категория)",UAB „Autecha“,Kaunas,1500-2000,1500.0,2000.0,1750.0,500.0,Logistics & Transport,Other,True
+"Padavėjas (-a) - barmenas (-ė) sūrio ""Džiugas"" namuose, Palangoje",UAB „Čia Market“,Palanga,1500-1900,1500.0,1900.0,1700.0,400.0,Marketing & Communications,Other,False
+Traktoriaus - krautuvo vairuotojas (-a),UAB „Ekonovus“,Alytus,950,950.0,,950.0,0.0,Logistics & Transport,Other,True
+OPERATORIUS / MECHANIKAS – DARBAS SU PAKAVIMO LINIJOMIS,UAB „Galinta ir partneriai“,Kaunas,2095,2095.0,,2095.0,0.0,Manufacturing & Production,Other,False
+LABORANTAS (-Ė),AB „Kauno energija“,Kaunas,1471-1550,1471.0,1550.0,1510.5,79.0,Other,Other,False
+VADYBININKĖ (-AS) VILNIAUS KLIENTŲ APTARNAVIMO SKYRIUJE,Ignitis grupė,Vilnius,1755-2632,1755.0,2632.0,2193.5,877.0,Sales & Customer Service,Other,False
+Business Development Project Manager,"EVERWEST, UAB",Vilnius,3290-4110,3290.0,4110.0,3700.0,820.0,IT Management,Other,True
+Accounts Payable Analyst,UAB „COWI Lietuva“,Vilnius,1700-2200,1700.0,2200.0,1950.0,500.0,Data & Analytics,Other,True
+"Grill kepėjas (-a), virėjas (-a), virtuvės darbuotojai",MB „Čikipuki purslai“,Klaipėda,6-12,960.0,1920.0,1440.0,6.0,Food Service,Other,True
+Fondų ir paramos pritraukimo specialistas (-ė),UAB „Beinitas“,Klaipėda,1231-2000,1231.0,2000.0,1615.5,769.0,Other,Mid,False
+Šaltkalvis - surinkėjas - pakuotojas (-ė),UAB „ROL Lithuania“,Šiauliai,1430-1600,1430.0,1600.0,1515.0,170.0,Marketing & Communications,Other,False
+"Kepyklos darbuotojas (-a) naujai atidaromoje parduotuvėje Kaune (Šilainiai, Baltijos g.)",UAB „Lidl Lietuva“,Kaunas,1135-1850,1135.0,1850.0,1492.5,715.0,Retail,Other,True
+SERVISO TECHNIKO ASISTENTAS (-Ė),UAB „Kavos draugas“,Vilnius,1200,1200.0,,1200.0,0.0,HR & Administration,Other,True
+Vadybininkas (-ė),VšĮ Lietuvos nacionalinis radijas ir televizija,Vilnius,1800-2200,1800.0,2200.0,2000.0,400.0,IT Management,Other,True
+Indų plovėja (-as),UAB „Apex Alliance Hotel Management“,Vilnius,6.40-7,1024.0,1120.0,1072.0,0.5999999999999996,Other,Other,False
+RYTŲ REGIONO KLINIKŲ TINKLO VADOVAS,Company name is hidden,Vilnius,1700-2000,1700.0,2000.0,1850.0,300.0,DevOps & Systems,Other,True
+IQOS salono konsultantas (-ė) Klaipėda ( terminuota sutartis metams),UAB „Manpower Lit“,Klaipėda,From 9.50,1520.0,243200.0,1520.0,0.0,Sales & Customer Service,Other,True
+"Pardavėjas (-a) - konsultantas (-ė), ŠAULIŲ G. 37, MARIJAMPOLĖ","IKI Lietuva, UAB",Marijampolė,1050-1165,1050.0,1165.0,1107.5,115.0,Sales & Customer Service,Other,False
