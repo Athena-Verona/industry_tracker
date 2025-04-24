@@ -5,6 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import pandas as pd
 
+
 def get_seniority(title):
     title_lower = title.lower()
     if any(word in title_lower for word in ["senior", "lead", "principal", "head"]):
@@ -14,7 +15,7 @@ def get_seniority(title):
     elif any(word in title_lower for word in ["mid", "middle", "associate"]):
         return "Mid"
     else:
-        return "Unspecified"
+        return "N/A"
 
 driver = webdriver.Firefox()
 driver.get("https://www.cvonline.lt/en/")
@@ -100,8 +101,22 @@ while True:
             salary = "N/A"
 
         seniority = get_seniority(title)
+        try:
+            date_info = job.find_element(By.CSS_SELECTOR, "div.vacancy-item__info-secondary > div").text.strip()
+            if "Expires:" in date_info:
+                published, expires = date_info.split("Expires:")
+                published = published.replace("Published", "").strip()
+                expires = expires.strip()
+            else:
+                published = date_info.replace("Published", "").strip()
+                expires = "N/A"
+        except:
+            published = "N/A"
+            expires = "N/A"
 
-        jobs.append([title, company, location, salary, seniority])
+
+        jobs.append([title, company, location, salary, seniority, published, expires])
+
 
     try:
         next_button = driver.find_element(By.CSS_SELECTOR, "button.jsx-1632237535.pagination__link[aria-label='Next']")
@@ -119,7 +134,6 @@ while True:
         break
 
 driver.quit()
-
-df = pd.DataFrame(jobs, columns=["Title", "Company", "Location", "Salary", "Seniority"])
+df = pd.DataFrame(jobs, columns=["Title", "Company", "Location", "Salary", "Seniority", "Published", "Expires"])
 df.to_csv("cvonline_jobs.csv", index=False, sep=";")
 print("Data saved to cvonline_jobs.csv")
