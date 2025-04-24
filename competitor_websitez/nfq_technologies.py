@@ -21,21 +21,35 @@ try:
 
         EC.presence_of_element_located((By.XPATH, "//button[@aria-label='Accept all cookies']"))
     )
-    cookieAccept = driver.find_element(By.XPATH, "//button[@aria-label='Accept all cookies']")
-    cookieAccept.click()
+    #cookieAccept = driver.find_element(By.XPATH, "//button[@aria-label='Accept all cookies']")
+    #cookieAccept.click()
     time.sleep(2)
 
     driver.execute_script("window.scrollBy(0, 600);")
-
-    button = driver.find_element(By.ID, "headlessui-disclosure-button-:r3:")
+    driver.execute_script("window.scrollBy(0, 600);")
+    button = driver.find_element(By.ID, "headlessui-listbox-button-:r0:")
     # Scroll to the button
     driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", button)
     time.sleep(1)
+    # click the button
     driver.execute_script("arguments[0].click();", button)
 
-    WebDriverWait(driver, 15).until(
-        EC.presence_of_element_located((By.ID, "jobs-of-Lithuania"))
-    )
+    # Click Vilnius
+    vilnius_btn = driver.find_element(By.XPATH, "//button[contains(text(), 'Vilnius')]")
+    vilnius_btn.click()
+    time.sleep(1)
+
+    # Click Kaunas
+    kaunas_btn = driver.find_element(By.XPATH, "//button[contains(text(), 'Kaunas')]")
+    kaunas_btn.click()
+    time.sleep(1)
+
+
+
+    #
+    #WebDriverWait(driver, 15).until(
+    #    EC.presence_of_element_located((By.ID, "jobs-of-Lithuania"))
+    #)
 
     
     job_elements = driver.find_elements(By.CSS_SELECTOR, ".career-sparkle-card a[href]")
@@ -62,9 +76,15 @@ try:
         location = driver.find_element(By.CSS_SELECTOR, ".location").text
         company = "NFQ Technologies"
 
-        driver.execute_script("window.scrollBy(0, 1000);")
-        salary = driver.find_element(By.CSS_SELECTOR, "span[class='text-2xl font-bold']").text
-#
+        #Scroll to the bottom
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(2)  
+
+        # Find the text block with the salary and scroll to it
+        div = driver.find_element(By.CSS_SELECTOR, "div[data-qa='closing-description']")
+        driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", div)
+
+        salary = driver.find_element(By.CSS_SELECTOR, "[data-qa='closing-description'] span").text
         jobs.append([title, company, location, salary])
 
         driver.close()
@@ -78,4 +98,4 @@ try:
 finally:
     driver.quit()
     df = pd.DataFrame(jobs, columns=["Title", "Company", "Location", "Salary"])
-    df.to_csv("jobs.csv", index=False, sep=";")
+    df.to_csv('jobs.csv', mode='a', index=False, header=False, sep=';')

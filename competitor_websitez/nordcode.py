@@ -11,7 +11,6 @@ import pandas as pd
 driver = webdriver.Firefox()
 
 url_1 = "https://nordcode.io/lt/karjera"
-url_2 = "https://www.nfq.com/lt/karjera"
 
 jobs = []
 
@@ -50,8 +49,6 @@ try:
         driver.switch_to.window(driver.window_handles[0])
     
 
-    driver.get(url_2)
-    driver.implicitly_wait(10)
 
 
 finally:
