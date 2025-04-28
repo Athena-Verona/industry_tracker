@@ -1,0 +1,301 @@
+Company,Position Title,Salary Range (€),Seniority Level,Publishing Date,Skills Required,City
+TransferGo,QA Engineer,"2,500 – 4,000",Junior,2025-04-14,"AWS, SQL, CI/CD, Linux",Klaipėda
+Sanitex Lietuva,Data Scientist,"2,500 – 4,000",Mid-Senior,2025-04-14,"Kubernetes, Azure, NoSQL, SQL",Klaipėda
+Planner5d,Frontend Developer,"2,000 – 3,000",Junior,2025-04-22,"CI/CD, Scrum, SQL, Agile",Klaipėda
+Moody's Lithuania,IT Business Analyst,"4,000 – 6,000",Lead,2025-04-05,"AWS, Microservices, CI/CD, React",Panevėžys
+Devbridge,QA Engineer,"2,500 – 4,000",Lead,2025-04-22,"C#, Microservices, React, Docker",Kaunas
+Barclays Lithuania,Software Engineer,"5,000+",Mid-Senior,2025-04-14,"C#, NoSQL, React, Azure",Vilnius
+Cognizant,Software Engineer,"2,000 – 3,000",Mid,2025-04-13,"React, CI/CD, Azure, Linux",Vilnius
+Moody's Lithuania,Mobile App Developer,"2,000 – 3,000",Lead,2025-04-27,"React, NoSQL, Agile, Scrum",Šiauliai
+Flo Health,QA Engineer,"2,000 – 3,000",Mid-Senior,2025-04-27,"CI/CD, Java, SQL, Azure",Kaunas
+Accenture,Data Scientist,"2,500 – 4,000",Mid,2025-04-23,"Agile, Angular, Python, Microservices",Klaipėda
+GetJet Airlines,Product Manager,"3,000 – 5,000",Senior,2025-04-16,"SQL, Azure, Python, Java",Kaunas
+Tietoevry,Cloud Architect,"2,500 – 4,000",Lead,2025-04-11,"AWS, Python, Kubernetes, Docker",Šiauliai
+Wix.com,Product Manager,"2,500 – 4,000",Senior,2025-03-31,"NoSQL, SQL, Python, Azure",Kaunas
+Danske Bank,Cloud Architect,"3,500 – 5,500",Lead,2025-04-26,"Python, Azure, Windows Server, Agile",Klaipėda
+Revolut,Cybersecurity Specialist,"2,000 – 3,000",Senior,2025-04-21,"Agile, Angular, C#, Microservices",Klaipėda
+Revolut,Frontend Developer,"2,000 – 3,000",Mid,2025-04-18,"Windows Server, Kubernetes, Docker, Angular",Panevėžys
+Barclays Lithuania,Frontend Developer,"3,000 – 5,000",Mid,2025-03-29,"React, Microservices, Kubernetes, Angular",Panevėžys
+TransferGo,IT Business Analyst,"3,500 – 5,500",Mid,2025-04-10,"AWS, Python, CI/CD, NoSQL",Klaipėda
+Sanitex Lietuva,Systems Administrator,"2,500 – 4,000",Lead,2025-04-23,"C#, Angular, NoSQL, Agile",Šiauliai
+GetJet Airlines,Product Manager,"5,000+",Lead,2025-04-23,"Docker, AWS, Microservices, Agile",Panevėžys
+Flo Health,Data Engineer,"2,000 – 3,000",Junior,2025-04-14,"Angular, Kubernetes, Linux, CI/CD",Vilnius
+Sanitex Lietuva,Data Scientist,"4,000 – 6,000",Mid-Senior,2025-04-10,"SQL, Azure, NoSQL, Agile",Panevėžys
+Nord Security,Cloud Architect,"2,000 – 3,000",Junior,2025-04-19,"Java, Docker, React, Python",Kaunas
+Moody's Lithuania,Cybersecurity Specialist,"2,000 – 3,000",Mid-Senior,2025-04-13,"Docker, React, Agile, AWS",Kaunas
+GetJet Airlines,IT Business Analyst,"3,500 – 5,500",Mid-Senior,2025-04-22,"CI/CD, Linux, NoSQL, Azure",Kaunas
+Wix.com,Security Analyst,"4,000 – 6,000",Mid-Senior,2025-04-08,"Java, Angular, SQL, Docker",Klaipėda
+Nord Security,Software Engineer,"5,000+",Mid-Senior,2025-04-17,"React, AWS, CI/CD, Microservices",Klaipėda
+IBM Lithuania,QA Engineer,"4,000 – 6,000",Senior,2025-04-06,"Scrum, Agile, Linux, NoSQL",Klaipėda
+Flo Health,Cloud Architect,"3,000 – 5,000",Senior,2025-04-02,"CI/CD, Microservices, Kubernetes, Windows Server",Šiauliai
+Danske Bank,Backend Developer,"2,500 – 4,000",Mid,2025-04-09,"Agile, Azure, Windows Server, NoSQL",Panevėžys
+Cognizant,Data Scientist,"2,000 – 3,000",Senior,2025-04-05,"React, Microservices, AWS, Kubernetes",Kaunas
+GetJet Airlines,Cloud Architect,"3,000 – 5,000",Mid,2025-04-06,"SQL, Kubernetes, Angular, Java",Kaunas
+Moody's Lithuania,IT Business Analyst,"2,500 – 4,000",Senior,2025-04-09,"Kubernetes, Microservices, Windows Server, Docker",Šiauliai
+Adform,DevOps Engineer,"3,000 – 5,000",Lead,2025-04-20,"Python, SQL, Linux, React",Vilnius
+TransferGo,Systems Administrator,"2,500 – 4,000",Mid,2025-03-31,"React, SQL, Java, Windows Server",Panevėžys
+Flo Health,Security Analyst,"5,000+",Lead,2025-04-11,"AWS, Azure, C#, Linux",Klaipėda
+Tietoevry,Mobile App Developer,"3,000 – 5,000",Senior,2025-04-10,"Java, Python, Azure, SQL",Kaunas
+TransferGo,Systems Administrator,"2,500 – 4,000",Junior,2025-04-24,"React, Python, Docker, C#",Kaunas
+Moody's Lithuania,Cloud Architect,"3,500 – 5,500",Lead,2025-04-14,"Scrum, Python, Linux, Docker",Panevėžys
+Tesonet,Cybersecurity Specialist,"3,000 – 5,000",Junior,2025-04-27,"Linux, Scrum, C#, Angular",Panevėžys
+SEB,QA Engineer,"5,000+",Junior,2025-04-07,"Java, Python, Agile, Kubernetes",Vilnius
+TransferGo,QA Engineer,"5,000+",Mid,2025-04-23,"C#, Angular, Python, React",Vilnius
+IBM Lithuania,Frontend Developer,"5,000+",Mid-Senior,2025-04-28,"SQL, Angular, Java, React",Kaunas
+Devbridge,IT Project Manager,"3,000 – 5,000",Mid-Senior,2025-04-19,"Windows Server, C#, Microservices, Linux",Kaunas
+Flo Health,Software Engineer,"2,500 – 4,000",Senior,2025-04-03,"CI/CD, AWS, Microservices, Windows Server",Kaunas
+Moody's Lithuania,Cloud Architect,"4,000 – 6,000",Junior,2025-04-23,"SQL, Python, React, Java",Panevėžys
+Revolut,IT Project Manager,"3,500 – 5,500",Mid,2025-04-16,"Agile, Linux, Docker, Python",Šiauliai
+GetJet Airlines,Product Manager,"4,000 – 6,000",Junior,2025-03-29,"SQL, Python, Windows Server, Linux",Vilnius
+GetJet Airlines,Mobile App Developer,"4,000 – 6,000",Mid-Senior,2025-04-01,"Windows Server, Azure, Agile, C#",Klaipėda
+Tesonet,Systems Administrator,"2,000 – 3,000",Junior,2025-03-31,"CI/CD, Microservices, Kubernetes, Windows Server",Šiauliai
+Tietoevry,Cloud Architect,"2,000 – 3,000",Lead,2025-04-03,"Angular, CI/CD, Linux, Agile",Klaipėda
+Cognizant,Data Engineer,"3,000 – 5,000",Lead,2025-04-09,"Java, C#, React, AWS",Kaunas
+Tietoevry,Systems Administrator,"5,000+",Senior,2025-04-28,"Docker, Linux, CI/CD, Kubernetes",Panevėžys
+TransferGo,IT Business Analyst,"2,500 – 4,000",Lead,2025-04-03,"Scrum, Agile, Microservices, Linux",Panevėžys
+Nord Security,Mobile App Developer,"3,500 – 5,500",Mid-Senior,2025-04-17,"AWS, Kubernetes, C#, Linux",Klaipėda
+GetJet Airlines,Data Scientist,"4,000 – 6,000",Junior,2025-04-27,"Kubernetes, AWS, CI/CD, Python",Klaipėda
+Tietoevry,Cloud Architect,"2,500 – 4,000",Lead,2025-04-20,"Kubernetes, Docker, C#, React",Šiauliai
+Cognizant,IT Project Manager,"2,500 – 4,000",Mid-Senior,2025-04-16,"Java, Agile, SQL, Docker",Panevėžys
+Sanitex Lietuva,Mobile App Developer,"3,000 – 5,000",Mid,2025-04-15,"SQL, Windows Server, Kubernetes, Agile",Klaipėda
+Moody's Lithuania,Data Scientist,"4,000 – 6,000",Junior,2025-04-05,"Python, Scrum, Linux, Angular",Klaipėda
+Tesonet,Cloud Architect,"3,500 – 5,500",Lead,2025-04-10,"SQL, NoSQL, Agile, Scrum",Panevėžys
+Vinted,IT Business Analyst,"3,500 – 5,500",Mid-Senior,2025-04-06,"SQL, Kubernetes, C#, Python",Vilnius
+Flo Health,DevOps Engineer,"2,000 – 3,000",Junior,2025-04-14,"Linux, Angular, Agile, Windows Server",Klaipėda
+Nord Security,Systems Administrator,"4,000 – 6,000",Lead,2025-03-30,"React, Microservices, Windows Server, C#",Klaipėda
+Cognizant,IT Project Manager,"4,000 – 6,000",Lead,2025-04-15,"React, SQL, Angular, Docker",Klaipėda
+GetJet Airlines,Cloud Architect,"3,000 – 5,000",Lead,2025-04-20,"Java, SQL, Kubernetes, Microservices",Panevėžys
+Devbridge,IT Project Manager,"2,500 – 4,000",Senior,2025-04-21,"Agile, Azure, Scrum, Kubernetes",Šiauliai
+Sanitex Lietuva,Cloud Architect,"2,500 – 4,000",Lead,2025-04-19,"Scrum, Azure, Linux, C#",Klaipėda
+Danske Bank,Software Engineer,"2,500 – 4,000",Junior,2025-04-28,"Azure, Docker, Scrum, React",Klaipėda
+Vinted,Security Analyst,"2,000 – 3,000",Senior,2025-04-05,"Azure, Scrum, SQL, Docker",Klaipėda
+Wix.com,Backend Developer,"2,500 – 4,000",Junior,2025-04-24,"SQL, Docker, Kubernetes, Angular",Vilnius
+Nord Security,Backend Developer,"3,500 – 5,500",Lead,2025-04-07,"CI/CD, Linux, Microservices, SQL",Kaunas
+Nord Security,Backend Developer,"3,500 – 5,500",Mid,2025-04-05,"AWS, Linux, Windows Server, Python",Vilnius
+Vinted,Data Scientist,"3,000 – 5,000",Lead,2025-04-15,"C#, CI/CD, Kubernetes, Angular",Šiauliai
+Vinted,Cloud Architect,"5,000+",Mid,2025-04-02,"Angular, Azure, Docker, Agile",Kaunas
+Tesonet,QA Engineer,"3,000 – 5,000",Mid,2025-04-18,"Linux, React, SQL, Python",Kaunas
+TransferGo,Cybersecurity Specialist,"3,500 – 5,500",Lead,2025-04-20,"React, Docker, CI/CD, SQL",Klaipėda
+Barclays Lithuania,Backend Developer,"5,000+",Junior,2025-04-06,"Microservices, SQL, Docker, React",Vilnius
+SEB,Data Scientist,"2,500 – 4,000",Junior,2025-04-16,"Docker, Java, CI/CD, Kubernetes",Panevėžys
+Revolut,QA Engineer,"5,000+",Junior,2025-04-04,"Windows Server, C#, NoSQL, Kubernetes",Šiauliai
+Tietoevry,Security Analyst,"3,500 – 5,500",Mid-Senior,2025-03-31,"Scrum, Linux, Angular, AWS",Šiauliai
+Cognizant,Mobile App Developer,"2,000 – 3,000",Junior,2025-04-24,"Agile, CI/CD, C#, React",Klaipėda
+Adform,Cloud Architect,"2,000 – 3,000",Senior,2025-04-08,"Python, Agile, SQL, Docker",Šiauliai
+Moody's Lithuania,Data Scientist,"2,500 – 4,000",Mid,2025-04-09,"Kubernetes, C#, Python, AWS",Panevėžys
+Cognizant,Cloud Architect,"5,000+",Junior,2025-04-05,"NoSQL, Kubernetes, Windows Server, C#",Kaunas
+Danske Bank,Systems Administrator,"3,000 – 5,000",Mid,2025-04-26,"NoSQL, Agile, C#, Windows Server",Kaunas
+Wix.com,Data Scientist,"4,000 – 6,000",Senior,2025-04-14,"React, CI/CD, Angular, Microservices",Kaunas
+SEB,QA Engineer,"3,000 – 5,000",Junior,2025-04-27,"React, Kubernetes, NoSQL, Azure",Panevėžys
+Revolut,DevOps Engineer,"2,000 – 3,000",Senior,2025-04-26,"Microservices, Windows Server, React, Scrum",Kaunas
+SEB,Software Engineer,"3,000 – 5,000",Mid,2025-04-18,"SQL, Python, Kubernetes, CI/CD",Kaunas
+Devbridge,DevOps Engineer,"2,000 – 3,000",Senior,2025-04-02,"Linux, Scrum, Azure, Windows Server",Vilnius
+Sanitex Lietuva,QA Engineer,"2,500 – 4,000",Mid,2025-04-23,"NoSQL, Angular, Azure, Docker",Klaipėda
+Tietoevry,Product Manager,"2,000 – 3,000",Mid-Senior,2025-03-29,"Azure, Linux, C#, Windows Server",Kaunas
+Accenture,Product Manager,"3,500 – 5,500",Junior,2025-04-22,"Windows Server, CI/CD, Scrum, Linux",Vilnius
+Devbridge,Cybersecurity Specialist,"3,000 – 5,000",Mid-Senior,2025-04-15,"Linux, NoSQL, Python, Agile",Kaunas
+Vinted,Cybersecurity Specialist,"2,000 – 3,000",Lead,2025-04-18,"React, Microservices, Windows Server, Kubernetes",Vilnius
+Danske Bank,Systems Administrator,"3,000 – 5,000",Lead,2025-04-02,"NoSQL, Linux, Agile, Windows Server",Šiauliai
+Accenture,Frontend Developer,"3,500 – 5,500",Mid-Senior,2025-04-19,"Azure, Python, Scrum, AWS",Šiauliai
+Sanitex Lietuva,Mobile App Developer,"3,000 – 5,000",Senior,2025-04-19,"Docker, Python, Linux, NoSQL",Kaunas
+GetJet Airlines,Cloud Architect,"2,500 – 4,000",Lead,2025-04-16,"Java, AWS, CI/CD, React",Kaunas
+Adform,Frontend Developer,"3,500 – 5,500",Mid-Senior,2025-04-02,"Agile, Kubernetes, Microservices, CI/CD",Šiauliai
+TransferGo,Data Engineer,"5,000+",Senior,2025-04-01,"React, SQL, Windows Server, Python",Vilnius
+Revolut,Software Engineer,"2,000 – 3,000",Senior,2025-04-04,"Linux, Agile, Angular, Windows Server",Panevėžys
+Moody's Lithuania,IT Project Manager,"3,500 – 5,500",Senior,2025-04-23,"Angular, Microservices, Windows Server, CI/CD",Klaipėda
+Sanitex Lietuva,DevOps Engineer,"2,000 – 3,000",Mid-Senior,2025-04-10,"C#, Scrum, Docker, Windows Server",Šiauliai
+Wix.com,IT Project Manager,"3,500 – 5,500",Senior,2025-04-21,"CI/CD, Docker, React, C#",Panevėžys
+Danske Bank,Backend Developer,"5,000+",Senior,2025-04-28,"SQL, Linux, Scrum, C#",Klaipėda
+Moody's Lithuania,Security Analyst,"2,000 – 3,000",Senior,2025-04-10,"Java, NoSQL, AWS, Docker",Šiauliai
+Accenture,Systems Administrator,"2,500 – 4,000",Senior,2025-04-26,"SQL, NoSQL, Agile, Windows Server",Vilnius
+Nord Security,Frontend Developer,"2,500 – 4,000",Junior,2025-03-30,"Microservices, CI/CD, Kubernetes, AWS",Vilnius
+GetJet Airlines,Software Engineer,"2,000 – 3,000",Lead,2025-04-16,"Microservices, Docker, Kubernetes, Linux",Klaipėda
+Nord Security,Software Engineer,"3,000 – 5,000",Junior,2025-03-31,"React, Scrum, Kubernetes, Python",Šiauliai
+IBM Lithuania,Frontend Developer,"4,000 – 6,000",Senior,2025-04-26,"React, Azure, Docker, Java",Vilnius
+Devbridge,Data Scientist,"3,000 – 5,000",Lead,2025-04-23,"React, NoSQL, Azure, Scrum",Kaunas
+Cognizant,Software Engineer,"4,000 – 6,000",Lead,2025-04-09,"React, Azure, NoSQL, Linux",Vilnius
+Adform,Systems Administrator,"5,000+",Junior,2025-04-04,"CI/CD, C#, Java, AWS",Šiauliai
+Tesonet,Security Analyst,"2,500 – 4,000",Mid-Senior,2025-04-17,"Python, React, SQL, Java",Klaipėda
+Tietoevry,Security Analyst,"3,000 – 5,000",Mid,2025-04-13,"Linux, Windows Server, AWS, NoSQL",Klaipėda
+Cognizant,IT Project Manager,"2,500 – 4,000",Senior,2025-04-18,"Python, Linux, C#, Microservices",Klaipėda
+Moody's Lithuania,Cloud Architect,"3,000 – 5,000",Mid-Senior,2025-04-21,"C#, Python, Java, Windows Server",Vilnius
+Tietoevry,QA Engineer,"3,500 – 5,500",Senior,2025-03-31,"Linux, React, Azure, Python",Klaipėda
+GetJet Airlines,Data Engineer,"2,500 – 4,000",Lead,2025-04-18,"Agile, Kubernetes, Azure, Angular",Vilnius
+Danske Bank,QA Engineer,"5,000+",Senior,2025-04-07,"C#, Scrum, Java, NoSQL",Vilnius
+Sanitex Lietuva,Systems Administrator,"3,500 – 5,500",Mid-Senior,2025-04-17,"Python, NoSQL, Java, Docker",Šiauliai
+Vinted,Backend Developer,"5,000+",Lead,2025-04-18,"NoSQL, Linux, Agile, Kubernetes",Šiauliai
+Wix.com,Software Engineer,"2,500 – 4,000",Junior,2025-04-26,"React, SQL, Docker, Linux",Vilnius
+IBM Lithuania,Backend Developer,"3,000 – 5,000",Mid,2025-04-04,"C#, React, Docker, CI/CD",Klaipėda
+GetJet Airlines,Frontend Developer,"3,000 – 5,000",Senior,2025-04-09,"Agile, CI/CD, AWS, React",Panevėžys
+Cognizant,Frontend Developer,"5,000+",Mid-Senior,2025-04-28,"React, AWS, Python, Java",Šiauliai
+Barclays Lithuania,DevOps Engineer,"3,500 – 5,500",Junior,2025-04-11,"Agile, Linux, React, C#",Panevėžys
+Danske Bank,Cybersecurity Specialist,"5,000+",Junior,2025-03-31,"NoSQL, React, Angular, Java",Panevėžys
+Devbridge,Systems Administrator,"2,000 – 3,000",Mid,2025-04-23,"Kubernetes, NoSQL, Angular, Azure",Panevėžys
+Barclays Lithuania,QA Engineer,"3,500 – 5,500",Lead,2025-04-03,"NoSQL, CI/CD, Docker, Agile",Panevėžys
+Tesonet,DevOps Engineer,"3,000 – 5,000",Junior,2025-04-12,"SQL, Java, Scrum, Azure",Vilnius
+Cognizant,Cloud Architect,"3,000 – 5,000",Mid,2025-04-28,"NoSQL, Microservices, React, AWS",Kaunas
+Revolut,IT Business Analyst,"3,500 – 5,500",Mid,2025-04-15,"SQL, Azure, Agile, Angular",Panevėžys
+Moody's Lithuania,Software Engineer,"2,500 – 4,000",Senior,2025-04-13,"Kubernetes, Angular, C#, React",Šiauliai
+Moody's Lithuania,Data Engineer,"5,000+",Junior,2025-03-30,"Linux, CI/CD, Agile, Azure",Kaunas
+SEB,Frontend Developer,"3,500 – 5,500",Mid,2025-04-28,"Java, Scrum, Windows Server, AWS",Panevėžys
+Flo Health,Systems Administrator,"3,500 – 5,500",Junior,2025-04-19,"CI/CD, Kubernetes, AWS, Python",Vilnius
+Cognizant,QA Engineer,"2,000 – 3,000",Mid-Senior,2025-04-08,"React, C#, Scrum, Docker",Kaunas
+Barclays Lithuania,Data Scientist,"3,500 – 5,500",Senior,2025-04-06,"SQL, Java, Kubernetes, C#",Vilnius
+Accenture,Product Manager,"2,000 – 3,000",Lead,2025-04-19,"C#, Scrum, Python, Linux",Kaunas
+Cognizant,Systems Administrator,"3,000 – 5,000",Junior,2025-04-05,"CI/CD, Microservices, Docker, AWS",Kaunas
+IBM Lithuania,Cybersecurity Specialist,"2,000 – 3,000",Mid-Senior,2025-04-12,"Scrum, NoSQL, Agile, Microservices",Klaipėda
+Sanitex Lietuva,Data Scientist,"3,500 – 5,500",Senior,2025-04-06,"C#, React, Scrum, CI/CD",Kaunas
+Moody's Lithuania,Frontend Developer,"4,000 – 6,000",Junior,2025-04-16,"CI/CD, Azure, AWS, Docker",Kaunas
+Vinted,Security Analyst,"3,500 – 5,500",Junior,2025-04-02,"Angular, Python, Docker, Linux",Šiauliai
+Wix.com,Software Engineer,"2,000 – 3,000",Junior,2025-03-29,"Agile, Angular, AWS, Python",Panevėžys
+SEB,Mobile App Developer,"2,000 – 3,000",Mid-Senior,2025-04-10,"Kubernetes, C#, React, Scrum",Kaunas
+Adform,Cybersecurity Specialist,"3,000 – 5,000",Mid,2025-04-06,"CI/CD, SQL, React, C#",Klaipėda
+Moody's Lithuania,Systems Administrator,"2,000 – 3,000",Lead,2025-04-28,"Agile, Windows Server, Angular, Python",Kaunas
+Revolut,IT Project Manager,"2,000 – 3,000",Lead,2025-04-01,"React, Agile, AWS, Linux",Kaunas
+Vinted,Frontend Developer,"2,000 – 3,000",Lead,2025-04-10,"CI/CD, Azure, React, Linux",Klaipėda
+Moody's Lithuania,Cloud Architect,"2,000 – 3,000",Junior,2025-04-04,"Azure, AWS, Scrum, React",Kaunas
+Vinted,IT Project Manager,"3,000 – 5,000",Lead,2025-03-30,"Microservices, CI/CD, Agile, Java",Šiauliai
+Devbridge,Data Scientist,"4,000 – 6,000",Lead,2025-04-15,"Agile, Java, Scrum, SQL",Panevėžys
+Nord Security,Cybersecurity Specialist,"3,500 – 5,500",Mid,2025-04-13,"Angular, Docker, Windows Server, Python",Vilnius
+GetJet Airlines,Cloud Architect,"2,500 – 4,000",Mid-Senior,2025-04-27,"Agile, NoSQL, Linux, SQL",Panevėžys
+Flo Health,Cybersecurity Specialist,"2,000 – 3,000",Lead,2025-04-11,"Windows Server, Python, Angular, SQL",Šiauliai
+Nord Security,Cloud Architect,"4,000 – 6,000",Junior,2025-04-19,"Kubernetes, Windows Server, AWS, Docker",Kaunas
+Cognizant,Product Manager,"2,000 – 3,000",Senior,2025-04-20,"React, Docker, Azure, Java",Vilnius
+Cognizant,QA Engineer,"2,500 – 4,000",Mid,2025-04-09,"C#, AWS, Scrum, SQL",Šiauliai
+Planner5d,Frontend Developer,"3,500 – 5,500",Senior,2025-03-29,"Azure, Microservices, Java, Scrum",Kaunas
+Barclays Lithuania,Mobile App Developer,"3,000 – 5,000",Lead,2025-04-01,"AWS, Java, Python, C#",Panevėžys
+Barclays Lithuania,Security Analyst,"4,000 – 6,000",Mid,2025-04-28,"C#, Scrum, React, Agile",Šiauliai
+TransferGo,Cloud Architect,"4,000 – 6,000",Mid,2025-04-07,"Java, Linux, NoSQL, Python",Šiauliai
+Cognizant,IT Business Analyst,"4,000 – 6,000",Senior,2025-04-20,"Python, SQL, React, Linux",Klaipėda
+Tietoevry,DevOps Engineer,"5,000+",Mid,2025-04-24,"Microservices, SQL, Angular, C#",Klaipėda
+Accenture,QA Engineer,"4,000 – 6,000",Senior,2025-04-21,"AWS, Python, Agile, Windows Server",Panevėžys
+Wix.com,Frontend Developer,"2,000 – 3,000",Mid-Senior,2025-04-10,"Windows Server, SQL, Java, Python",Klaipėda
+Tietoevry,Product Manager,"3,000 – 5,000",Mid,2025-04-27,"Agile, Linux, Azure, SQL",Panevėžys
+Devbridge,IT Business Analyst,"3,500 – 5,500",Junior,2025-04-17,"Docker, Angular, AWS, Agile",Klaipėda
+Revolut,Frontend Developer,"3,000 – 5,000",Mid,2025-04-23,"Kubernetes, AWS, Python, Angular",Kaunas
+Moody's Lithuania,Product Manager,"2,500 – 4,000",Senior,2025-04-18,"Linux, Docker, Python, Agile",Kaunas
+Sanitex Lietuva,Security Analyst,"5,000+",Senior,2025-04-10,"NoSQL, Python, AWS, Microservices",Vilnius
+Revolut,QA Engineer,"3,000 – 5,000",Lead,2025-04-18,"Scrum, Linux, Windows Server, Java",Kaunas
+Sanitex Lietuva,DevOps Engineer,"4,000 – 6,000",Lead,2025-04-06,"Kubernetes, Agile, Java, C#",Kaunas
+Adform,Security Analyst,"3,000 – 5,000",Junior,2025-04-15,"Angular, Agile, Kubernetes, Microservices",Panevėžys
+Sanitex Lietuva,DevOps Engineer,"3,500 – 5,500",Lead,2025-04-28,"SQL, Scrum, CI/CD, Python",Klaipėda
+Flo Health,Data Engineer,"4,000 – 6,000",Mid-Senior,2025-04-18,"Linux, Windows Server, React, C#",Vilnius
+IBM Lithuania,Cybersecurity Specialist,"3,000 – 5,000",Mid,2025-04-07,"Windows Server, React, CI/CD, Kubernetes",Kaunas
+Adform,Systems Administrator,"4,000 – 6,000",Mid,2025-04-05,"Agile, Windows Server, CI/CD, SQL",Panevėžys
+IBM Lithuania,Data Engineer,"4,000 – 6,000",Junior,2025-04-02,"Windows Server, Python, Java, Angular",Vilnius
+Sanitex Lietuva,Mobile App Developer,"4,000 – 6,000",Mid,2025-04-26,"Python, Agile, Scrum, Kubernetes",Šiauliai
+Revolut,Software Engineer,"3,000 – 5,000",Senior,2025-04-24,"Java, Python, Kubernetes, NoSQL",Panevėžys
+Cognizant,QA Engineer,"2,500 – 4,000",Lead,2025-04-24,"AWS, Java, Docker, CI/CD",Šiauliai
+Tietoevry,IT Project Manager,"2,500 – 4,000",Junior,2025-04-13,"AWS, Angular, Scrum, Azure",Kaunas
+GetJet Airlines,Software Engineer,"5,000+",Senior,2025-04-02,"Agile, NoSQL, Azure, Docker",Panevėžys
+Nord Security,IT Project Manager,"2,000 – 3,000",Lead,2025-03-29,"AWS, Scrum, Angular, Kubernetes",Vilnius
+Sanitex Lietuva,Data Engineer,"4,000 – 6,000",Senior,2025-04-08,"Windows Server, React, Linux, NoSQL",Kaunas
+Sanitex Lietuva,Product Manager,"2,000 – 3,000",Lead,2025-04-01,"AWS, Scrum, Agile, React",Klaipėda
+Wix.com,QA Engineer,"4,000 – 6,000",Lead,2025-04-04,"Angular, React, Azure, Microservices",Šiauliai
+SEB,IT Business Analyst,"2,000 – 3,000",Senior,2025-04-19,"CI/CD, Linux, Kubernetes, Windows Server",Klaipėda
+SEB,IT Business Analyst,"4,000 – 6,000",Mid-Senior,2025-04-10,"C#, Linux, Microservices, Python",Klaipėda
+Flo Health,Cloud Architect,"5,000+",Mid-Senior,2025-04-24,"Python, Windows Server, Linux, React",Panevėžys
+Nord Security,Data Scientist,"2,000 – 3,000",Senior,2025-04-04,"Python, Scrum, NoSQL, Agile",Šiauliai
+Nord Security,Data Engineer,"4,000 – 6,000",Junior,2025-04-27,"Agile, Java, Microservices, NoSQL",Šiauliai
+Accenture,IT Project Manager,"4,000 – 6,000",Mid-Senior,2025-04-17,"Scrum, Angular, Microservices, Kubernetes",Panevėžys
+Danske Bank,Product Manager,"5,000+",Junior,2025-04-10,"Azure, AWS, C#, CI/CD",Šiauliai
+GetJet Airlines,Frontend Developer,"4,000 – 6,000",Lead,2025-04-19,"AWS, CI/CD, Docker, Linux",Kaunas
+SEB,Data Engineer,"3,500 – 5,500",Lead,2025-04-05,"CI/CD, Microservices, Python, Agile",Kaunas
+Planner5d,Cybersecurity Specialist,"2,500 – 4,000",Mid,2025-03-30,"C#, Kubernetes, AWS, SQL",Šiauliai
+Moody's Lithuania,Cloud Architect,"3,500 – 5,500",Mid,2025-03-30,"Scrum, Java, Docker, Kubernetes",Panevėžys
+Vinted,Software Engineer,"2,500 – 4,000",Senior,2025-03-29,"Python, NoSQL, Agile, React",Šiauliai
+Accenture,Software Engineer,"4,000 – 6,000",Junior,2025-04-08,"Scrum, Agile, SQL, Microservices",Vilnius
+Devbridge,IT Business Analyst,"4,000 – 6,000",Lead,2025-04-07,"CI/CD, Windows Server, Python, Kubernetes",Panevėžys
+Tesonet,Frontend Developer,"4,000 – 6,000",Junior,2025-04-28,"Azure, Scrum, Microservices, Windows Server",Klaipėda
+Moody's Lithuania,Backend Developer,"5,000+",Mid,2025-04-12,"AWS, Angular, Linux, SQL",Šiauliai
+Planner5d,Frontend Developer,"2,000 – 3,000",Junior,2025-03-31,"Scrum, Java, Microservices, Kubernetes",Šiauliai
+Wix.com,Systems Administrator,"3,500 – 5,500",Lead,2025-04-23,"Microservices, Java, React, Windows Server",Vilnius
+Planner5d,IT Business Analyst,"3,500 – 5,500",Lead,2025-04-27,"Kubernetes, CI/CD, Java, Agile",Šiauliai
+Nord Security,Cloud Architect,"2,500 – 4,000",Junior,2025-04-11,"SQL, Scrum, Python, React",Kaunas
+Cognizant,Backend Developer,"2,000 – 3,000",Mid-Senior,2025-04-05,"C#, Agile, Angular, AWS",Šiauliai
+Cognizant,Cybersecurity Specialist,"2,500 – 4,000",Senior,2025-04-25,"Scrum, Microservices, Docker, C#",Vilnius
+Tietoevry,Data Engineer,"4,000 – 6,000",Senior,2025-04-24,"Kubernetes, NoSQL, CI/CD, Microservices",Klaipėda
+GetJet Airlines,DevOps Engineer,"3,500 – 5,500",Mid-Senior,2025-03-30,"React, AWS, CI/CD, C#",Klaipėda
+Wix.com,IT Project Manager,"2,000 – 3,000",Mid-Senior,2025-03-29,"NoSQL, Linux, Microservices, C#",Vilnius
+Revolut,IT Business Analyst,"3,000 – 5,000",Mid-Senior,2025-04-20,"Microservices, Agile, Azure, Angular",Vilnius
+Wix.com,Frontend Developer,"2,500 – 4,000",Mid-Senior,2025-04-22,"Kubernetes, SQL, CI/CD, React",Vilnius
+Vinted,Software Engineer,"2,500 – 4,000",Junior,2025-04-11,"C#, Microservices, Docker, Angular",Klaipėda
+Moody's Lithuania,Product Manager,"2,000 – 3,000",Mid-Senior,2025-03-30,"CI/CD, Microservices, Java, Python",Kaunas
+Cognizant,QA Engineer,"2,500 – 4,000",Lead,2025-04-20,"Java, NoSQL, Angular, Linux",Klaipėda
+Tesonet,QA Engineer,"5,000+",Lead,2025-04-20,"Java, Linux, Scrum, Windows Server",Klaipėda
+Flo Health,Security Analyst,"3,500 – 5,500",Mid,2025-04-02,"Windows Server, SQL, Azure, Scrum",Šiauliai
+Revolut,Software Engineer,"2,500 – 4,000",Mid,2025-04-05,"SQL, Docker, Python, Azure",Kaunas
+Adform,DevOps Engineer,"2,500 – 4,000",Mid,2025-04-28,"Agile, Angular, Python, Microservices",Klaipėda
+Devbridge,Backend Developer,"5,000+",Lead,2025-04-15,"Angular, React, Java, SQL",Panevėžys
+GetJet Airlines,QA Engineer,"3,000 – 5,000",Mid-Senior,2025-04-16,"Microservices, Python, Kubernetes, Azure",Panevėžys
+TransferGo,Cybersecurity Specialist,"3,000 – 5,000",Mid,2025-04-11,"Python, Angular, C#, Scrum",Vilnius
+Adform,IT Business Analyst,"4,000 – 6,000",Lead,2025-04-28,"Windows Server, Kubernetes, React, SQL",Kaunas
+Sanitex Lietuva,Backend Developer,"3,000 – 5,000",Junior,2025-04-19,"SQL, Agile, Docker, NoSQL",Kaunas
+Flo Health,IT Business Analyst,"3,500 – 5,500",Mid-Senior,2025-04-14,"NoSQL, React, Java, CI/CD",Panevėžys
+Planner5d,Product Manager,"2,500 – 4,000",Mid-Senior,2025-04-14,"Kubernetes, React, SQL, Angular",Klaipėda
+Tietoevry,IT Business Analyst,"5,000+",Mid,2025-04-20,"CI/CD, Azure, Scrum, Windows Server",Šiauliai
+IBM Lithuania,Data Scientist,"2,000 – 3,000",Senior,2025-04-25,"AWS, Agile, Java, Windows Server",Panevėžys
+Moody's Lithuania,Cloud Architect,"2,500 – 4,000",Mid,2025-04-26,"React, Kubernetes, AWS, Python",Klaipėda
+Wix.com,Security Analyst,"2,000 – 3,000",Mid-Senior,2025-03-29,"Windows Server, CI/CD, Python, Agile",Vilnius
+Planner5d,Data Engineer,"4,000 – 6,000",Junior,2025-04-06,"React, Angular, Java, Azure",Klaipėda
+Cognizant,DevOps Engineer,"2,500 – 4,000",Junior,2025-04-21,"Scrum, Microservices, Windows Server, Kubernetes",Šiauliai
+Adform,Cybersecurity Specialist,"2,500 – 4,000",Lead,2025-04-08,"Scrum, NoSQL, Angular, SQL",Šiauliai
+Sanitex Lietuva,Data Scientist,"3,500 – 5,500",Mid-Senior,2025-04-17,"Windows Server, SQL, React, CI/CD",Šiauliai
+TransferGo,Systems Administrator,"5,000+",Mid-Senior,2025-04-09,"AWS, Java, Windows Server, Python",Kaunas
+Tesonet,Cybersecurity Specialist,"3,500 – 5,500",Mid-Senior,2025-04-04,"AWS, CI/CD, Scrum, Java",Kaunas
+Barclays Lithuania,Systems Administrator,"3,500 – 5,500",Lead,2025-04-16,"Docker, Python, AWS, Agile",Šiauliai
+TransferGo,IT Business Analyst,"3,500 – 5,500",Senior,2025-04-16,"Agile, NoSQL, Windows Server, Azure",Klaipėda
+Planner5d,Mobile App Developer,"4,000 – 6,000",Lead,2025-04-04,"Linux, Java, Microservices, AWS",Klaipėda
+Sanitex Lietuva,IT Project Manager,"3,000 – 5,000",Junior,2025-04-03,"Linux, CI/CD, SQL, Scrum",Kaunas
+GetJet Airlines,Cybersecurity Specialist,"3,000 – 5,000",Mid,2025-04-23,"Agile, Java, Linux, Angular",Kaunas
+Wix.com,Data Engineer,"4,000 – 6,000",Mid-Senior,2025-04-14,"Azure, Angular, Windows Server, Docker",Panevėžys
+Tietoevry,Cloud Architect,"4,000 – 6,000",Junior,2025-04-26,"React, Angular, Windows Server, Microservices",Panevėžys
+Vinted,Software Engineer,"3,500 – 5,500",Lead,2025-04-06,"SQL, Linux, AWS, Agile",Vilnius
+Devbridge,Data Scientist,"2,000 – 3,000",Mid,2025-04-03,"SQL, AWS, Kubernetes, Microservices",Šiauliai
+Flo Health,Security Analyst,"2,000 – 3,000",Junior,2025-04-16,"AWS, React, NoSQL, Linux",Panevėžys
+Cognizant,Systems Administrator,"2,500 – 4,000",Senior,2025-04-08,"React, Python, Kubernetes, Windows Server",Šiauliai
+Accenture,Data Scientist,"3,500 – 5,500",Mid,2025-04-23,"CI/CD, Angular, Python, Scrum",Vilnius
+Devbridge,Backend Developer,"2,500 – 4,000",Senior,2025-04-02,"Linux, NoSQL, React, Docker",Panevėžys
+Cognizant,Security Analyst,"2,500 – 4,000",Mid-Senior,2025-04-28,"Windows Server, CI/CD, React, Agile",Šiauliai
+Flo Health,DevOps Engineer,"2,500 – 4,000",Junior,2025-04-04,"React, Windows Server, Python, Docker",Panevėžys
+Devbridge,Software Engineer,"3,500 – 5,500",Mid-Senior,2025-04-25,"Python, Windows Server, Azure, Angular",Kaunas
+Nord Security,Security Analyst,"3,500 – 5,500",Junior,2025-04-06,"Azure, Scrum, NoSQL, Agile",Klaipėda
+Devbridge,Product Manager,"5,000+",Mid-Senior,2025-04-01,"Kubernetes, React, Java, Angular",Klaipėda
+Accenture,DevOps Engineer,"5,000+",Lead,2025-04-05,"NoSQL, AWS, Agile, Windows Server",Kaunas
+Danske Bank,Mobile App Developer,"4,000 – 6,000",Mid,2025-04-03,"Scrum, Docker, Windows Server, Kubernetes",Panevėžys
+Revolut,Systems Administrator,"3,000 – 5,000",Mid-Senior,2025-04-23,"NoSQL, CI/CD, Java, Microservices",Vilnius
+Cognizant,Security Analyst,"3,500 – 5,500",Mid-Senior,2025-04-25,"Angular, Kubernetes, Java, Microservices",Kaunas
+Tietoevry,Data Scientist,"5,000+",Junior,2025-04-14,"CI/CD, Angular, Linux, Azure",Kaunas
+IBM Lithuania,Backend Developer,"2,500 – 4,000",Junior,2025-04-22,"Angular, Scrum, SQL, C#",Panevėžys
+Flo Health,IT Project Manager,"3,500 – 5,500",Senior,2025-04-10,"Python, Microservices, Windows Server, CI/CD",Klaipėda
+Tietoevry,Software Engineer,"2,500 – 4,000",Junior,2025-04-26,"Python, Scrum, Linux, React",Panevėžys
+Devbridge,Data Scientist,"3,000 – 5,000",Mid,2025-04-09,"React, Java, Scrum, Microservices",Klaipėda
+Devbridge,Software Engineer,"2,000 – 3,000",Mid,2025-04-26,"Angular, NoSQL, Kubernetes, Java",Šiauliai
+SEB,Product Manager,"2,500 – 4,000",Mid,2025-04-05,"Agile, Docker, Linux, React",Šiauliai
+Moody's Lithuania,Data Scientist,"3,000 – 5,000",Lead,2025-04-20,"Angular, React, CI/CD, Agile",Šiauliai
+Barclays Lithuania,Frontend Developer,"2,500 – 4,000",Mid-Senior,2025-04-19,"NoSQL, Docker, Java, SQL",Kaunas
+Flo Health,Data Engineer,"2,500 – 4,000",Mid-Senior,2025-04-02,"Angular, C#, Linux, React",Šiauliai
+Nord Security,Cybersecurity Specialist,"2,500 – 4,000",Mid-Senior,2025-03-30,"Kubernetes, Azure, NoSQL, Microservices",Vilnius
+Devbridge,Mobile App Developer,"2,500 – 4,000",Mid-Senior,2025-04-11,"Linux, Scrum, Python, SQL",Kaunas
+SEB,Product Manager,"3,500 – 5,500",Mid,2025-04-09,"SQL, Azure, React, Microservices",Šiauliai
+Planner5d,QA Engineer,"3,000 – 5,000",Mid,2025-04-08,"Linux, Azure, Microservices, SQL",Vilnius
+Sanitex Lietuva,Systems Administrator,"2,500 – 4,000",Senior,2025-04-22,"Windows Server, Angular, Python, C#",Vilnius
+IBM Lithuania,Mobile App Developer,"2,500 – 4,000",Junior,2025-04-22,"Azure, C#, SQL, Microservices",Panevėžys
+Danske Bank,Cybersecurity Specialist,"3,500 – 5,500",Junior,2025-04-13,"Azure, SQL, CI/CD, NoSQL",Panevėžys
+Wix.com,DevOps Engineer,"4,000 – 6,000",Mid-Senior,2025-04-01,"Microservices, Azure, Docker, Scrum",Vilnius
+Danske Bank,Data Engineer,"4,000 – 6,000",Lead,2025-04-22,"Java, Agile, NoSQL, Angular",Kaunas
+SEB,Mobile App Developer,"5,000+",Senior,2025-04-04,"SQL, AWS, Docker, Kubernetes",Kaunas
+Sanitex Lietuva,IT Business Analyst,"4,000 – 6,000",Senior,2025-04-25,"Python, Kubernetes, AWS, Agile",Šiauliai
+Sanitex Lietuva,Software Engineer,"5,000+",Senior,2025-04-27,"Java, AWS, Agile, C#",Klaipėda
+Adform,Backend Developer,"5,000+",Lead,2025-04-06,"Linux, Windows Server, Azure, Python",Vilnius
+Nord Security,Security Analyst,"4,000 – 6,000",Senior,2025-04-25,"Windows Server, SQL, Scrum, Docker",Kaunas
+Tietoevry,Data Scientist,"5,000+",Lead,2025-04-22,"Microservices, SQL, Agile, Windows Server",Vilnius
+Wix.com,Cybersecurity Specialist,"3,500 – 5,500",Lead,2025-04-26,"SQL, Linux, C#, Java",Šiauliai
+Devbridge,IT Project Manager,"2,500 – 4,000",Junior,2025-04-10,"Python, Scrum, AWS, C#",Klaipėda
+Devbridge,Frontend Developer,"4,000 – 6,000",Senior,2025-04-14,"Docker, Angular, Linux, Python",Panevėžys
+Nord Security,Product Manager,"3,500 – 5,500",Junior,2025-04-07,"Microservices, React, Azure, Scrum",Panevėžys
+Planner5d,Data Engineer,"2,500 – 4,000",Senior,2025-04-10,"Java, CI/CD, SQL, Kubernetes",Šiauliai
+Devbridge,Product Manager,"2,500 – 4,000",Mid-Senior,2025-03-30,"Agile, Linux, React, Java",Klaipėda
+Tietoevry,Backend Developer,"2,000 – 3,000",Junior,2025-04-10,"Azure, Kubernetes, Java, Scrum",Kaunas
+Adform,QA Engineer,"2,500 – 4,000",Senior,2025-04-06,"Angular, SQL, Agile, Kubernetes",Šiauliai
+Nord Security,IT Business Analyst,"4,000 – 6,000",Mid,2025-03-30,"Kubernetes, Windows Server, SQL, Microservices",Šiauliai
