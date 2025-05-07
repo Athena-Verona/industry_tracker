@@ -1,5 +1,0 @@
-# ignore csv and png files
-*.csv
-*.png
-#ignore ds store
-.DS_Store
