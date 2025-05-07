@@ -2,9 +2,8 @@ import csv
 import re
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
-from webdriver_manager.firefox import GeckoDriverManager
+import pandas as pd
 
 def get_seniority(title):
     title_lower = title.lower()
@@ -20,8 +19,8 @@ def get_seniority(title):
 options = Options()
 options.headless = True
 
-service = Service(GeckoDriverManager().install())
-driver = webdriver.Firefox(service=service, options=options)
+
+driver = webdriver.Firefox()
 
 driver.get("https://fintegry.com/we-are-hiring/") 
 driver.implicitly_wait(5)
@@ -54,9 +53,12 @@ for item in job_items:
     except Exception as e:
         print(f"Error parsing job item: {e}")
 
-with open("jobs.csv", "w", newline="", encoding="utf-8") as f:
-    writer = csv.writer(f)
-    writer.writerow(["Title", "Company", "Location", "Salary", "Seniority"])
-    writer.writerows(jobs)
+#with open("jobs.csv", "w", newline="", encoding="utf-8") as f:
+#    writer = csv.writer(f)
+#    writer.writerow(["Title", "Company", "Location", "Salary", "Seniority"])
+#    writer.writerows(jobs)
 
+df = pd.DataFrame(jobs, columns=["Title", "Company", "Location", "Salary", "Seniority"])
+del df['Seniority']
+df.to_csv('mega_dataset.csv', mode='a', header=False, index=False, sep=';')
 driver.quit()

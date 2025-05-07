@@ -110,3 +110,10 @@ driver.quit()
 
 df = pd.DataFrame(jobs, columns=["Title", "Company", "Location", "Salary", "Seniority", "Published"])
 df.to_csv("cvbankas_jobs.csv", index=False, sep=";")
+
+# Save to mega holy dataset
+#del df["Expires"]
+del df["Published"]
+del df["Seniority"]
+df.to_csv('mega_dataset.csv', mode='a', header=False, index=False, sep=';')
+
