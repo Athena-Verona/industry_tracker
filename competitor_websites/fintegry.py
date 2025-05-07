@@ -1,3 +1,5 @@
+#LOOK INTO NORDCODE
+
 import csv
 import re
 from selenium import webdriver

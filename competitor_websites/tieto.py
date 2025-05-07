@@ -1,3 +1,5 @@
+#LOOK INTO NORDCODE
+
 import csv
 import time
 import pandas as pd

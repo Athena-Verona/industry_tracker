@@ -1,3 +1,5 @@
+#LOOK INTO NORDCODE
+
 import csv
 import time
 import re
@@ -10,6 +12,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
+#SORRY MARIA, I KNOW YOU NEEDED GECKODRIVER FOR WINDOWS, BUT I HAD DELETED SOME LINES SO IT COULD RUN ON MY MAC
+#I KNOW YOU ARE A LITTLE BIT ANGRY, BUT I HOPE YOU WILL FORGIVE ME
 
 def get_seniority(title):
     title_lower = title.lower()
