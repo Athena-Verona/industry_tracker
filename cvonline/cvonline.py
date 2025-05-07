@@ -135,7 +135,7 @@ while True:
 
 driver.quit()
 df = pd.DataFrame(jobs, columns=["Title", "Company", "Location", "Salary", "Seniority", "Published", "Expires"])
-#df.to_csv("cvonline_jobs.csv", index=False, sep=";")
+df.to_csv("cvonline_jobs.csv", index=False, sep=";")
 
 
 # Save to mega holy dataset
