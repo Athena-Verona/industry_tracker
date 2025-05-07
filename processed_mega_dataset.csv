@@ -1,0 +1,670 @@
+Title,Company,Location,Salary,min_salary,max_salary,avg_salary,salary_range,job_category,seniority
+Projektų vadovas,Nordcode,Vilnius,2500–4300 Eur,2500.0,4300.0,3400.0,1800.0,Project Manager/Product Owner,Not Specified
+PHP Symfony programuotojas (-ja),Nordcode,Vilnius,4100 - 5000 Eur,4100.0,5000.0,4550.0,900.0,Back-end developer,Not Specified
+IT Sistemų analitikas (-ė),Nordcode,Vilnius,2800-3800 Eur,2800.0,3800.0,3300.0,1000.0,Data Analyst,Not Specified
+Kokybės užtikrinimo specialistas (-ė),Nordcode,Vilnius,2500-3600 Eur,2500.0,3600.0,3050.0,1100.0,Other,Not Specified
+Programuotojas (-ja),Nordcode,Vilnius,1800-4200 Eur,1800.0,4200.0,3000.0,2400.0,Software Developer,Not Specified
+.NET Developer,Fintegry,Not specified,2000–4500,2000.0,4500.0,3250.0,2500.0,.NET Developer,Not Specified
+FRONT-END Developer,Fintegry,Not specified,2000–4500,2000.0,4500.0,3250.0,2500.0,Front-end Web developer,Not Specified
+Cyber Security Project Manager,NRD Cyber Security,"Vilnius, Lithuania",3500–5000,3500.0,5000.0,4250.0,1500.0,Project Manager/Product Owner,Not Specified
+IT Auditor,NRD Cyber Security,"Vilnius, Lithuania",3500–5000,3500.0,5000.0,4250.0,1500.0,Other,Not Specified
+Sales and Business Development Assistant,NRD Cyber Security,"Vilnius, Lithuania",1800–2300,1800.0,2300.0,2050.0,500.0,Other,Not Specified
+Senior Capacity Building Expert,NRD Cyber Security,"Vilnius, Lithuania",4500–5500,4500.0,5500.0,5000.0,1000.0,Other,Senior
+Head of Business Unit,NFQ Technologies,Vilnius/Kaunas,€ 4800 - 7200 (gross / month) + Motivational System,4800.0,7200.0,6000.0,2400.0,Other,Senior
+Head of Engineering,NFQ Technologies,Vilnius/Kaunas/ŠIauliai,€ 5120 - 7680 gross / month + motivational system,5120.0,7680.0,6400.0,2560.0,Other,Senior
+Lead Cloud Engineer,NFQ Technologies,Vilnius/Kaunas,€ 4920 - 7380 gross / month,4920.0,7380.0,6150.0,2460.0,DevOps,Senior
+Lead Software Engineer & Team Lead (PHP),NFQ Technologies,Vilnius/Kaunas/ŠIauliai,€ 4920 - 7380 gross / month,4920.0,7380.0,6150.0,2460.0,Back-end developer,Senior
+Lead Software Engineer (.NET),NFQ Technologies,Vilnius/Kaunas,€ 4500 - 7500 (gross / month),4500.0,7500.0,6000.0,3000.0,.NET Developer,Senior
+Lead Software Engineer (PHP),NFQ Technologies,Vilnius/Kaunas,€ 4500 - 7500 (gross / month),4500.0,7500.0,6000.0,3000.0,Back-end developer,Senior
+Office Manager,NFQ Technologies,Kaunas,€ 1950 - 2880 gross / month,1950.0,2880.0,2415.0,930.0,Other,Not Specified
+Project Manager (Internal),NFQ Technologies,Vilnius/Kaunas/ŠIauliai,€ 2400 - 4000 gross / month,2400.0,4000.0,3200.0,1600.0,Project Manager/Product Owner,Junior
+Senior IT Project Manager,NFQ Technologies,Vilnius/Kaunas/ŠIauliai Or Remote Within Lithuania,€ 3760 - 6600 gross / month,3760.0,6600.0,5180.0,2840.0,Project Manager/Product Owner,Senior
+Senior IT Project Manager,NFQ Technologies,Vilnius/Kaunas,€ 3760 - 6600 gross / month,3760.0,6600.0,5180.0,2840.0,Project Manager/Product Owner,Senior
+Senior Software Engineer (.NET),NFQ Technologies,Vilnius/Kaunas,€ 4500 - 7500 (gross / month),4500.0,7500.0,6000.0,3000.0,.NET Developer,Senior
+Senior Software Engineer (PHP),NFQ Technologies,Vilnius/Kaunas,€ 4500 - 7500 (gross / month),4500.0,7500.0,6000.0,3000.0,Back-end developer,Senior
+Software Engineer (Java),NFQ Technologies,Vilnius/Kaunas,: € 2500 - 4640 gross / month,2500.0,4640.0,3570.0,2140.0,Java Developer,Not Specified
+Software Engineer (PHP),NFQ Technologies,Vilnius/Kaunas/ŠIauliai,: € 2500 - 4640 gross / month,2500.0,4640.0,3570.0,2140.0,Back-end developer,Not Specified
+Embedded Software Developer,"Light Conversion, UAB",Vilnius,€ 3000 – 5600,3000.0,5600.0,4300.0,2600.0,Embedded Developer,Not Specified
+Full-Stack Developer,"Emplonet, UAB",Vilnius,€ 4000 – 6000,4000.0,6000.0,5000.0,2000.0,Full-stack Developer,Not Specified
+IT ir kibernetinio saugumo koordinatorius (-ė),"People Link, UAB",Vilnius,€ 2500 – 3600,2500.0,3600.0,3050.0,1100.0,Security,Not Specified
+AI Engineer,"Iki Lietuva, UAB",Vilnius,€ 2560 – 4500,2560.0,4500.0,3530.0,1940.0,Data Scientist,Not Specified
+Sistemų administratorius (-ė) (KDV priežiūrai),"Registrų centras, VĮ",Vilnius,€ 1789 – 2683,1789.0,2683.0,2236.0,894.0,IT Support,Not Specified
+Technical Support Specialist (German),"QDev Technologies, UAB",Vilnius / Remote,€ 2200 – 2700,2200.0,2700.0,2450.0,500.0,IT Support,Not Specified
+Įmonės direktorius (-ė) (IT paslaugas teikianti įmonė),"Personalo valdymo inovacijos, UAB",Vilnius,€ 8265 – 10744,8265.0,10744.0,9504.5,2479.0,Other,Not Specified
+Senior Full Stack Developer in Process Information Management,Danske Bank Lithuania,Vilnius,€ 4400 – 6600,4400.0,6600.0,5500.0,2200.0,Full-stack Developer,Senior
+Full Stack Developer in Process Information Management,Danske Bank Lithuania,Vilnius,€ 3440 – 5160,3440.0,5160.0,4300.0,1720.0,Full-stack Developer,Not Specified
+Senior Software Engineer (.NET) in Markets Analytics Platform Tribe,Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Data Analyst,Senior
+IT pardavimų vadybininkas (-ė) (B2B),Amston klientas,Vilnius,€ 2800 – 2930,2800.0,2930.0,2865.0,130.0,Business Analyst,Not Specified
+Dėstytojas,Klaipėdos valstybinė kolegija,Klaipėda,€ 2160 – 2588,2160.0,2588.0,2374.0,428.0,Other,Not Specified
+Dėstytojas,Klaipėdos valstybinė kolegija,Klaipėda,€ 2160 – 2588,2160.0,2588.0,2374.0,428.0,Other,Not Specified
+JUNIOR GIS SPECIALIST (F/M/D) I IGNITIS RENEWABLES,Ignitis Group,Vilnius,€ 1580 – 2371,1580.0,2371.0,1975.5,791.0,System Administrator/Architect,Junior
+Senior Systems Engineer - Storage and Backup,Moody's,Vilnius,€ 4200 – 6700,4200.0,6700.0,5450.0,2500.0,Other,Senior
+Senior Cloud DevOps Engineer in Finance Tribe,Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,DevOps,Senior
+Duomenų inžinierius (-ė) Duomenų valdymo departamente,AB Artea bankas,Vilnius / Remote,€ 3220 – 4830,3220.0,4830.0,4025.0,1610.0,Data Engineer,Not Specified
+UX/UI Designer (Maternity cover),Danske Bank Lithuania,Vilnius,€ 2960 – 4440,2960.0,4440.0,3700.0,1480.0,Other,Not Specified
+Software Engineer,"GetJet Airlines, UAB",Vilnius,€ 2500 – 5000,2500.0,5000.0,3750.0,2500.0,Software Developer,Not Specified
+Veiklos analitikas (-ė) (Juridinių asmenų registras),"Registrų centras, VĮ",Vilnius,€ 2175 – 3263,2175.0,3263.0,2719.0,1088.0,Data Analyst,Not Specified
+Mid/Senior QA Engineer for Progress OpenEdge Unit,"Baltic Amadeus, UAB",Vilnius / Remote,€ 2500 – 3800,2500.0,3800.0,3150.0,1300.0,QA Engineer,Mid
+"Senior Solution Architect for the Universal Capabilities Squad, Workflow Enablement",Danske Bank Lithuania,Vilnius,€ 5600 – 8400,5600.0,8400.0,7000.0,2800.0,Business Analyst,Senior
+Projektų koordinatorius (-ė) (teisiniai klausimai),AUGA,Vilnius,€ 2500 – 3000,2500.0,3000.0,2750.0,500.0,Other,Not Specified
+Senior Software Engineer,"CAST AI Baltic, UAB",Vilnius / Remote,€ 6500 – 9000,6500.0,9000.0,7750.0,2500.0,Software Developer,Senior
+Duomenų analitikė (-as),EPSO-G įmonių grupė,Vilnius,€ 2700 – 3500,2700.0,3500.0,3100.0,800.0,Data Analyst,Not Specified
+Vyresnysis projektų vadovas(-ė) verslo valdymo sistemų diegime,Digmatix,Vilnius / Remote,€ 3200 – 5500,3200.0,5500.0,4350.0,2300.0,Project Manager/Product Owner,Senior
+IT paslaugas teikiančios įmonės vadovas,"Personalo valdymo inovacijos, UAB",Vilnius,€ 8265 – 10744,8265.0,10744.0,9504.5,2479.0,Mobile Developer,Not Specified
+MLOps engineer,Accenture,Vilnius / Remote,€ 3300 – 5350,3300.0,5350.0,4325.0,2050.0,Data Scientist,Not Specified
+Large Language Modelling/Gen AI engineer,Accenture,Vilnius / Remote,€ 2600 – 5050,2600.0,5050.0,3825.0,2450.0,Data Scientist,Not Specified
+Mid Level C++ Software Engineer,"Emplonet, UAB",Vilnius,€ 3800 – 5000,3800.0,5000.0,4400.0,1200.0,Embedded Developer,Mid
+System (Azure) Administrator,"Emplonet, UAB",Kaunas,€ 4132.24 – 4462.8,4132.24,4462.8,4297.52,330.5600000000004,DevOps,Not Specified
+IS specialistas (-ė),"Emplonet, UAB",Vilnius,€ 2900 – 3100,2900.0,3100.0,3000.0,200.0,System Administrator/Architect,Not Specified
+Produkto vadovas (-ė),"Emplonet, UAB",Vilnius,€ 3800 – 4000,3800.0,4000.0,3900.0,200.0,Project Manager/Product Owner,Not Specified
+Vyr. IS administratorius (-ė),"Emplonet, UAB",Vilnius,€ 3300 – 4500,3300.0,4500.0,3900.0,1200.0,IT Support,Senior
+Vyr. ekspertas (-ė) (Dirbtinis intelektas - Teisės sritis),"Inovacijų agentūra, VšĮ",Vilnius,€ 2800 – 3500,2800.0,3500.0,3150.0,700.0,Data Scientist,Senior
+Software Quality Engineer,"Viltechmeda, UAB",Vilnius,€ 3000 – 3700,3000.0,3700.0,3350.0,700.0,QA Engineer,Not Specified
+Senior JAVA Developer for Pathway team,"Visma Tech, UAB",Vilnius / Remote,€ 3600 – 6300,3600.0,6300.0,4950.0,2700.0,Java Developer,Senior
+SAP Financial accounting/Controlling functional analyst,Accenture,Vilnius,€ 3800 – 5200,3800.0,5200.0,4500.0,1400.0,Other,Not Specified
+SAP EWM Functional analyst,Accenture,Vilnius,€ 3800 – 5200,3800.0,5200.0,4500.0,1400.0,Other,Not Specified
+Change and Training Manager,"People Link, UAB",Kaunas,€ 4000 – 5000,4000.0,5000.0,4500.0,1000.0,Other,Not Specified
+Techninės kontrolės inžinierius (-ė),"Iremas, UAB",Jonava,€ 1600 – 3000,1600.0,3000.0,2300.0,1400.0,Other,Not Specified
+Komercijos vadybininkas (-ė),"Iremas, UAB",Jonava,€ 1700 – 3000,1700.0,3000.0,2350.0,1300.0,Business Analyst,Not Specified
+IT Platform Engineer for MLOps (Machine Learning) Area,Danske Bank Lithuania,Vilnius,€ 3280 – 4920,3280.0,4920.0,4100.0,1640.0,Data Scientist,Not Specified
+Power Platform Developer,Avia Solutions Group,Vilnius / Remote,€ 2500 – 4950,2500.0,4950.0,3725.0,2450.0,Software Developer,Not Specified
+Duomenų analitinių produktų grupės vadovas (-ė),"Registrų centras, VĮ",Vilnius,€ 3161 – 4741,3161.0,4741.0,3951.0,1580.0,Data Analyst,Not Specified
+Pogrupio vadovas (-ė),"Light Conversion, UAB",Vilnius,€ 3100 – 4000,3100.0,4000.0,3550.0,900.0,Other,Not Specified
+IT Project Manager,"People Link, UAB",Kaunas,€ 4000 – 5000,4000.0,5000.0,4500.0,1000.0,Project Manager/Product Owner,Not Specified
+Kibernetinių incidentų tyrimo analitikė (-as),LTG,Vilnius,€ 3230 – 4840,3230.0,4840.0,4035.0,1610.0,Other,Not Specified
+SAP HR specialistas (-ė),"Lidl Lietuva, UAB",Vilnius,€ 2245 – 2605,2245.0,2605.0,2425.0,360.0,Other,Not Specified
+Informacinių technologijų sistemų administratorius (-ė),Lietuvos Respublikos valstybinis patentų biuras,Vilnius / Remote,€ 1807 – 2718,1807.0,2718.0,2262.5,911.0,IT Support,Not Specified
+Senior Salesforce Developer,Accenture,Vilnius,€ 3600 – 5500,3600.0,5500.0,4550.0,1900.0,Software Developer,Senior
+"Senior Finacial Data Engineer | SEB, Vilnius",SEB,Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Data Engineer,Senior
+"Data Quality Engineer for Sustainable Banking| SEB, Vilniu",SEB,Vilnius,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,QA Engineer,Not Specified
+Public IT Tender Specialist,"Baltic Amadeus, UAB",Vilnius / Remote,€ 2455 – 4132,2455.0,4132.0,3293.5,1677.0,Other,Not Specified
+"Programinės įrangos inžinierius (-ė) .NET, C#","Viltechmeda, UAB",Vilnius,€ 3000 – 3600,3000.0,3600.0,3300.0,600.0,.NET Developer,Not Specified
+Software QA Engineer (manual),"Viltechmeda, UAB",Vilnius,€ 2500 – 3000,2500.0,3000.0,2750.0,500.0,QA Engineer,Not Specified
+IT vadovas (-ė),"Manpower Lit, UAB",Trakai,€ 3500 – 5000,3500.0,5000.0,4250.0,1500.0,Other,Not Specified
+Experienced Backend Engineer - Wix Blog,"Wix.com, UAB",Vilnius,€ 3500 – 5000,3500.0,5000.0,4250.0,1500.0,Back-end developer,Senior
+DevOps Engineer,"Wix.com, UAB",Vilnius,€ 4500 – 6000,4500.0,6000.0,5250.0,1500.0,DevOps,Not Specified
+"Backend Engineer, Devex Platform","Wix.com, UAB",Vilnius,€ 2500 – 4000,2500.0,4000.0,3250.0,1500.0,Back-end developer,Not Specified
+Senior Backend Engineer – CTO Group,"Wix.com, UAB",Vilnius,€ 5000 – 8000,5000.0,8000.0,6500.0,3000.0,Back-end developer,Senior
+Senior Data Platform Engineer for Data Platform Tribe,Danske Bank Lithuania,Vilnius,€ 4160 – 6240,4160.0,6240.0,5200.0,2080.0,DevOps,Senior
+Senior IT Software Engineer,Danske Bank Lithuania,Vilnius,€ 4480 – 6720,4480.0,6720.0,5600.0,2240.0,Software Developer,Senior
+IT Platform Engineer within Data Management Support,Danske Bank Lithuania,Vilnius,€ 3280 – 4920,3280.0,4920.0,4100.0,1640.0,Data Engineer,Not Specified
+"Lead Site Reliability Engineer in Digital Processing | SEB, Vilnius",SEB,Vilnius,€ 4350 – 6550,4350.0,6550.0,5450.0,2200.0,DevOps,Senior
+Software Engineer (Java),Cognizant Lietuva,Vilnius / Remote,€ 3240 – 3810,3240.0,3810.0,3525.0,570.0,Java Developer,Not Specified
+Senior Data Scientist for Data Validation Team,Danske Bank Lithuania,Vilnius,€ 3440 – 5160,3440.0,5160.0,4300.0,1720.0,Data Scientist,Senior
+IT pirkimų vyr. specialistas (-ė),"Registrų centras, VĮ",Vilnius,€ 2376 – 3564,2376.0,3564.0,2970.0,1188.0,Other,Senior
+Senior .NET Software Engineer in Finance Tribe,Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,.NET Developer,Senior
+Data Engineering Intern,Littelfuse LT,Kaunas,€ 1200 – 1400,1200.0,1400.0,1300.0,200.0,Data Engineer,Junior
+IT Security Intern,Littelfuse LT,Kaunas,€ 1200 – 1400,1200.0,1400.0,1300.0,200.0,Security,Junior
+Product Engineer,AS Inbank filialas,Vilnius,€ 3000 – 5000,3000.0,5000.0,4000.0,2000.0,Other,Not Specified
+Chief DevOps Specialist for SDLC and Standards,Danske Bank Lithuania,Vilnius,€ 5600 – 8399,5600.0,8399.0,6999.5,2799.0,DevOps,Senior
+Java programuotojas (-a),"Regitra, AB",Vilnius,€ 2500 – 3300,2500.0,3300.0,2900.0,800.0,Java Developer,Not Specified
+Produkto savininkas (-ė) (turintis (-i) pavaldžių žmonių),"Emplonet, UAB",Vilnius,€ 2708 – 4062,2708.0,4062.0,3385.0,1354.0,Other,Not Specified
+Business Analyst,FL Technics,Vilnius / Remote,€ 3300 – 3650,3300.0,3650.0,3475.0,350.0,Business Analyst,Not Specified
+Microsoft D365 Finansų/SCM sprendimų konsultantas,"GO-ERP, UAB",Vilnius / Remote,€ 3305 – 4958,3305.0,4958.0,4131.5,1653.0,Other,Not Specified
+Konsultantas (-ė) - CRM (Senior),"GO-ERP, UAB",Vilnius / Remote,€ 2000 – 4000,2000.0,4000.0,3000.0,2000.0,Other,Senior
+Microsoft Dynamics Business Central konsultantas (-ė),"GO-ERP, UAB",Vilnius / Remote,€ 3305 – 4958,3305.0,4958.0,4131.5,1653.0,Other,Not Specified
+IS analyst-tester,ADB „Gjensidige“,Vilnius,€ 2415 – 3622,2415.0,3622.0,3018.5,1207.0,QA Engineer,Not Specified
+"MS SQL Solution Developer in Accounting Tribe | SEB, Vilnius",SEB,Vilnius,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,Database Admin,Not Specified
+Scrum Master/Team Coach,"""Swedbank"", AB",Vilnius,€ 4100 – 6100,4100.0,6100.0,5100.0,2000.0,Other,Not Specified
+Projektų vadovas/inžinierius,"Ortho Baltic, UAB",Kaunas,€ 2500 – 3000,2500.0,3000.0,2750.0,500.0,Project Manager/Product Owner,Not Specified
+IT sprendimų vadovė (-as),"Regitra, AB",Vilnius,€ 2350 – 3000,2350.0,3000.0,2675.0,650.0,Project Manager/Product Owner,Not Specified
+Linux System Administrator,"EUROAPOTHECA, UAB",Vilnius,€ 3500 – 4400,3500.0,4400.0,3950.0,900.0,IT Support,Not Specified
+Marketing Manager,Digmatix,Vilnius / Remote,€ 3000 – 3500,3000.0,3500.0,3250.0,500.0,Other,Not Specified
+ŽMONIŲ DUOMENŲ ANALITIKĖ (-AS) (TERMINUOTA DARBO SUTARTIS),Ignitis Group,Vilnius,€ 2666 – 3999,2666.0,3999.0,3332.5,1333.0,Data Analyst,Not Specified
+Senior Software Engineer (Gen AI),Moody's,Vilnius,€ 5200 – 8300,5200.0,8300.0,6750.0,3100.0,Software Developer,Senior
+Data Analyst,Kilo Health - UAB Kilo grupė,Vilnius,€ 3000 – 4000,3000.0,4000.0,3500.0,1000.0,Data Analyst,Not Specified
+Duomenų analitikas (-ė),Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos,Vilnius / Remote,€ 2200 – 2800,2200.0,2800.0,2500.0,600.0,Data Analyst,Not Specified
+Veiklos/duomenų analitikas (-ė),Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos,Vilnius / Remote,€ 2200 – 2800,2200.0,2800.0,2500.0,600.0,Data Analyst,Not Specified
+Veiklos/duomenų analitikas (-ė),Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos,Vilnius / Remote,€ 2200 – 2800,2200.0,2800.0,2500.0,600.0,Data Analyst,Not Specified
+Full-Stack Java Developer,Indigroup,Vilnius / Remote,€ 3500 – 5900,3500.0,5900.0,4700.0,2400.0,Java Developer,Not Specified
+Senior PHP Developer,Indigroup,Vilnius,€ 5000 – 6000,5000.0,6000.0,5500.0,1000.0,Back-end developer,Senior
+IT sistemų analitikas (-ė),"City Service, UAB",Vilnius,€ 1800 – 3300,1800.0,3300.0,2550.0,1500.0,Data Analyst,Not Specified
+DI sprendimų architektas (-ė),"City Service, UAB",Vilnius / Remote,€ 5000 – 7500,5000.0,7500.0,6250.0,2500.0,Other,Not Specified
+DI inžinierius (-ė) – prisijunk prie mūsų komandos ir kurk inovacijas!,"Mano būstas, UAB",Vilnius,€ 4000 – 5500,4000.0,5500.0,4750.0,1500.0,Data Scientist,Not Specified
+Product Security Specialist,"Quadigi, UAB",Vilnius / Remote,€ 3800 – 5600,3800.0,5600.0,4700.0,1800.0,Security,Not Specified
+"Workflow Solution Developer in Digital Processing | SEB, Vilnius",SEB,Vilnius,€ 2850 – 4250,2850.0,4250.0,3550.0,1400.0,Software Developer,Not Specified
+QA Engineer,NRD Companies,Vilnius / Remote,€ 2200 – 3700,2200.0,3700.0,2950.0,1500.0,QA Engineer,Not Specified
+.NET programuotojas,NRD Companies,Vilnius / Remote,€ 4000 – 5400,4000.0,5400.0,4700.0,1400.0,.NET Developer,Not Specified
+IT specialistas (-ė),Allianz Lietuva gyvybės draudimas UAB,Vilnius,€ 1700 – 2400,1700.0,2400.0,2050.0,700.0,Other,Not Specified
+Projekto vadovas (-ė) Duomenų platformų skyriuje,Lietuvos bankas,Vilnius,€ 4016 – 6024,4016.0,6024.0,5020.0,2008.0,Other,Not Specified
+Senior Front-End Engineer,Kilo Health - UAB Kilo grupė,Vilnius,€ 5520 – 6000,5520.0,6000.0,5760.0,480.0,Front-end Web developer,Senior
+Front-End Engineer,Kilo Health - UAB Kilo grupė,Vilnius,€ 3120 – 4030,3120.0,4030.0,3575.0,910.0,Front-end Web developer,Not Specified
+PHP programuotoja (-as),Blue Bridge grupė,Vilnius / Remote,€ 3000 – 4800,3000.0,4800.0,3900.0,1800.0,Back-end developer,Not Specified
+Junior Android Developer in the Omnichannel Unit,"Baltic Amadeus, UAB",Kaunas,€ 1100 – 2900,1100.0,2900.0,2000.0,1800.0,Mobile Developer,Junior
+Cyber Security Consultant,EY,Vilnius,€ 2000 – 2700,2000.0,2700.0,2350.0,700.0,Security,Not Specified
+Full Stack Engineer,"People Link, UAB",Vilnius,€ 4400 – 4900,4400.0,4900.0,4650.0,500.0,Full-stack Developer,Not Specified
+IT skaitmenizacijos vadovas (-ė),"Newsec Property Management LT, UAB",Vilnius,€ 4960 – 5785,4960.0,5785.0,5372.5,825.0,Other,Not Specified
+"Java developer ready to develop the digital services of tomorrow | SEB, Vilnius",SEB,Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Java Developer,Not Specified
+Senior Service (Systems) Owner,"QDev Technologies, UAB",Vilnius / Remote,€ 3500 – 4500,3500.0,4500.0,4000.0,1000.0,Other,Senior
+AI Backend Engineer,CV-Online klientas,Kaunas,€ 3200 – 4200,3200.0,4200.0,3700.0,1000.0,Back-end developer,Not Specified
+Inžinierius - programuotojas,"TSPI, UAB",Kaunas,€ 3636.36 – 4958.69,3636.36,4958.69,4297.525,1322.3299999999995,Software Developer,Not Specified
+AI Front-End Engineer,CV-Online klientas,Kaunas,€ 3000 – 4000,3000.0,4000.0,3500.0,1000.0,Front-end Web developer,Not Specified
+Chief Technology Officer (CTO),Eleving Group,Vilnius,€ 6000 – 10000,6000.0,10000.0,8000.0,4000.0,Other,Senior
+IT Systems Administrator,Avion Express,Vilnius,€ 3500 – 4100,3500.0,4100.0,3800.0,600.0,IT Support,Not Specified
+Tinklo inžinierius (-ė),Kauno technologijos universitetas,Kaunas,€ 2600 – 2925,2600.0,2925.0,2762.5,325.0,Other,Not Specified
+Sistemos ekspertė (-as),LTG,Vilnius,€ 2485 – 3725,2485.0,3725.0,3105.0,1240.0,Other,Senior
+Pardavimo vadybininkas (-ė) esamiems ir naujiems klientams (kompiuterinė įranga),Noriu personalo sprendimų grupė,Kaunas,€ 2450 – 4100,2450.0,4100.0,3275.0,1650.0,IT Support,Not Specified
+Business Analyst - Problem Management,Moody's,Vilnius,€ 3500 – 5600,3500.0,5600.0,4550.0,2100.0,Business Analyst,Not Specified
+Business and Functional Specialist in Advisory Overview Squad,Danske Bank Lithuania,Vilnius,€ 2880 – 4320,2880.0,4320.0,3600.0,1440.0,Other,Not Specified
+PERFORMANCE DATA ANALYST (F/M/D) | IGNITIS RENEWABLES,Ignitis Group,Vilnius,€ 2401 – 3602,2401.0,3602.0,3001.5,1201.0,Data Analyst,Not Specified
+Dirbtinio intelekto diegimo vadovas (-ė),"People Link, UAB",Vilnius,€ 5500 – 7400,5500.0,7400.0,6450.0,1900.0,Other,Not Specified
+Control Software Developer,"Emplonet, UAB",Kaunas,€ 2500 – 5500,2500.0,5500.0,4000.0,3000.0,Software Developer,Not Specified
+Experienced Frontend Engineer - Wix Forms,"Wix.com, UAB",Vilnius,€ 3000 – 8000,3000.0,8000.0,5500.0,5000.0,Front-end Web developer,Senior
+Dirbtinio Intelekto Inžinierius (-ė),"People Link, UAB",Vilnius,€ 4000 – 5500,4000.0,5500.0,4750.0,1500.0,Other,Not Specified
+HR|Payroll sprendimų diegėjas (-as) - konsultantas (-ė),"OIXIO, UAB",Vilnius / Remote,€ 3000 – 3700,3000.0,3700.0,3350.0,700.0,Other,Not Specified
+"Senior Backend Engineer, Devex Platform","Wix.com, UAB",Vilnius,€ 5000 – 8000,5000.0,8000.0,6500.0,3000.0,Back-end developer,Senior
+Brand and Web Designer - Design Hub Vilnius,"Wix.com, UAB",Vilnius,€ 3000 – 5500,3000.0,5500.0,4250.0,2500.0,Front-end Web developer,Not Specified
+Frontend Engineer - Wix Emails,"Wix.com, UAB",Vilnius,€ 5000 – 8000,5000.0,8000.0,6500.0,3000.0,Front-end Web developer,Not Specified
+Network Engineer,"Wix.com, UAB",Vilnius,€ 5500 – 8000,5500.0,8000.0,6750.0,2500.0,Other,Not Specified
+Priežiūros specialistas (-ė),ADB „Gjensidige“,Vilnius,€ 1781 – 2671,1781.0,2671.0,2226.0,890.0,Other,Not Specified
+TEAM LEAD OF IT SYSTEMS ANALYSIS,Ignitis Group,Vilnius,€ 3594 – 5390,3594.0,5390.0,4492.0,1796.0,Other,Senior
+PROGRAMUOTOJAS (-A) (PASTATŲ VALDYMAS),UAB „Energus Group“,Vilnius,€ 2455 – 3801,2455.0,3801.0,3128.0,1346.0,Software Developer,Not Specified
+IS plėtros skyriaus vadovas (-ė),"Emplonet, UAB",Vilnius,€ 3602 – 5900,3602.0,5900.0,4751.0,2298.0,Other,Not Specified
+Junior Integration Engineer,"Johnson Matthey Global Business Services Lithuania, UAB",Vilnius,€ 3416 – 4666,3416.0,4666.0,4041.0,1250.0,Other,Junior
+Integration Engineer,"Johnson Matthey Global Business Services Lithuania, UAB",Vilnius,€ 3958 – 5416,3958.0,5416.0,4687.0,1458.0,Other,Not Specified
+Mid-Level Full-Stack Developer (React + .NET),UAB „Energus Group“,Vilnius,€ 3306 – 4959,3306.0,4959.0,4132.5,1653.0,.NET Developer,Mid
+Vyr. programuotojas (-a) (JAVA),"Registrų centras, VĮ",Vilnius,€ 2880 – 4320,2880.0,4320.0,3600.0,1440.0,Java Developer,Senior
+Vyr. programuotojas (-a) (.NET technologija),"Registrų centras, VĮ",Vilnius,€ 2880 – 4320,2880.0,4320.0,3600.0,1440.0,.NET Developer,Senior
+Duomenų inžinierius(-ė)/Data Engineer,"Metso Global Business Services, UAB",Šiauliai,€ 2500 – 3200,2500.0,3200.0,2850.0,700.0,Data Engineer,Not Specified
+IT Infrastructure Team Lead,FL Technics,Vilnius / Remote,€ 5000 – 5800,5000.0,5800.0,5400.0,800.0,Other,Senior
+Savitarnos IS vystymo grupės vadovas (-ė),"Registrų centras, VĮ",Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Other,Not Specified
+AI DEVELOPER,UAB „Energus Group“,Vilnius,€ 3306 – 4959,3306.0,4959.0,4132.5,1653.0,Software Developer,Not Specified
+AI Engineer,EY,Vilnius / Remote,€ 2100 – 4000,2100.0,4000.0,3050.0,1900.0,Data Scientist,Not Specified
+.NET developer,"Elgama-Elektronika, UAB",Kaunas,€ 2800 – 4000,2800.0,4000.0,3400.0,1200.0,.NET Developer,Not Specified
+IT sistemų specialistas (-ė),"Emplonet, UAB",Vilnius,€ 2454 – 2806,2454.0,2806.0,2630.0,352.0,Other,Not Specified
+JAVA developer for Roxit team,"Visma Tech, UAB",Vilnius / Remote,€ 1600 – 4600,1600.0,4600.0,3100.0,3000.0,Java Developer,Not Specified
+Back-End Software developer (Java),"Emplonet, UAB",Kaunas,€ 4600 – 5500,4600.0,5500.0,5050.0,900.0,Back-end developer,Not Specified
+Workday Integration Specialist,"InMedica, UAB",Vilnius / Remote,€ 1900 – 4000,1900.0,4000.0,2950.0,2100.0,Other,Not Specified
+.NET Software Engineer in Welcoming and Orchestration Tribe,Danske Bank Lithuania,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,.NET Developer,Not Specified
+Design Team Lead – Vilnius Design Studio,"Wix.com, UAB",Vilnius,€ 4500 – 5500,4500.0,5500.0,5000.0,1000.0,Other,Senior
+Chief DevOps Engineer,Danske Bank Lithuania,Vilnius,€ 5600 – 8400,5600.0,8400.0,7000.0,2800.0,DevOps,Senior
+Senior Business Analyst for Agent Foundry Team,Danske Bank Lithuania,Vilnius,€ 3600 – 5400,3600.0,5400.0,4500.0,1800.0,Business Analyst,Senior
+Associate Quantitative Analyst,Danske Bank Lithuania,Vilnius,€ 2640 – 3960,2640.0,3960.0,3300.0,1320.0,Other,Junior
+"Test automation specialist in Custody Cash team | SEB, Vilnius | SEB, Vilnius",SEB,Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,QA Engineer,Not Specified
+"Automation Engineer with Power Platform experience | SEB, Vilnius",SEB,Vilnius,€ 2200 – 3400,2200.0,3400.0,2800.0,1200.0,Other,Not Specified
+Platform Engineer,"Quadigi, UAB",Vilnius,€ 3800 – 6300,3800.0,6300.0,5050.0,2500.0,DevOps,Not Specified
+Front-End Engineer (React Native) in Wealth Planning and Investments Tribe,Danske Bank Lithuania,Vilnius,€ 3360 – 5040,3360.0,5040.0,4200.0,1680.0,Front-end Web developer,Not Specified
+QA Engineer (opportunity to become a back-end developer) for Hubble team,"Visma Tech, UAB",Vilnius / Remote,€ 3000 – 4100,3000.0,4100.0,3550.0,1100.0,Back-end developer,Not Specified
+Senior Data Engineer in Transaction Analysis and Models Squad,Danske Bank Lithuania,Vilnius,€ 4560 – 6841,4560.0,6841.0,5700.5,2281.0,Data Engineer,Senior
+Senior Systems Engineer - Windows Server,Moody's,Vilnius,€ 4200 – 6700,4200.0,6700.0,5450.0,2500.0,System Administrator/Architect,Senior
+Senior Systems Engineer - Linux,Moody's,Vilnius,€ 4200 – 6700,4200.0,6700.0,5450.0,2500.0,System Administrator/Architect,Senior
+Data Engineer in Transaction Analysis and Models Squad,Danske Bank Lithuania,Vilnius,€ 3440 – 5160,3440.0,5160.0,4300.0,1720.0,Data Engineer,Not Specified
+Senior iOS Engineer,Danske Bank Lithuania,Vilnius,€ 4320 – 6480,4320.0,6480.0,5400.0,2160.0,Mobile Developer,Senior
+"Senior Security Windows Server technician | SEB, Vilnius",SEB,Vilnius,€ 3000 – 4500,3000.0,4500.0,3750.0,1500.0,Security,Senior
+"Cloud Data Engineer in HR IT, Corporate Functions | SEB, Vilnius",SEB,Vilnius,€ 2850 – 4250,2850.0,4250.0,3550.0,1400.0,Data Engineer,Not Specified
+Junior System Administrator,"Quadigi, UAB",Vilnius,€ 2000 – 2800,2000.0,2800.0,2400.0,800.0,IT Support,Junior
+IT PAGALBOS KONSULTANTAS (-Ė),MAXIMA,Vilnius,€ 1200 – 1399,1200.0,1399.0,1299.5,199.0,IT Support,Not Specified
+Sales Manager,Ridango AS,Lithuania,€ 3300 – 4400,3300.0,4400.0,3850.0,1100.0,Other,Not Specified
+Database Administrator,BIGBANK AS filialas,Vilnius / Remote,€ 3900 – 7768,3900.0,7768.0,5834.0,3868.0,Database Admin,Not Specified
+DevOps Engineer for Hubble team,"Visma Tech, UAB",Vilnius / Remote,€ 3600 – 6300,3600.0,6300.0,4950.0,2700.0,DevOps,Not Specified
+Senior Cloud Platform Engineer,Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,DevOps,Senior
+Intermediate Digital Marketing Manager,Deep Media Technologies,Vilnius / Remote,€ 2400 – 3000,2400.0,3000.0,2700.0,600.0,Other,Mid
+Junior Digital Marketing Manager,Deep Media Technologies,Vilnius / Remote,€ 1800 – 2300,1800.0,2300.0,2050.0,500.0,Other,Junior
+IT architektas (-ė),UAB ILTE,Vilnius,€ 5000 – 7300,5000.0,7300.0,6150.0,2300.0,Other,Not Specified
+PORTFOLIO MANAGER (F/M/D),Ignitis Group,Vilnius,€ 3267 – 4900,3267.0,4900.0,4083.5,1633.0,Other,Not Specified
+IT Site Support Engineer,"Viltechmeda, UAB",Vilnius,€ 3000 – 3800,3000.0,3800.0,3400.0,800.0,IT Support,Not Specified
+"Junior Java Developer in Customer Lifecycle Managment team | SEB, Vilnius",SEB,Vilnius,€ 2300 – 3500,2300.0,3500.0,2900.0,1200.0,Java Developer,Junior
+Analitikas (-ė) | Informacinių sistemų skyrius,CENTRINĖ PROJEKTŲ VALDYMO AGENTŪRA VŠĮ,Vilnius / Remote,€ 2071 – 2589,2071.0,2589.0,2330.0,518.0,Data Analyst,Not Specified
+Senior Solution Architect for Platform and Data Squad in Workflow Enablement Tribe,Danske Bank Lithuania,Vilnius,€ 5600 – 8400,5600.0,8400.0,7000.0,2800.0,Other,Senior
+Software Engineer,BIGBANK AS filialas,Vilnius / Remote,€ 3700 – 4500,3700.0,4500.0,4100.0,800.0,Software Developer,Not Specified
+"Senior Java Engineer in Advisory, Org data and Groups",Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Java Developer,Senior
+Tech Architect,ERGO Insurance SE Lietuvos filialas,Vilnius / Remote,€ 4500 – 5500,4500.0,5500.0,5000.0,1000.0,Other,Not Specified
+Product Designer,Eleving Group,Vilnius / Remote,€ 2500 – 3000,2500.0,3000.0,2750.0,500.0,Other,Not Specified
+Senior Risk Analyst,Eleving Group,Vilnius / Remote,€ 2600 – 3500,2600.0,3500.0,3050.0,900.0,Other,Senior
+.NET Developer for Flyt Health Care team,"Visma Tech, UAB",Kaunas / Remote,€ 2800 – 3500,2800.0,3500.0,3150.0,700.0,.NET Developer,Not Specified
+Programinių sistemų testuotojas (-a),"People Link, UAB",Vilnius,€ 2000 – 3000,2000.0,3000.0,2500.0,1000.0,QA Engineer,Not Specified
+Salesforce Administrator,"Emplonet, UAB",Vilnius,€ 2500 – 3500,2500.0,3500.0,3000.0,1000.0,IT Support,Not Specified
+Senior Integration Engineer,"Johnson Matthey Global Business Services Lithuania, UAB",Vilnius,€ 4708 – 6416,4708.0,6416.0,5562.0,1708.0,Other,Senior
+Principal Integration Engineer,"Johnson Matthey Global Business Services Lithuania, UAB",Vilnius,€ 4895 – 8000,4895.0,8000.0,6447.5,3105.0,Other,Not Specified
+AI Engineer,"Emplonet, UAB",Kaunas,€ 5800 – 7500,5800.0,7500.0,6650.0,1700.0,Data Scientist,Not Specified
+Java Developer for Business to Government Unit,"Baltic Amadeus, UAB",Vilnius,€ 2600 – 4500,2600.0,4500.0,3550.0,1900.0,Java Developer,Not Specified
+Salesforce Developer,"Emplonet, UAB",Vilnius,€ 3500 – 4500,3500.0,4500.0,4000.0,1000.0,Software Developer,Not Specified
+Full-stack (.NET/Angular) Developer for Visma Business NXT team,"Visma Tech, UAB",Vilnius / Remote,€ 3600 – 5000,3600.0,5000.0,4300.0,1400.0,.NET Developer,Not Specified
+IT administratorius (-ė),"Laisvas ir nepriklausomas kanalas, UAB",Vilnius,€ 2200 – 2700,2200.0,2700.0,2450.0,500.0,IT Support,Not Specified
+Back-End Software developer (Java),"Emplonet, UAB",Kaunas,€ 4600 – 5500,4600.0,5500.0,5050.0,900.0,Back-end developer,Not Specified
+Head of Marketing And Communications,Indigroup,Vilnius,€ 4500 – 5000,4500.0,5000.0,4750.0,500.0,Other,Senior
+IT system architect (Oracle),"Emplonet, UAB",Vilnius,€ 5000 – 5700,5000.0,5700.0,5350.0,700.0,Database Admin,Not Specified
+Senior backend Oracle PL/SQL developer,"Emplonet, UAB",Vilnius,€ 3800 – 5200,3800.0,5200.0,4500.0,1400.0,Back-end developer,Senior
+Senior Java developer,"Emplonet, UAB",Vilnius,€ 3800 – 5200,3800.0,5200.0,4500.0,1400.0,Java Developer,Senior
+Dynamics 365 Business Central programuotojas (-a),Digmatix,Vilnius / Remote,€ 2200 – 5500,2200.0,5500.0,3850.0,3300.0,Software Developer,Not Specified
+.NET Developer for Idella team,"Visma Tech, UAB",Vilnius / Remote,€ 2800 – 5500,2800.0,5500.0,4150.0,2700.0,.NET Developer,Not Specified
+Informacinių sistemų administratorius (-ė),Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos,Kaunas,€ 1600 – 2400,1600.0,2400.0,2000.0,800.0,IT Support,Not Specified
+Informacinių sistemų analitikas (-ė),Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos,Kaunas,€ 1900 – 3500,1900.0,3500.0,2700.0,1600.0,Data Analyst,Not Specified
+Test Automation Engineer (C++),"Quadigi, UAB",Vilnius,€ 2500 – 5000,2500.0,5000.0,3750.0,2500.0,Embedded Developer,Not Specified
+Test Automation Engineer (Python),"Quadigi, UAB",Vilnius,€ 2300 – 5000,2300.0,5000.0,3650.0,2700.0,Python,Not Specified
+Ruby on Rails Developer,"1stopVAT, UAB",Vilnius / Remote,€ 5000 – 7000,5000.0,7000.0,6000.0,2000.0,Back-end developer,Not Specified
+JAVA programuotojas (-a),"Lietuvos paštas, AB",Vilnius / Remote,€ 4500 – 4950,4500.0,4950.0,4725.0,450.0,Java Developer,Not Specified
+Manual Quality Assurance Engineer,"People Link, UAB",Kaunas,€ 2000 – 4000,2000.0,4000.0,3000.0,2000.0,QA Engineer,Not Specified
+Automated Quality Assurance Engineer,"People Link, UAB",Kaunas,€ 2500 – 5000,2500.0,5000.0,3750.0,2500.0,QA Engineer,Not Specified
+IT analitikas (-ė),"Vilniaus šilumos tinklai, AB",Lithuania,€ 2300 – 3445,2300.0,3445.0,2872.5,1145.0,Data Analyst,Not Specified
+MS Dynamics NAV/ Business Central Developer,"EUROAPOTHECA, UAB",Vilnius,€ 3000 – 4200,3000.0,4200.0,3600.0,1200.0,Software Developer,Not Specified
+IOS Developer,abz.agency®,Vilnius,€ 8.5 – 14/h,1360.0,2240.0,1800.0,5.5,Mobile Developer,Not Specified
+"Front-end developer (React, Vue)",abz.agency®,Vilnius,€ 5 – 8.8/h,800.0,1408.0,1104.0,3.8000000000000007,Front-end Web developer,Not Specified
+Ieškome IT analitiko (-ės) Vilniuje,Valstybinio socialinio draudimo fondo valdyba prie Socialines apsaugos ir darbo ministerijos,Vilnius / Remote,€ 2000 – 3000,2000.0,3000.0,2500.0,1000.0,Other,Not Specified
+Ieškome testuotojo (-os) Vilniuje,Valstybinio socialinio draudimo fondo valdyba prie Socialines apsaugos ir darbo ministerijos,Vilnius / Remote,€ 1800 – 2700,1800.0,2700.0,2250.0,900.0,QA Engineer,Not Specified
+Ieškome Sistemos (produkto) savininko(-ės) Vilniuje,Valstybinio socialinio draudimo fondo valdyba prie Socialines apsaugos ir darbo ministerijos,Vilnius / Remote,€ 2300 – 3500,2300.0,3500.0,2900.0,1200.0,Other,Not Specified
+Technical Support Specialist (Azure Cloud),"QDev Technologies, UAB",Vilnius,€ 3100 – 4000,3100.0,4000.0,3550.0,900.0,DevOps,Not Specified
+IT TESTUOTOJA (-AS),Ignitis Group,Vilnius / Remote,€ 3121 – 4683,3121.0,4683.0,3902.0,1562.0,QA Engineer,Not Specified
+Finansinių rizikų analitikas - modeliuotojas (-a),UAB ILTE,Vilnius,€ 3000 – 3800,3000.0,3800.0,3400.0,800.0,Data Analyst,Not Specified
+Vyriausiasis finansinių rizikų analitikas - modeliuotojas (-a),UAB ILTE,Vilnius,€ 4000 – 4800,4000.0,4800.0,4400.0,800.0,Data Analyst,Senior
+Unit Manager for the Omnichannel Unit,"Baltic Amadeus, UAB",Vilnius,€ 6000 – 9000,6000.0,9000.0,7500.0,3000.0,Other,Not Specified
+Service Delivery Manager (IT Network company),"People Link, UAB",Vilnius,€ 3500 – 5000,3500.0,5000.0,4250.0,1500.0,Other,Not Specified
+Data Analyst for Risk & Procurement team,"Visma Tech, UAB",Vilnius / Remote,€ 2800 – 5000,2800.0,5000.0,3900.0,2200.0,Data Analyst,Not Specified
+Junior Data Management Consultant,EY,Vilnius / Remote,€ 2000 – 2700,2000.0,2700.0,2350.0,700.0,Data Engineer,Junior
+Verslo aplikacijų ekspertė (-as),LTG,Vilnius,€ 2980 – 4470,2980.0,4470.0,3725.0,1490.0,Mobile Developer,Senior
+Vyr. Duomenų mokslininkas (-ė),"Registrų centras, VĮ",Vilnius / Remote,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Data Scientist,Senior
+"Senior Engineer in Internal Identity and Access Management | SEB, Vilnius",SEB,Vilnius,€ 3000 – 4500,3000.0,4500.0,3750.0,1500.0,Other,Junior
+Software Developer,"Nasdaq Vilnius Services, UAB",Vilnius,€ 3700 – 4700,3700.0,4700.0,4200.0,1000.0,Software Developer,Not Specified
+Vyr. Programuotojas (-a),"BnP Finance, UAB",Vilnius,€ 4000 – 5000,4000.0,5000.0,4500.0,1000.0,Software Developer,Senior
+QA Engineer (Omni+ Unit),"Baltic Amadeus, UAB",Vilnius / Remote,€ 2200 – 3310,2200.0,3310.0,2755.0,1110.0,QA Engineer,Not Specified
+QA Engineer (Junior),"Baltic Amadeus, UAB",Vilnius / Remote,€ 1100 – 2200,1100.0,2200.0,1650.0,1100.0,QA Engineer,Junior
+PHP Developer (Junior),"Baltic Amadeus, UAB",Vilnius / Remote,€ 1100 – 2900,1100.0,2900.0,2000.0,1800.0,Back-end developer,Junior
+IT Product manager,CV-Online klientas,Kaunas,€ 4000 – 5000,4000.0,5000.0,4500.0,1000.0,Other,Not Specified
+Back-End Developer (AI implementation),"Emplonet, UAB",Vilnius,€ 4000 – 6000,4000.0,6000.0,5000.0,2000.0,Back-end developer,Not Specified
+IS specialistas I Technologijų skyrius,CENTRINĖ PROJEKTŲ VALDYMO AGENTŪRA VŠĮ,Vilnius / Remote,€ 2374 – 2963,2374.0,2963.0,2668.5,589.0,System Administrator/Architect,Not Specified
+Technologijų vadovas (-ė) (Microsoft produktams),"Registrų centras, VĮ",Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Other,Not Specified
+Senior recruiter - Regional coordinator,Digmatix,Vilnius / Remote,€ 3000 – 4000,3000.0,4000.0,3500.0,1000.0,Other,Senior
+IT Business Analyst,"EUROAPOTHECA, UAB",Vilnius,€ 2800 – 3800,2800.0,3800.0,3300.0,1000.0,Business Analyst,Not Specified
+System Developer (RPA),Cognizant Lietuva,Vilnius,€ 3500 – 4420,3500.0,4420.0,3960.0,920.0,Software Developer,Not Specified
+Vyr. analitikas (-ė),"Inovacijų agentūra, VšĮ",Vilnius / Remote,€ 3200 – 3500,3200.0,3500.0,3350.0,300.0,Data Analyst,Senior
+IT Architektas (-ė),"Kesko Senukai Lithuania, UAB",Kaunas,€ 5000 – 7500,5000.0,7500.0,6250.0,2500.0,Other,Not Specified
+IS pagalbos specialistas(-ė),Vilniaus universiteto ligoninės Santaros klinikos,Vilnius,€ 1800 – 2400,1800.0,2400.0,2100.0,600.0,IT Support,Not Specified
+"Full stack developer seeking new digital challenges | SEB, Vilnius",SEB,Vilnius,€ 2850 – 4250,2850.0,4250.0,3550.0,1400.0,Full-stack Developer,Not Specified
+Java Chapter Lead for Welcoming and Orchestration,Danske Bank Lithuania,Vilnius,€ 5200 – 7800,5200.0,7800.0,6500.0,2600.0,Java Developer,Senior
+BUSINESS IMPROVEMENT PROJECT MANAGER (F/M/D) | IGNITIS RENEWABLES,Ignitis Group,Vilnius,€ 2666 – 3999,2666.0,3999.0,3332.5,1333.0,Project Manager/Product Owner,Not Specified
+Business Analyst,FL Technics,Vilnius / Remote,€ 2500 – 3500,2500.0,3500.0,3000.0,1000.0,Business Analyst,Not Specified
+SKAITMENINĖS SAUGOS EKSPERTĖ (-AS) (ATSINAUJINANTI ENERGETIKA),Ignitis Group,Vilnius,€ 4403 – 6604,4403.0,6604.0,5503.5,2201.0,Security,Senior
+Senior Data Engineer – Data Platform Tribe,Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Data Engineer,Senior
+"Java Developer in Account Channels | SEB, Vilnius",SEB,Vilnius,€ 2850 – 4250,2850.0,4250.0,3550.0,1400.0,Java Developer,Not Specified
+Senior Platform Engineer at Danica IT,Danske Bank Lithuania,Vilnius,€ 4640 – 6960,4640.0,6960.0,5800.0,2320.0,DevOps,Senior
+IT PROJECT PORTFOLIO ANALYST (F/M/D),Ignitis Group,Vilnius,€ 3757 – 5635,3757.0,5635.0,4696.0,1878.0,Other,Not Specified
+SENIOR IT PROJECT MANAGER (F/M/D) (INFRASTRUCTURE),Ignitis Group,Vilnius,€ 3757 – 5635,3757.0,5635.0,4696.0,1878.0,Project Manager/Product Owner,Senior
+Experienced Full-stack Data Scientist for Behavioural Modelling Team,Danske Bank Lithuania,Vilnius,€ 4160 – 6240,4160.0,6240.0,5200.0,2080.0,Data Scientist,Senior
+Senior Software Engineer (Front-end) in AML Review Tribe,Danske Bank Lithuania,Vilnius,€ 4320 – 6480,4320.0,6480.0,5400.0,2160.0,Front-end Web developer,Senior
+OPERATIONAL TECHNOLOGY SYSTEM ADMINISTRATOR (OTSA) (F/M/D) | IGNITIS RENEWABLES,Ignitis Group,Vilnius,€ 2401 – 3602,2401.0,3602.0,3001.5,1201.0,IT Support,Not Specified
+"Mid/Senior Site Reliability Engineer with passion for innovation | SEB, Vilnius",SEB,Vilnius,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,DevOps,Mid
+"Mid/Senior Site Reliability Engineer with passion for innovation | SEB, Kaunas",SEB,Kaunas,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,DevOps,Mid
+.NET Software Engineer in Customer Communication and Channels,Danske Bank Lithuania,Vilnius,€ 3480 – 5220,3480.0,5220.0,4350.0,1740.0,.NET Developer,Not Specified
+Senior Java Developer for Credit Journey Tribe,Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Java Developer,Senior
+Senior .NET Engineer in Financial Crime Lifecycle Management Tribe,Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,.NET Developer,Senior
+"Senior Dynamics 365 and Power Platform Solution Developer | SEB, Vilnius",SEB,Vilnius,€ 4350 – 6300,4350.0,6300.0,5325.0,1950.0,Software Developer,Senior
+KOMPIUTERIZUOTŲ DARBO VIETŲ PRIEŽIŪROS INŽINIERĖ (-IUS),Ignitis Group,Vilnius,€ 1755 – 2632,1755.0,2632.0,2193.5,877.0,Other,Not Specified
+.NET Software Engineer in Customer Engagement Individuals,Danske Bank Lithuania,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,.NET Developer,Not Specified
+Data Engineer in Finance Tribe,Danske Bank Lithuania,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Data Engineer,Not Specified
+Java Developer for Welcoming and Orchestration Tribe,Danske Bank Lithuania,Vilnius,€ 3520 – 5280,3520.0,5280.0,4400.0,1760.0,Java Developer,Not Specified
+Senior Java Developer in Payment Execution Team,Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Java Developer,Senior
+Junior Data Engineer in Finance Tribe,Danske Bank Lithuania,Vilnius,€ 2720 – 4080,2720.0,4080.0,3400.0,1360.0,Data Engineer,Junior
+Business System Support Analyst (+Danish language bonus allowance),Danske Bank Lithuania,Vilnius,€ 1480 – 2220,1480.0,2220.0,1850.0,740.0,IT Support,Not Specified
+POWER PLATFORM DEVELOPER (F/M/D),Ignitis Group,Vilnius,€ 3121 – 4683,3121.0,4683.0,3902.0,1562.0,Software Developer,Not Specified
+"Full Stack Developer in Credit & Capital tribe | SEB, Vilnius",SEB,Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Full-stack Developer,Not Specified
+Senior Software Engineer (Mainframe) in Credit Journey Tribe,Danske Bank Lithuania,Vilnius,€ 4640 – 6960,4640.0,6960.0,5800.0,2320.0,Software Developer,Senior
+Senior SAS Platform Engineer,Danske Bank Lithuania,Vilnius,€ 4160 – 6240,4160.0,6240.0,5200.0,2080.0,DevOps,Senior
+IT LICENSE ADMINISTRATOR (F/M/D),Ignitis Group,Vilnius,€ 2379 – 3568,2379.0,3568.0,2973.5,1189.0,IT Support,Not Specified
+Senior Business Analyst in End User Services – GenAI services,Danske Bank Lithuania,Vilnius,€ 3600 – 5400,3600.0,5400.0,4500.0,1800.0,Business Analyst,Senior
+DATA ENGINEER (F/M/D),Ignitis Group,Vilnius,€ 3121 – 4683,3121.0,4683.0,3902.0,1562.0,Data Engineer,Not Specified
+DATA ENGINEER (F/M/D),Ignitis Group,Vilnius,€ 3121 – 4683,3121.0,4683.0,3902.0,1562.0,Data Engineer,Not Specified
+IT Software Architect,Danske Bank Lithuania,Vilnius,€ 5040 – 7560,5040.0,7560.0,6300.0,2520.0,Other,Not Specified
+Senior Java Engineer for Market Data Squad,Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Java Developer,Senior
+IT Network Engineer,Avia Solutions Group,Vilnius / Remote,€ 3636 – 4462,3636.0,4462.0,4049.0,826.0,Other,Not Specified
+"Senior Cloud Data Engineer in HR IT, Corporate Functions | SEB, Vilnius",SEB,Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Data Engineer,Senior
+Lead Tableau and Alteryx Platform Engineer,Danske Bank Lithuania,Vilnius,€ 4160 – 6240,4160.0,6240.0,5200.0,2080.0,DevOps,Senior
+".NET Full-Stack Developer in Leasing team | SEB, Vilnius",SEB,Vilnius,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,.NET Developer,Not Specified
+DUOMENŲ VALDYSENOS (DATA GOVERNANCE) KOORDINATORĖ (-IUS),Ignitis Group,Vilnius,€ 3267 – 4900,3267.0,4900.0,4083.5,1633.0,Other,Not Specified
+"Data Engineer to Savings Offering | SEB, Vilnius",SEB,Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Data Engineer,Not Specified
+"Google Cloud Platform Engineer | SEB, Vilnius",SEB,Vilnius,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,DevOps,Not Specified
+"Google Cloud Platform Engineer | SEB, Kaunas",SEB,Kaunas,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,DevOps,Not Specified
+Data Scientist,Avion Express,Vilnius / Remote,€ 4000 – 6612,4000.0,6612.0,5306.0,2612.0,Data Scientist,Not Specified
+HEAD OF INTEGRATIONS (F/M/D),Ignitis Group,Vilnius,€ 4247 – 6370,4247.0,6370.0,5308.5,2123.0,Other,Senior
+"Senior .NET developer | SEB, Vilnius",SEB,Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,.NET Developer,Senior
+"DevOps Engineer for Log Infrastructure | SEB, Vilnius",SEB,Vilnius,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,DevOps,Not Specified
+Chief .NET Engineer in Cards Domain,Danske Bank Lithuania,Vilnius,€ 5440 – 8160,5440.0,8160.0,6800.0,2720.0,.NET Developer,Senior
+Senior .NET Engineer in Cards Domain,Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,.NET Developer,Senior
+Senior Software Engineer (.NET) in AML Review Tribe,Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,.NET Developer,Senior
+Java Engineering Lead to establish a new squad in Digital Core Tribe,Danske Bank Lithuania,Vilnius,€ 5520 – 8280,5520.0,8280.0,6900.0,2760.0,Java Developer,Senior
+Senior Java Developer for Welcoming and Orchestration Tribe,Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,Java Developer,Senior
+Experienced IT Software Engineer (.NET) in Transactional Data Squad,Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,.NET Developer,Senior
+"Mid/Senior Java Developer | SEB, Vilnius",SEB,Vilnius,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,Java Developer,Mid
+"Mid/Senior Java Developer | SEB, Kaunas",SEB,Kaunas,€ 2850 – 5450,2850.0,5450.0,4150.0,2600.0,Java Developer,Mid
+Senior .Net Software Engineer for Risk and Compliance Tribe,Danske Bank Lithuania,Vilnius,€ 4560 – 6840,4560.0,6840.0,5700.0,2280.0,.NET Developer,Senior
+JUNIOR ORACLE DEVELOPER (F/M/D),Ignitis Group,Vilnius,€ 2532 – 3800,2532.0,3800.0,3166.0,1268.0,Database Admin,Junior
+IT Solution Architect for People Tribe,Danske Bank Lithuania,Vilnius,€ 5040 – 7560,5040.0,7560.0,6300.0,2520.0,Other,Not Specified
+Chief Data Architect in Financial Crime Lifecycle Management,Danske Bank Lithuania,Vilnius,€ 6640 – 9960,6640.0,9960.0,8300.0,3320.0,Other,Senior
+IT INFRASTRUCTURE ADMINISTRATOR (F/M/D),Ignitis Group,Vilnius,€ 2379 – 3568,2379.0,3568.0,2973.5,1189.0,IT Support,Not Specified
+"Application Support specialist for Data Quality | SEB, Vilnius",SEB,Vilnius,€ 2850 – 4250,2850.0,4250.0,3550.0,1400.0,QA Engineer,Not Specified
+"Java Developer for Event Driven Integration Team | SEB,Vilnius",SEB,Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Java Developer,Not Specified
+Senior DevOps Engineer,Alliance for Recruitment,Vilnius,€ 5730 – 7050,5730.0,7050.0,6390.0,1320.0,DevOps,Senior
+IT Solution Owner (Forestry Systems) – Ingka Investments,WorkingDay Latvia SIA,Kaunas / Remote,€ 4700 – 6700,4700.0,6700.0,5700.0,2000.0,Other,Not Specified
+Junior Website Content Coordinator (UX/UI),Alliance for Recruitment,Vilnius,€ 1500 – 2000,1500.0,2000.0,1750.0,500.0,Other,Junior
+Java Software Engineer,Alliance for Recruitment,Lithuania,€ 4010 – 7515,4010.0,7515.0,5762.5,3505.0,Java Developer,Not Specified
+AI Developer (Remote-Friendly),Alliance for Recruitment,Vilnius,€ 3000 – 5000,3000.0,5000.0,4000.0,2000.0,Software Developer,Not Specified
+System Engineer Storage,Alliance for Recruitment,Kaunas,€ 3000 – 5000,3000.0,5000.0,4000.0,2000.0,System Administrator/Architect,Not Specified
+Sistemų analitikas (-ė) GovTech projektams,Alliance for Recruitment,Vilnius,€ 2806 – 3306,2806.0,3306.0,3056.0,500.0,Data Analyst,Not Specified
+Security Engineer (SOC Analyst),Alliance for Recruitment,Kaunas,€ 2455 – 3504,2455.0,3504.0,2979.5,1049.0,Security,Not Specified
+Sistemų administratorius (-ė),Alliance for Recruitment,Vilnius,€ 3000 – 4500,3000.0,4500.0,3750.0,1500.0,IT Support,Not Specified
+DevOps Engineer,Alliance for Recruitment,Kaunas,€ 6699 – 6700,6699.0,6700.0,6699.5,1.0,DevOps,Not Specified
+Principal Site Reliability Engineer,Alliance for Recruitment,Vilnius,€ 6000 – 7000,6000.0,7000.0,6500.0,1000.0,DevOps,Not Specified
+Java Back-end Developer,Alliance for Recruitment,Kaunas,€ 2803 – 5621,2803.0,5621.0,4212.0,2818.0,Back-end developer,Not Specified
+Power platform development lead,Alliance for Recruitment,Vilnius,€ 5500 – 6500,5500.0,6500.0,6000.0,1000.0,Other,Senior
+Java Solution Developer in Liquidity Risk Team,Alliance for Recruitment,Vilnius,€ 3650 – 5450,3650.0,5450.0,4550.0,1800.0,Java Developer,Not Specified
+Įterptinių sistemų programuotojas (-a),Alliance for Recruitment,Vilnius,€ 3000 – 3700,3000.0,3700.0,3350.0,700.0,Embedded Developer,Not Specified
+SAP BI Data Engineer,Alliance for Recruitment,Vilnius,€ 3500 – 5000,3500.0,5000.0,4250.0,1500.0,Data Engineer,Not Specified
+Product Owner (KYC/AML),Alliance for Recruitment,Vilnius,€ 3500 – 6500,3500.0,6500.0,5000.0,3000.0,Project Manager/Product Owner,Not Specified
+Learning and Development Partner,Alliance for Recruitment,Vilnius,€ 3300 – 4000,3300.0,4000.0,3650.0,700.0,Other,Not Specified
+Full Stack Programuotojas,Alliance for Recruitment,Kaunas,€ 3000 – 4300,3000.0,4300.0,3650.0,1300.0,Full-stack Developer,Not Specified
+Full Stack Developer,UAB „Nordcode technology“,Vilnius,4100-5000,4100.0,5000.0,4550.0,900.0,Full-stack Developer,Not Specified
+IT administratorius (-ė) (gamybinė įmonė),MB „Human Capital Center“,Kaunas,1300-1600,1300.0,1600.0,1450.0,300.0,IT Support,Not Specified
+FULL STACK DEVELOPER,UAB Emplonet,Vilnius,4000-6000,4000.0,6000.0,5000.0,2000.0,Full-stack Developer,Not Specified
+IT IR KIBERNETINIO SAUGUMO KOORDINATORIUS (-Ė),UAB „People Link“,Kaunas,2500-3600,2500.0,3600.0,3050.0,1100.0,Security,Not Specified
+Product Owner,UAB „Bendras finansavimas“,Vilnius,3000-5000,3000.0,5000.0,4000.0,2000.0,Project Manager/Product Owner,Not Specified
+Software Engineer (Frontend),UAB „Bendras finansavimas“,Vilnius,3000-5000,3000.0,5000.0,4000.0,2000.0,Front-end Web developer,Not Specified
+IT skyriaus vadovas (-ė),UAB koncernas „Achemos grupė“,Klaipėda,2300-2450,2300.0,2450.0,2375.0,150.0,Other,Not Specified
+AI Engineer,"IKI Lietuva, UAB",Vilnius,2560-4500,2560.0,4500.0,3530.0,1940.0,Data Scientist,Not Specified
+Senior Business Data Analyst (Temporary Contract),Telia,Vilnius,3900-5000,3900.0,5000.0,4450.0,1100.0,Data Analyst,Senior
+"IT Infrastructure Automation & Monitoring Engineer, Spaudos g. 6-1, Vilnius",UAB „RIMI LIETUVA“,Vilnius,2700-4000,2700.0,4000.0,3350.0,1300.0,Other,Not Specified
+PHP developer,UAB „OLYMPIC CASINO GROUP BALTIJA“,Vilnius,2000-4300,2000.0,4300.0,3150.0,2300.0,Back-end developer,Not Specified
+GAMYBOS PROCESŲ IT INŽINIERIUS (-Ė),UAB „Dovaina“,Kaunas,1600-2000,1600.0,2000.0,1800.0,400.0,Other,Not Specified
+Lead Data Analyst - Internal Audit,„Cencora“,Vilnius,4511-6444,4511.0,6444.0,5477.5,1933.0,Data Analyst,Junior
+Regional Change Manager,„Cencora“,Vilnius,3031-4330,3031.0,4330.0,3680.5,1299.0,Other,Not Specified
+Software engineer (.Net) / Programuotojas-inžinierius (.Net),UAB „Light Conversion“,Vilnius,3500-6500,3500.0,6500.0,5000.0,3000.0,.NET Developer,Not Specified
+"Junior Java Developer in Customer Lifecycle Managment team | SEB, Vilnius",SEB,Vilnius,2300-3500,2300.0,3500.0,2900.0,1200.0,Java Developer,Junior
+AI Automation Engineer,UAB „Medical Score“,Vilnius,3500-6000,3500.0,6000.0,4750.0,2500.0,Other,Not Specified
+Embedded Software Developer,UAB „Light Conversion“,Vilnius,3000-5600,3000.0,5600.0,4300.0,2600.0,Embedded Developer,Not Specified
+IT inžinierius (-ė),UAB „PKC Group Lithuania“,Klaipėda,1900-2000,1900.0,2000.0,1950.0,100.0,Other,Not Specified
+IT inžinierius (-ė),UAB „PKC Group Lithuania“,Panevėžys,1900-2000,1900.0,2000.0,1950.0,100.0,Other,Not Specified
+Cyber Security manager (Group level),RETAL GROUP,Vilnius,4500-4900,4500.0,4900.0,4700.0,400.0,Security,Not Specified
+Embedded Linux programuotojas (-a),UAB „8Devices“,Vilnius,2500-5000,2500.0,5000.0,3750.0,2500.0,Embedded Developer,Not Specified
+Business Analyst,UAB „FL Technics“,Vilnius,3300-3650,3300.0,3650.0,3475.0,350.0,Business Analyst,Not Specified
+C# programuotojas (-a),UAB „Terra IT“,Kaunas,1100-4000,1100.0,4000.0,2550.0,2900.0,.NET Developer,Not Specified
+Senior App Developer,UAB „Platforma LT“,Vilnius,5000-6000,5000.0,6000.0,5500.0,1000.0,Software Developer,Senior
+Full-stack web developer,UAB „Objectis“,Vilnius,3500-5000,3500.0,5000.0,4250.0,1500.0,Front-end Web developer,Not Specified
+SKAITMENINĖS SAUGOS EKSPERTĖ (-AS) (ATSINAUJINANTI ENERGETIKA),Ignitis grupė,Vilnius,4403-6604,4403.0,6604.0,5503.5,2201.0,Security,Senior
+HR|Payroll sprendimų diegėjas (-as) - konsultantas (-ė),"OIXIO, UAB",Vilnius,3000-3700,3000.0,3700.0,3350.0,700.0,Other,Not Specified
+Junior - Mid PHP Full-stack programuotojas,UAB „ThinkBig LT“,Kaunas,2000-3000,2000.0,3000.0,2500.0,1000.0,Back-end developer,Junior
+Product Specialist,UAB „DPD Lietuva“,Vilnius,2900-3300,2900.0,3300.0,3100.0,400.0,Other,Not Specified
+Trade & Shopper Marketing Manager,UAB „Indigroup“,Vilnius,5700-7500,5700.0,7500.0,6600.0,1800.0,Other,Not Specified
+Senior Golang Engineer,UAB „Decentralized“,Vilnius,5000-10000,5000.0,10000.0,7500.0,5000.0,Other,Senior
+IT system analyst (DWH),UAB „OLYMPIC CASINO GROUP BALTIJA“,Vilnius,4000-4699,4000.0,4699.0,4349.5,699.0,Other,Not Specified
+Tinklų ir informacinių sistemų auditorius (-ė),Nacionalinis kibernetinio saugumo centras prie KAM,Vilnius,3000-4100,3000.0,4100.0,3550.0,1100.0,Other,Not Specified
+Gaming Technical Assistant (Help Desk),UAB „Nordcurrent Group“,Vilnius,1360-2125,1360.0,2125.0,1742.5,765.0,IT Support,Not Specified
+IS SPECIALISTAS (-Ė),UAB Emplonet,Vilnius,2900-3100,2900.0,3100.0,3000.0,200.0,System Administrator/Architect,Not Specified
+MID LEVEL C++ SOFTWARE ENGINEER,UAB Emplonet,Vilnius,3800-5000,3800.0,5000.0,4400.0,1200.0,Embedded Developer,Mid
+SYSTEM (AZURE) ADMINISTRATOR,UAB Emplonet,Kaunas,2500-2700,2500.0,2700.0,2600.0,200.0,DevOps,Not Specified
+VYR. IS ADMINISTRATORIUS (-Ė),UAB Emplonet,Vilnius,3300-4500,3300.0,4500.0,3900.0,1200.0,IT Support,Senior
+PRODUKTO VADOVAS (-Ė),UAB Emplonet,Vilnius,3800-4000,3800.0,4000.0,3900.0,200.0,Project Manager/Product Owner,Not Specified
+MID MOBILE NETWORK SOFTWARE ENGINEER • NETWORKING SOLUTIONS,„Teltonikos“ įmonių grupė,Kaunas,3467-5200,3467.0,5200.0,4333.5,1733.0,Software Developer,Mid
+Programinės įrangos inžinierius (-ė) (.NET ir C#),UAB „Viltechmeda“,Vilnius,3000-3900,3000.0,3900.0,3450.0,900.0,.NET Developer,Not Specified
+IT LICENSE ADMINISTRATOR (F/M/D),Ignitis grupė,Vilnius,2379-3568,2379.0,3568.0,2973.5,1189.0,IT Support,Not Specified
+Change and Training Manager,UAB „People Link“,Kaunas,4000-5000,4000.0,5000.0,4500.0,1000.0,Other,Not Specified
+Lead Software Engineer (PHP),UAB „NFQ Technologies“,Vilnius,4500-7500,4500.0,7500.0,6000.0,3000.0,Back-end developer,Senior
+POWER PLATFORM DEVELOPER (F/M/D),Ignitis grupė,Vilnius,3121-4683,3121.0,4683.0,3902.0,1562.0,Software Developer,Not Specified
+IT konsultantė (-as),UAB „SmartOn Systems“,Vilnius,1000-1500,1000.0,1500.0,1250.0,500.0,Other,Not Specified
+"Senior Systems Analyst, Oracle Fusion",UAB „STRATEGIC STAFFING SOLUTIONS INTERNATIONAL“,Vilnius,3000-5000,3000.0,5000.0,4000.0,2000.0,Database Admin,Senior
+Cyber Security Engineer,Paysera,Work from home,2500-3700,2500.0,3700.0,3100.0,1200.0,Security,Not Specified
+FULL-STACK PROGRAMUOTOJAS (-A),Talent Lab,Vilnius,2500-3500,2500.0,3500.0,3000.0,1000.0,Full-stack Developer,Not Specified
+DUOMENŲ ANALITINIŲ PRODUKTŲ GRUPĖS VADOVAS (-Ė),"Registrų Centras, VĮ",Vilnius,3161-4741,3161.0,4741.0,3951.0,1580.0,Data Analyst,Not Specified
+IT ADMINISTRATORIUS/-Ė_KĖDAINIUOSE_(J. Basanavičiaus g. 95),"Vikonda grupė, UAB",Kėdainiai,2300-2680,2300.0,2680.0,2490.0,380.0,IT Support,Not Specified
+IT ADMINISTRATORIUS (-Ė) KAUNE,"Vikonda grupė, UAB",Kaunas,2300-2680,2300.0,2680.0,2490.0,380.0,IT Support,Not Specified
+IT projektų vadovas (-ė),AB Vakarų laivų gamykla,Klaipėda,1800-2500,1800.0,2500.0,2150.0,700.0,Project Manager/Product Owner,Not Specified
+API Development Specialist,UAB „FESTO“,Kaunas,1600-2600,1600.0,2600.0,2100.0,1000.0,Other,Not Specified
+IT Project Manager,UAB „People Link“,Kaunas,4000-5000,4000.0,5000.0,4500.0,1000.0,Project Manager/Product Owner,Not Specified
+SISTEMŲ ADMINISTRATORIUS (-Ė) (KDV PRIEŽIŪRAI),"Registrų Centras, VĮ",Vilnius,1789-2683,1789.0,2683.0,2236.0,894.0,IT Support,Not Specified
+Senior Manager Wholesale Lithuania,UAB „Circle K Lietuva“,Vilnius,4200-5000,4200.0,5000.0,4600.0,800.0,Other,Senior
+SENIOR BUSINESS SYSTEMS ANALYST SAP,UAB „Hollister Lietuva“,Kaunas,3500-5000,3500.0,5000.0,4250.0,1500.0,Other,Senior
+PHP Developer (Mid level),UAB „Kesko Senukai Digital“,Vilnius,3795-4200,3795.0,4200.0,3997.5,405.0,Back-end developer,Mid
+Mid-Level PHP Developer,UAB „Kesko Senukai Digital“,Vilnius,3795-4500,3795.0,4500.0,4147.5,705.0,Back-end developer,Mid
+Head of Loyalty,UAB „Kesko Senukai Digital“,Vilnius,3512-3723,3512.0,3723.0,3617.5,211.0,Other,Senior
+"Product Manager, Credit and Collections – Vilnius, Lithuania",Western Union Lithuania ~ European Regional Operations Center,Vilnius,4033-7725,4033.0,7725.0,5879.0,3692.0,Other,Not Specified
+Software Engineer,UAB „GetJet Airlines“,Vilnius,2500-5000,2500.0,5000.0,3750.0,2500.0,Software Developer,Not Specified
+Full-stack programuotojas GovTech sprendimų kūrimui,UAB „Dizaino kryptis“,Vilnius,3000-4800,3000.0,4800.0,3900.0,1800.0,Full-stack Developer,Not Specified
+GovTech projektų vadovas (-ė),UAB „Dizaino kryptis“,Vilnius,2900-5700,2900.0,5700.0,4300.0,2800.0,Project Manager/Product Owner,Not Specified
+GovTech sistemų analitikė (-as),UAB „Dizaino kryptis“,Vilnius,2700-3900,2700.0,3900.0,3300.0,1200.0,Other,Not Specified
+ERP priežiūros specialistas (-ė),TMV Capital įmonių grupė,Kaunas,2000-2500,2000.0,2500.0,2250.0,500.0,Other,Not Specified
+Mid - Senior PHP / Laravel programuotojas (-a),"Kelių sistemos, UAB",Vilnius,2000-3500,2000.0,3500.0,2750.0,1500.0,Back-end developer,Mid
+Kibernetinio saugumo patarėjas (-a),BĮ „Nacionalinis bendrųjų funkcijų centras“,Vilnius,2230-2900,2230.0,2900.0,2565.0,670.0,Security,Not Specified
+MID/SENIOR WEB DEVELOPER (FULL STACK) • TELEMATICS,„Teltonikos“ įmonių grupė,Vilnius,3467-6067,3467.0,6067.0,4767.0,2600.0,Front-end Web developer,Mid
+JUNIOR MANUFACTURING TEST SOFTWARE ENGINEER • NETWORKING SOLUTIONS,„Teltonikos“ įmonių grupė,Kaunas,2080-3120,2080.0,3120.0,2600.0,1040.0,Software Developer,Junior
+IT administratorius (-ė),ECOSERVICE grupė,Vilnius,1250-1500,1250.0,1500.0,1375.0,250.0,IT Support,Not Specified
+Informacinių technologijų centro sistemų administratorius (-ė),Vytauto Didžiojo universitetas,Kaunas,1600-1800,1600.0,1800.0,1700.0,200.0,IT Support,Not Specified
+ELEKTRONIKOS PROGRAMUOTOJAS (-A),UAB „Simna“,Vilnius,2500-5000,2500.0,5000.0,3750.0,2500.0,Software Developer,Not Specified
+Business Analyst (SME) Compliance & AML,Paysera,Vilnius,3000-4000,3000.0,4000.0,3500.0,1000.0,Business Analyst,Not Specified
+.NET DEVELOPER,UAB Emplonet,Kaunas,4500-6000,4500.0,6000.0,5250.0,1500.0,.NET Developer,Not Specified
+Informacinių ir ryšių technologijų saugumo specialistas(-ė) (TEMPEST skyriuje),Nacionalinis kibernetinio saugumo centras prie KAM,Vilnius,2200-4000,2200.0,4000.0,3100.0,1800.0,Security,Not Specified
+PRODUCT OWNER,UAB Emplonet,Kaunas,3500-5000,3500.0,5000.0,4250.0,1500.0,Project Manager/Product Owner,Not Specified
+Junior Data Scientist – Pricing & Advanced Analytics,AB „LIETUVOS DRAUDIMAS“,Vilnius,2200-3000,2200.0,3000.0,2600.0,800.0,Data Analyst,Junior
+Full Stack Engineer,UAB „STRATOSFERA“,Vilnius,3300-4845,3300.0,4845.0,4072.5,1545.0,Full-stack Developer,Not Specified
+IT vadovas (-ė),UAB „Manpower Lit“,Vilnius,3500-5000,3500.0,5000.0,4250.0,1500.0,Other,Not Specified
+LEAD JAVA DEVELOPER (F/M/D),Ignitis grupė,Vilnius,4247-6370,4247.0,6370.0,5308.5,2123.0,Java Developer,Senior
+SISTEMŲ ANALITIKAS (-Ė),ATEA grupė,Kaunas,1000-2000,1000.0,2000.0,1500.0,1000.0,Data Analyst,Not Specified
+SISTEMŲ ANALITIKAS (-Ė),ATEA grupė,Vilnius,1000-2000,1000.0,2000.0,1500.0,1000.0,Data Analyst,Not Specified
+Senior Symfony Developer,UAB „Eany“,Vilnius,4800-6800,4800.0,6800.0,5800.0,2000.0,Software Developer,Senior
+Software Engineer (Java),UAB „Cognizant Technology Solutions Lithuania“,Vilnius,3240-3810,3240.0,3810.0,3525.0,570.0,Java Developer,Not Specified
+Ieškome naujo inžinierių komandos nario į Klientų aptarnavimo skyriaus IS palaikymo grupę!,UAB „UCS BALTIC“,Vilnius,900-1200,900.0,1200.0,1050.0,300.0,IT Support,Not Specified
+Senior Ruby on Rails Engineer,UAB „Decentralized“,Vilnius,5000-8000,5000.0,8000.0,6500.0,3000.0,Back-end developer,Senior
+Projektų vadovas (-ė),UAB „SneakyBox“,Kaunas,2300-3000,2300.0,3000.0,2650.0,700.0,Project Manager/Product Owner,Not Specified
+Programavimo komandos vadovas (-ė) (Software Engineering manager),ID Vilnius,Vilnius,5207-6364,5207.0,6364.0,5785.5,1157.0,Project Manager/Product Owner,Not Specified
+Back - End Engineer,UAB „Medical Score“,Vilnius,3000-4900,3000.0,4900.0,3950.0,1900.0,Other,Not Specified
+Front - End Engineer,UAB „Medical Score“,Vilnius,2800-4000,2800.0,4000.0,3400.0,1200.0,Other,Not Specified
+React Native Developer,UAB „Medical Score“,Vilnius,2800-4000,2800.0,4000.0,3400.0,1200.0,Front-end Web developer,Not Specified
+Full - Stack Engineer,UAB „Medical Score“,Vilnius,3500-6500,3500.0,6500.0,5000.0,3000.0,Other,Not Specified
+IS PLĖTROS SKYRIAUS PATARĖJAS (-A),UAB Emplonet,Vilnius,2708-4062,2708.0,4062.0,3385.0,1354.0,Other,Not Specified
+Embedded Software Engineer (C++),UAB „QDev Technologies“,Vilnius,4600-6000,4600.0,6000.0,5300.0,1400.0,Embedded Developer,Not Specified
+DevOps Engineer,UAB „Sapiens Lithuania“,Vilnius,3500-4800,3500.0,4800.0,4150.0,1300.0,DevOps,Not Specified
+Oracle ADF Engineer,UAB „Sapiens Lithuania“,Vilnius,4500-6000,4500.0,6000.0,5250.0,1500.0,Database Admin,Not Specified
+Jaunesnysis (-ioji) Sistemų Administratorius (-ė),Telia,Šiauliai,1900-2400,1900.0,2400.0,2150.0,500.0,IT Support,Not Specified
+IT konsultantas (-ė),"EVRC, UAB",Vilnius,1600-2000,1600.0,2000.0,1800.0,400.0,Other,Not Specified
+IT paslaugas teikiančios įmonės vadovas (-ė),UAB „Personalo valdymo inovacijos“,Vilnius,8265-10744,8265.0,10744.0,9504.5,2479.0,Mobile Developer,Not Specified
+Mid JAVA programuotojas (-a),Company name is hidden,Work from home,4300-5500,4300.0,5500.0,4900.0,1200.0,Java Developer,Mid
+ANDROID programuotojas (-a),Company name is hidden,Work from home,4300-5500,4300.0,5500.0,4900.0,1200.0,Mobile Developer,Not Specified
+Senior JAVA programuotojas (-a),Company name is hidden,Work from home,6000-6600,6000.0,6600.0,6300.0,600.0,Java Developer,Senior
+Quality Assurance Engineer,UAB „Medical Score“,Vilnius,2000-3500,2000.0,3500.0,2750.0,1500.0,QA Engineer,Not Specified
+IT inžinierius (-ė) - IT specialistas (-ė) (I ir II lygiai),UAB „Data Bank Group“,Kaunas,1300-2500,1300.0,2500.0,1900.0,1200.0,Other,Not Specified
+IT Support Specialist,UAB „Continental Automotive Lithuania“,Kaunas,1819-2450,1819.0,2450.0,2134.5,631.0,IT Support,Not Specified
+Full-Stack Java Developer,UAB „Indigroup“,Vilnius,3500-5899,3500.0,5899.0,4699.5,2399.0,Java Developer,Not Specified
+Senior PHP Developer,UAB „Indigroup“,Vilnius,5000-6000,5000.0,6000.0,5500.0,1000.0,Back-end developer,Senior
+Mid Quality Assurance Engineer,UAB „StrongPoint“,Vilnius,2630-3945,2630.0,3945.0,3287.5,1315.0,QA Engineer,Mid
+Aerospace Engineer / Aircraft Cabin Engineer,UAB „J&C Aero“,Vilnius,1400-2200,1400.0,2200.0,1800.0,800.0,Business Analyst,Not Specified
+Laravel Developer,Paysera,Vilnius,2000-4000,2000.0,4000.0,3000.0,2000.0,Back-end developer,Not Specified
+MyBee Sales Manager (Mid-Senior),Modus Group,Vilnius,2200-3300,2200.0,3300.0,2750.0,1100.0,Other,Mid
+IT Business Analyst,UAB „GetJet Airlines“,Vilnius,2800-4130,2800.0,4130.0,3465.0,1330.0,Business Analyst,Not Specified
+Kokybės ir Atitikties Vadovas / Quality and Compliance Manager,Telia,Vilnius,2900-4200,2900.0,4200.0,3550.0,1300.0,QA Engineer,Not Specified
+JUNIOR ORACLE DEVELOPER (F/M/D),Ignitis grupė,Vilnius,2532-3800,2532.0,3800.0,3166.0,1268.0,Database Admin,Junior
+Business Analyst,UAB „FL Technics“,Vilnius,2500-3500,2500.0,3500.0,3000.0,1000.0,Business Analyst,Not Specified
+Data Scientist,Telia,Vilnius,3400-4800,3400.0,4800.0,4100.0,1400.0,Data Scientist,Not Specified
+HEAD OF INTEGRATIONS (F/M/D),Ignitis grupė,Vilnius,4247-6370,4247.0,6370.0,5308.5,2123.0,Other,Senior
+Data Scientist,Avion Express,Vilnius,4000-6612,4000.0,6612.0,5306.0,2612.0,Data Scientist,Not Specified
+Lead Software Engineer & Team Lead (PHP),UAB „NFQ Technologies“,Vilnius,4920-7380,4920.0,7380.0,6150.0,2460.0,Back-end developer,Senior
+Junior SAP Basis Administrator,Telia,Vilnius,1900-2900,1900.0,2900.0,2400.0,1000.0,IT Support,Junior
+IT Specialistas (-ė),Telia,Šiauliai,1400-2100,1400.0,2100.0,1750.0,700.0,Other,Not Specified
+Mid/Senior .NET Software Engineer (Vilnius or Kaunas),"„Grafton Lithuania“, UAB",Vilnius,4000-5000,4000.0,5000.0,4500.0,1000.0,.NET Developer,Mid
+Site Reliability & DevOps Engineer (Mid/Senior),"„Grafton Lithuania“, UAB",Vilnius,4960-6612,4960.0,6612.0,5786.0,1652.0,DevOps,Mid
+Nacionalinių erdvinės informacijos paslaugų skyriaus programuotojas (-a),VšĮ „Statybos sektoriaus vystymo agentūra“,Vilnius,2499-3570,2499.0,3570.0,3034.5,1071.0,Software Developer,Not Specified
+Projekto vadovas (-ė) Duomenų platformų skyriuje,Lietuvos bankas,Vilnius,4016-6024,4016.0,6024.0,5020.0,2008.0,Other,Not Specified
+Junior Systems Engineer,UAB „Lošimų strateginė grupė“,Vilnius,1835-2395,1835.0,2395.0,2115.0,560.0,Other,Junior
+Employer Brand Team Lead,UAB „Gurtam“,Vilnius,4000-4500,4000.0,4500.0,4250.0,500.0,Other,Senior
+MID DEVOPS ENGINEER • TELEMATICS,„Teltonikos“ įmonių grupė,Vilnius,4680-5547,4680.0,5547.0,5113.5,867.0,DevOps,Mid
+Buhalterinės apskaitos programų IT specialistą (-ę),AB „Rokiškio sūris“,Utena,1500-2500,1500.0,2500.0,2000.0,1000.0,Other,Not Specified
+Full Stack Engineer,UAB „People Link“,Vilnius,4400-4900,4400.0,4900.0,4650.0,500.0,Full-stack Developer,Not Specified
+IT administratorius (-ė),TMV Capital įmonių grupė,Kaunas,2000-2400,2000.0,2400.0,2200.0,400.0,IT Support,Not Specified
+Vyr. ERP programuotojas (-a),TMV Capital įmonių grupė,Kaunas,3100-3700,3100.0,3700.0,3400.0,600.0,Software Developer,Senior
+IT sistemų administratoriaus,UAB „J&C Aero“,Vilnius,3300-4500,3300.0,4500.0,3900.0,1200.0,IT Support,Not Specified
+Sistemų administratorius (-ė),ATEA grupė,Kaunas,1300-1700,1300.0,1700.0,1500.0,400.0,IT Support,Not Specified
+Software Engineer (Java),UAB „NFQ Technologies“,Vilnius,2500-4640,2500.0,4640.0,3570.0,2140.0,Java Developer,Not Specified
+Technical Support Engineer,"Elinta Charge, UAB",Kaunas,1900-2299,1900.0,2299.0,2099.5,399.0,IT Support,Not Specified
+Senior embedded software developer,"Elinta Charge, UAB",Kaunas,4000-5000,4000.0,5000.0,4500.0,1000.0,Embedded Developer,Senior
+Business Development Project Manager,"EVERWEST, UAB",Vilnius,3290-4110,3290.0,4110.0,3700.0,820.0,Project Manager/Product Owner,Not Specified
+IT Systems Administrator,Avion Express,Vilnius,3500-4100,3500.0,4100.0,3800.0,600.0,IT Support,Not Specified
+IT INFRASTRUCTURE ADMINISTRATOR (F/M/D),Ignitis grupė,Vilnius,2379-3568,2379.0,3568.0,2973.5,1189.0,IT Support,Not Specified
+Senior Python Developer,UAB „Gurtam“,Vilnius,6000-7000,6000.0,7000.0,6500.0,1000.0,Python,Senior
+Odoo ERP Programmer (for contract),UAB „J&C Aero“,Vilnius,4800-6199,4800.0,6199.0,5499.5,1399.0,Other,Not Specified
+Odoo ERP Programuotojas (kontraktui),UAB „J&C Aero“,Vilnius,4800-6200,4800.0,6200.0,5500.0,1400.0,Software Developer,Not Specified
+CONTROL SOFTWARE DEVELOPER,UAB Emplonet,Kaunas,2500-5500,2500.0,5500.0,4000.0,3000.0,Software Developer,Not Specified
+JAUNESNYSIS IT SPECIALISTAS (-Ė),UAB „Penkių kontinentų komunikacijų centras“,Vilnius,1500-2000,1500.0,2000.0,1750.0,500.0,Other,Not Specified
+IT PROJEKTŲ VADOVAS (-Ė),Sanitex įmonių grupė,Kaunas,2900-4300,2900.0,4300.0,3600.0,1400.0,Project Manager/Product Owner,Not Specified
+AX/DYNAMICS VYSTYMO ANALITIKAS (-Ė),Sanitex įmonių grupė,Kaunas,1700-2200,1700.0,2200.0,1950.0,500.0,Data Analyst,Not Specified
+PHP programuotojas (-a),UAB „Agrokoncernas“,Kaunas,2400-3000,2400.0,3000.0,2700.0,600.0,Back-end developer,Not Specified
+IT Support Analyst,UAB „Manpower Lit“,Klaipėda,2000-2300,2000.0,2300.0,2150.0,300.0,IT Support,Not Specified
+Priežiūros specialistas (-ė),ADB „Gjensidige“,Vilnius,1781-2671,1781.0,2671.0,2226.0,890.0,Other,Not Specified
+HR|Payroll sprendimų diegėjas (-as) - konsultantas (-ė),"OIXIO, UAB",Kaunas,3000-3700,3000.0,3700.0,3350.0,700.0,Other,Not Specified
+Project Manager (Internal),UAB „NFQ Technologies“,Vilnius,2400-4000,2400.0,4000.0,3200.0,1600.0,Project Manager/Product Owner,Junior
+SENIOR IT PROJECT MANAGER (F/M/D) (INFRASTRUCTURE),Ignitis grupė,Vilnius,3757-5635,3757.0,5635.0,4696.0,1878.0,Project Manager/Product Owner,Senior
+TEAM LEAD OF IT SYSTEMS ANALYSIS,Ignitis grupė,Vilnius,3594-5390,3594.0,5390.0,4492.0,1796.0,Other,Senior
+Procesų specialistas (-ė),Eglės sanatorija,Kaunas,2400-2900,2400.0,2900.0,2650.0,500.0,Other,Not Specified
+IT produktų vadybininkas (-ė) (IT presales),ATEA grupė,Vilnius,1100-1800,1100.0,1800.0,1450.0,700.0,Business Analyst,Not Specified
+Produktų vadovas (-ė) (Technical Presales),ATEA grupė,Vilnius,1500-2000,1500.0,2000.0,1750.0,500.0,Project Manager/Product Owner,Not Specified
+Duomenų perdavimo sprendimų produktų vadybininkas (-ė) (Technical Presales),ATEA grupė,Vilnius,1000-1500,1000.0,1500.0,1250.0,500.0,Business Analyst,Not Specified
+Kibernetinio saugumo specialistė (-as),UAB „Bitė Lietuva“,Vilnius,3000-4500,3000.0,4500.0,3750.0,1500.0,Security,Not Specified
+VYR. PROGRAMUOTOJAS (-A) (JAVA),"Registrų Centras, VĮ",Vilnius,2880-4320,2880.0,4320.0,3600.0,1440.0,Java Developer,Senior
+VYR. PROGRAMUOTOJAS (-A) (.NET technologija),"Registrų Centras, VĮ",Vilnius,2880-4320,2880.0,4320.0,3600.0,1440.0,.NET Developer,Senior
+SAVITARNOS IS VYSTYMO GRUPĖS VADOVAS (-Ė),"Registrų Centras, VĮ",Vilnius,3520-5280,3520.0,5280.0,4400.0,1760.0,Other,Not Specified
+Quality Analyst,„Cencora“,Vilnius,2068-2955,2068.0,2955.0,2511.5,887.0,QA Engineer,Not Specified
+.NET PROGRAMUOTOJAS (-A),ATEA grupė,Kaunas,1500-2200,1500.0,2200.0,1850.0,700.0,.NET Developer,Not Specified
+.NET PROGRAMUOTOJAS (-A),ATEA grupė,Vilnius,1500-2200,1500.0,2200.0,1850.0,700.0,.NET Developer,Not Specified
+Business Development Project Manager (Central Asia),"EVERWEST, UAB",Vilnius,3290-4110,3290.0,4110.0,3700.0,820.0,Project Manager/Product Owner,Not Specified
+IS PLĖTROS SKYRIAUS VADOVAS (-Ė),UAB Emplonet,Vilnius,3602-5900,3602.0,5900.0,4751.0,2298.0,Other,Not Specified
+B2B IT Projektų vadovas (-ė),UAB „Infotransport“,Vilnius,1500-3000,1500.0,3000.0,2250.0,1500.0,Project Manager/Product Owner,Not Specified
+IT inžinierius (-ė),UAB „PKC Group Lithuania“,Panevėžys,1900-2000,1900.0,2000.0,1950.0,100.0,Other,Not Specified
+SENIOR SYSTEMS SUPPORT ENGINEER,Įmonių grupė „Penki kontinentai“,Vilnius,1600-1900,1600.0,1900.0,1750.0,300.0,IT Support,Senior
+DI inžinierius (-ė) – prisijunk prie mūsų komandos ir kurk inovacijas!,CITY SERVICE įmonių grupė,Vilnius,4000-5500,4000.0,5500.0,4750.0,1500.0,Data Scientist,Not Specified
+Java Developer,UAB „Bitė Lietuva“,Vilnius,2400-4500,2400.0,4500.0,3450.0,2100.0,Java Developer,Not Specified
+Data-Engineer / ML-Engineer,"„Grafton Lithuania“, UAB",Vilnius,3000-6800,3000.0,6800.0,4900.0,3800.0,Other,Not Specified
+Technical Support Analyst,Western Union Lithuania ~ European Regional Operations Center,Vilnius,1758-2583,1758.0,2583.0,2170.5,825.0,IT Support,Not Specified
+"Senior IT Network Administrator, Spaudos g. 6-1, Vilnius",UAB „RIMI LIETUVA“,Vilnius,3500-6800,3500.0,6800.0,5150.0,3300.0,IT Support,Senior
+Workday Integration Specialist,InMedica grupė,Vilnius,1900-4000,1900.0,4000.0,2950.0,2100.0,Other,Not Specified
+INFORMACINIŲ TECHNOLOGIJŲ IR SKAITMENIZACIJOS VADOVAS (-Ė),UAB Emplonet,Vilnius,5300-5500,5300.0,5500.0,5400.0,200.0,Other,Not Specified
+Verslo sistemų analitikas (-ė),TMV Capital įmonių grupė,Kaunas,2000-2500,2000.0,2500.0,2250.0,500.0,Data Analyst,Not Specified
+QA ENGINEER [Hybrid],IPRoyal Services FZE LLC,Work from home,2000-4000,2000.0,4000.0,3000.0,2000.0,QA Engineer,Not Specified
+"IT in-store Retail Solutions Specialist, Spaudos g. 6-1, Vilnius",UAB „RIMI LIETUVA“,Vilnius,2360-2950,2360.0,2950.0,2655.0,590.0,Other,Not Specified
+Back-End Developer,AAS „BTA Baltic Insurance Company“ filialas Lietuvoje,Vilnius,3200-3500,3200.0,3500.0,3350.0,300.0,Back-end developer,Not Specified
+Full Stack Engineer,AB „LIETUVOS DRAUDIMAS“,Vilnius,3500-4200,3500.0,4200.0,3850.0,700.0,Full-stack Developer,Not Specified
+PRODUCT MANAGER,Company name is hidden,Work from home,2500-6000,2500.0,6000.0,4250.0,3500.0,Other,Not Specified
+Kompiuterių sistemų inžinierius (-ė),Nacionalinis kibernetinio saugumo centras prie KAM,Kaunas,2100-3470,2100.0,3470.0,2785.0,1370.0,Other,Not Specified
+Verslo analitikų grupės komandos vadovas (-ė),ADB „Compensa Vienna Insurance Group“,Vilnius,3500-5000,3500.0,5000.0,4250.0,1500.0,Project Manager/Product Owner,Not Specified
+KOMPIUTERIŲ TECHNIKAS (-Ė) - KLIENTŲ APTARNAVIMO SPECIALISTAS (-Ė),UAB „IT DARBAI“,Vilnius,800-1100,800.0,1100.0,950.0,300.0,IT Support,Not Specified
+Business Development Project Manager,"EVERWEST, UAB",Vilnius,3290-4110,3290.0,4110.0,3700.0,820.0,Project Manager/Product Owner,Not Specified
+Team Lead - Treasury Services,UAB „Outokumpu Stainless“,Vilnius,3500-4500,3500.0,4500.0,4000.0,1000.0,Other,Senior
+Mezgimo mašinų programuotojas (-a),UAB „Garlita“,Kaunas,1400-2000,1400.0,2000.0,1700.0,600.0,Software Developer,Not Specified
+ML inžinierius (-ė),UAB „Novian pro“,Vilnius,4000-7000,4000.0,7000.0,5500.0,3000.0,Other,Not Specified
+Full Stack Developer / Programuotojas,MB „Bartus IT Solutions“,Vilnius,3000-3800,3000.0,3800.0,3400.0,800.0,Full-stack Developer,Not Specified
+IT SISTEMŲ SPECIALISTAS (-Ė),UAB Emplonet,Vilnius,1500-1700,1500.0,1700.0,1600.0,200.0,Other,Not Specified
+Support Operations Analyst (Night Shift),UAB „Cyan Blue Odds 2 LT“,Vilnius,1917-2083,1917.0,2083.0,2000.0,166.0,IT Support,Not Specified
+IT sistemų administratorius (-ė) Babtuose,UAB „Agrokoncernas“,Kaunas,2800-4000,2800.0,4000.0,3400.0,1200.0,IT Support,Not Specified
+Site Engineer - Role in a Large-Scale Renewable Energy Project,"„Grafton Lithuania“, UAB",Mažeikiai,2360-3300,2360.0,3300.0,2830.0,940.0,Other,Not Specified
+Jobs for Live-In Carers in Ireland. Spend your Summer on the Emerald Isle!,Affordable Live-in Homecare,Ireland,2070-3134,2070.0,3134.0,2602.0,1064.0,Other,Not Specified
+PYTHON PROGRAMUOTOJAS (-A),Company name is hidden,Kaunas,900-2500,900.0,2500.0,1700.0,1600.0,Python,Not Specified
+IT Inžinierius (-ė) (SDL2 remote),ATEA grupė,Kaunas,1000-1800,1000.0,1800.0,1400.0,800.0,Other,Not Specified
+WAREHOUSE TEAM LEAD,UAB „Aros Marine“,France,3000-3500,3000.0,3500.0,3250.0,500.0,Other,Senior
+IT inžinierius (-ė) Klaipėdoje,UAB „Novian Technologies“,Klaipėda,1478-1872,1478.0,1872.0,1675.0,394.0,Other,Not Specified
+Programuotojas kibernetinio saugumo tyrimų srityje,Nacionalinis kibernetinio saugumo centras prie KAM,Kaunas,2450-4132,2450.0,4132.0,3291.0,1682.0,Software Developer,Not Specified
+IT Technical Specialist,Telia,Šiauliai,1480-2220,1480.0,2220.0,1850.0,740.0,Other,Not Specified
+Junior Python Developer – Intelligent Automation,Citco Group of Companies,Vilnius,1700-2000,1700.0,2000.0,1850.0,300.0,Python,Junior
+Cyber Security Consultant,EY,Vilnius,2000-2700,2000.0,2700.0,2350.0,700.0,Security,Not Specified
+IT Site Support Engineer,UAB „Viltechmeda“,Vilnius,3000-3800,3000.0,3800.0,3400.0,800.0,IT Support,Not Specified
+Vyr. BI analitikas (-ė),TMV Capital įmonių grupė,Kaunas,2000-3000,2000.0,3000.0,2500.0,1000.0,Data Analyst,Senior
+IT Support Engineer,UAB „TV ŽAIDIMAI“,Vilnius,2149-3306,2149.0,3306.0,2727.5,1157.0,IT Support,Not Specified
+Junior Business Support Analyst,Citco Group of Companies,Vilnius,1300-1600,1300.0,1600.0,1450.0,300.0,IT Support,Junior
+Odoo sprendimų programuotojas,UAB „Via Laurea“,Klaipėda,2800-3800,2800.0,3800.0,3300.0,1000.0,Software Developer,Not Specified
+IS kokybės inžinierius (-ė),Lietuvos centrinė kredito unija,Kaunas,1650-2900,1650.0,2900.0,2275.0,1250.0,Other,Not Specified
+KLIENTŲ APTARNAVIMO GRUPĖS VADOVAS (-Ė),UAB DELSKA Lithuania,Vilnius,2800-3500,2800.0,3500.0,3150.0,700.0,IT Support,Not Specified
+Jaunesnysis .NET programuotojas,UAB „Universalios valdymo sistemos“,Vilnius,1400-2500,1400.0,2500.0,1950.0,1100.0,.NET Developer,Not Specified
+Projektų vadybininkas (-ė) (IT skyrius),UAB „Jakobsen Home Co“,Alytus,1500-2800,1500.0,2800.0,2150.0,1300.0,Business Analyst,Not Specified
+Software Engineer,BIGBANK AS filialas,Vilnius,5400-6400,5400.0,6400.0,5900.0,1000.0,Software Developer,Not Specified
+Inžinierius - programuotojas,UAB „TSPI“,Kaunas,2400-3000,2400.0,3000.0,2700.0,600.0,Software Developer,Not Specified
+Tech Architect,ERGO,Vilnius,4500-5500,4500.0,5500.0,5000.0,1000.0,Other,Not Specified
+TINKLO ADMINISTRATORIUS (-Ė) (Galimybė reikšmingai prisidėti prie Lietuvos saugumo),PERSONALO AKADEMIJA,Vilnius,1700-2200,1700.0,2200.0,1950.0,500.0,IT Support,Not Specified
+Junior Systems Engineer,UAB „Airhub Aviation“,Vilnius,1500-2300,1500.0,2300.0,1900.0,800.0,Other,Junior
+Information Security Officer,Bankera,Vilnius,2500-4499,2500.0,4499.0,3499.5,1999.0,Security,Not Specified
+Information Security Officer,Bankera,Kaunas,2500-4500,2500.0,4500.0,3500.0,2000.0,Security,Not Specified
+Technical Operations Specialist,Bankera,Kaunas,1100-3000,1100.0,3000.0,2050.0,1900.0,Other,Not Specified
+PROGRAMINIŲ SISTEMŲ TESTUOTOJAS (-A),UAB „People Link“,Vilnius,2000-3000,2000.0,3000.0,2500.0,1000.0,QA Engineer,Not Specified
+SALESFORCE ADMINISTRATOR,UAB Emplonet,Vilnius,2500-3500,2500.0,3500.0,3000.0,1000.0,IT Support,Not Specified
+Lead Cloud Engineer,UAB „NFQ Technologies“,Vilnius,4920-7380,4920.0,7380.0,6150.0,2460.0,DevOps,Senior
+IT KLIENTŲ APTARNAVIMO SPECIALISTAS (-Ė),UAB DELSKA Lithuania,Vilnius,1300-2300,1300.0,2300.0,1800.0,1000.0,IT Support,Not Specified
+Head of Payments,UAB „Medical Score“,Vilnius,3000-4500,3000.0,4500.0,3750.0,1500.0,Other,Senior
+SALESFORCE DEVELOPER,UAB Emplonet,Vilnius,3500-4500,3500.0,4500.0,4000.0,1000.0,Software Developer,Not Specified
+AI ENGINEER,UAB Emplonet,Kaunas,5800-7500,5800.0,7500.0,6650.0,1700.0,Data Scientist,Not Specified
+AI Engineer,EY,Vilnius,2100-4000,2100.0,4000.0,3050.0,1900.0,Data Scientist,Not Specified
+SOFTWARE QA ENGINEER,UAB „Viltechmeda“,Vilnius,2500-3000,2500.0,3000.0,2750.0,500.0,QA Engineer,Not Specified
+SOFTWARE QUALITY ENGINEER,UAB „Viltechmeda“,Vilnius,3000-3700,3000.0,3700.0,3350.0,700.0,QA Engineer,Not Specified
+Saugumo sprendimų produktų vadybininkas (-ė) (Technical Presales),ATEA grupė,Vilnius,1000-1500,1000.0,1500.0,1250.0,500.0,Business Analyst,Not Specified
+Mid/Senior .NET Full-Stack Developer (Vensafe),UAB „StrongPoint“,Vilnius,3240-6450,3240.0,6450.0,4845.0,3210.0,.NET Developer,Mid
+IT Onsite Inžinierius (-ė) Vilniuje,UAB „BTT Group“,Vilnius,1200-1600,1200.0,1600.0,1400.0,400.0,Other,Not Specified
+IT inžinierius (-ė),UAB „BSW Engineering“,Vilnius,2800-3200,2800.0,3200.0,3000.0,400.0,Other,Not Specified
+Kibernetinių grėsmių paieškos specialistas (-ė),Nacionalinis kibernetinio saugumo centras prie KAM,Vilnius,3000-4000,3000.0,4000.0,3500.0,1000.0,Other,Not Specified
+IT specialistas (-ė),UAB „Augma“,Klaipėda,1100-1300,1100.0,1300.0,1200.0,200.0,Other,Not Specified
+IT SYSTEM ARCHITECT (ORACLE),UAB Emplonet,Vilnius,5000-5700,5000.0,5700.0,5350.0,700.0,Database Admin,Not Specified
+SENIOR BACKEND ORACLE PL/SQL DEVELOPER,UAB Emplonet,Vilnius,3800-5200,3800.0,5200.0,4500.0,1400.0,Back-end developer,Senior
+Software Engineer (PHP),UAB „NFQ Technologies“,Vilnius,2500-4640,2500.0,4640.0,3570.0,2140.0,Back-end developer,Not Specified
+Jaun. ERP Konsultantas (-ė) (Tiekimo grandinė),TMV Capital įmonių grupė,Kaunas,1400-2000,1400.0,2000.0,1700.0,600.0,Other,Not Specified
+IT SYSTEM ARCHITECT (JAVA),UAB Emplonet,Vilnius,5000-5700,5000.0,5700.0,5350.0,700.0,Java Developer,Not Specified
+SENIOR JAVA DEVELOPER,UAB Emplonet,Vilnius,3800-5200,3800.0,5200.0,4500.0,1400.0,Java Developer,Senior
+KOMPIUTERINIŲ DARBO VIETŲ PRIEŽIŪROS SPECIALISTAS (-Ė),AB „Kelių priežiūra“,Klaipėda,2100-2400,2100.0,2400.0,2250.0,300.0,Other,Not Specified
+SENIOR/MID- LEVEL FULL-STACK DEVELOPER (React & .NET),UAB „Veiklos Valdymo Sprendimai“,Kaunas,2200-3700,2200.0,3700.0,2950.0,1500.0,.NET Developer,Mid
+Senior .NET Core Engineer,"EVERWEST, UAB",Vilnius,4000-5200,4000.0,5200.0,4600.0,1200.0,.NET Developer,Senior
+DevOps Engineer | Mid-Senior,UAB „DocLogix“,Vilnius,3200-6000,3200.0,6000.0,4600.0,2800.0,DevOps,Mid
+Senior AML Investigations Analyst (Crypto),UAB „Guidehouse Lithuania“,Vilnius,2000-2600,2000.0,2600.0,2300.0,600.0,Other,Senior
+CLOUD AI/WEB APP DEVELOPMENT LEAD • TELEMATICS,„Teltonikos“ įmonių grupė,Vilnius,4680-6587,4680.0,6587.0,5633.5,1907.0,DevOps,Senior
+Database Administrator,BIGBANK AS filialas,Vilnius,3900-7768,3900.0,7768.0,5834.0,3868.0,Database Admin,Not Specified
+Linux sistemų administratorius (-ė),UAB „Interneto vizija“,Vilnius,2000-4000,2000.0,4000.0,3000.0,2000.0,IT Support,Not Specified
+IT ADMINISTRATORIUS (-Ė),UAB „PERSONALO SPRENDIMAI“,Kaunas,2000-2500,2000.0,2500.0,2250.0,500.0,IT Support,Not Specified
+Test Automation Engineer (Python),UAB „Quadigi“,Vilnius,2300-5000,2300.0,5000.0,3650.0,2700.0,Python,Not Specified
+VYR. GIS inžinierius (-ė),UAB „Vilniaus apšvietimas“,Vilnius,2600-2800,2600.0,2800.0,2700.0,200.0,Other,Senior
+Verslo vystymo analitikas (-ė),UAB „Essmedi“,Vilnius,1200-1400,1200.0,1400.0,1300.0,200.0,Data Analyst,Not Specified
+Senior Software Engineer (PHP),UAB „NFQ Technologies“,Vilnius,4500-7500,4500.0,7500.0,6000.0,3000.0,Back-end developer,Senior
+Manual Quality Assurance Engineer,UAB „People Link“,Kaunas,2000-4000,2000.0,4000.0,3000.0,2000.0,QA Engineer,Not Specified
+Mid-Level Full-Stack Developer (React + .NET),UAB „ENERGUS GROUP“,Vilnius,2000-3000,2000.0,3000.0,2500.0,1000.0,.NET Developer,Mid
+Automated Quality Assurance Engineer,UAB „People Link“,Kaunas,2500-5000,2500.0,5000.0,3750.0,2500.0,QA Engineer,Not Specified
+IOT SOLUTIONS ENGINEER • TELEMATICS,„Teltonikos“ įmonių grupė,Vilnius,1907-2600,1907.0,2600.0,2253.5,693.0,Other,Not Specified
+UX/UI dizaineris (-ė),UAB „NEVDA“,Vilnius,1800-2500,1800.0,2500.0,2150.0,700.0,Other,Not Specified
+Senior Functional Test Engineer,UAB „Continental Automotive Lithuania“,Kaunas,3100-3800,3100.0,3800.0,3450.0,700.0,QA Engineer,Senior
+IT analitikas (-ė),AB Vilniaus šilumos tinklai,Vilnius,2300-3445,2300.0,3445.0,2872.5,1145.0,Data Analyst,Not Specified
+Paštomatų tinklo plėtros vadovas (-ė),"SmartPosti, UAB",Vilnius,2800-3400,2800.0,3400.0,3100.0,600.0,Other,Not Specified
+.NET TEAM LEAD • TELEMATICS,„Teltonikos“ įmonių grupė,Vilnius,4680-5547,4680.0,5547.0,5113.5,867.0,.NET Developer,Senior
+Juniper Specialist / System Engineer Network (all genders),DATAGROUP Operations Lithuania UAB,Kaunas,2000-5000,2000.0,5000.0,3500.0,3000.0,System Administrator/Architect,Not Specified
+IT Network System Engineer (all genders),DATAGROUP Operations Lithuania UAB,Kaunas,2000-5000,2000.0,5000.0,3500.0,3000.0,System Administrator/Architect,Not Specified
+IT Network Specialist (all genders) with focus on firewall,DATAGROUP Operations Lithuania UAB,Kaunas,2000-5000,2000.0,5000.0,3500.0,3000.0,Other,Not Specified
+TECHNINIO PALAIKYMO SPECIALISTAS (-Ė),UAB „Programmatus“,Vilnius,900-1500,900.0,1500.0,1200.0,600.0,Other,Not Specified
+IT projektų vadovė (-as) - Informacinių technologijų ir telekomunikacijų centras,EPSO-G grupė,Vilnius,4000-5000,4000.0,5000.0,4500.0,1000.0,Project Manager/Product Owner,Not Specified
+Backend Engineer - Core Banking Team,TransferGo Ltd,Vilnius,3600-4100,3600.0,4100.0,3850.0,500.0,Back-end developer,Not Specified
+Backend Engineer - DevEx Team,TransferGo Ltd,Vilnius,3600-4100,3600.0,4100.0,3850.0,500.0,Back-end developer,Not Specified
+.NET developer | Mid-Senior,UAB „DocLogix“,Vilnius,3200-7000,3200.0,7000.0,5100.0,3800.0,.NET Developer,Mid
+Paštomatų tinklo plėtros vadovas (-ė),"SmartPosti, UAB",Kaunas,2800-3400,2800.0,3400.0,3100.0,600.0,Other,Not Specified
+Entry level position for your IT career,UAB „LENDERS“,Vilnius,1100-1500,1100.0,1500.0,1300.0,400.0,Other,Junior
+.NET or .NET + REACT.JS DEVELOPER,UAB „Daviva“,Vilnius,2500-4500,2500.0,4500.0,3500.0,2000.0,.NET Developer,Not Specified
+Engineering Manager,UAB „Kesko Senukai Digital“,Vilnius,6000-6942,6000.0,6942.0,6471.0,942.0,Other,Not Specified
+Jaunesnysis (-ioji) kibernetinio saugumo ekspertas (-ė),UAB „Adwisery“,Vilnius,1903-2422,1903.0,2422.0,2162.5,519.0,Security,Senior
+.Net programuotojas (.net Developer),UAB Mediafon,Vilnius,3000-3500,3000.0,3500.0,3250.0,500.0,.NET Developer,Not Specified
+IT Services / Products Sales Project Manager,"STFF Stafferty, UAB",Klaipėda,1600-1700,1600.0,1700.0,1650.0,100.0,Project Manager/Product Owner,Not Specified
+IT SPECIALISTAS (-Ė) („hardware“ ir „software“),UAB „GTS Transportas“,Kaunas,1200-1500,1200.0,1500.0,1350.0,300.0,Other,Not Specified
+Service Delivery Manager (IT Network company),UAB „People Link“,Vilnius,3500-5000,3500.0,5000.0,4250.0,1500.0,Other,Not Specified
+Product Data Specialist,UAB „Bison Commerce“,Kaunas,1400-1570,1400.0,1570.0,1485.0,170.0,Other,Not Specified
+Junior Data Management Consultant,EY,Vilnius,2000-2700,2000.0,2700.0,2350.0,700.0,Data Engineer,Junior
+Network Engineer,UAB „NKT Lithuania“,Kaunas,3400-5100,3400.0,5100.0,4250.0,1700.0,Other,Not Specified
+Verslo aplikacijų ekspertė (-as),LTG,Vilnius,2980-4470,2980.0,4470.0,3725.0,1490.0,Mobile Developer,Senior
+IT onsite inžinierius Kaune,UAB „BTT Group“,Kaunas,1000-1600,1000.0,1600.0,1300.0,600.0,Other,Not Specified
+VYR. PHP PROGRAMUOTOJAS (-A),UAB „BnP Finance“,Vilnius,2500-3000,2500.0,3000.0,2750.0,500.0,Back-end developer,Senior
+IS analitikas (-ė),Lietuvos centrinė kredito unija,Kaunas,1900-3250,1900.0,3250.0,2575.0,1350.0,Data Analyst,Not Specified
+Integration Solutions Specialist,UAB „FESTO“,Kaunas,1600-2600,1600.0,2600.0,2100.0,1000.0,Other,Not Specified
+VYR. DUOMENŲ MOKSLININKAS (-Ė),"Registrų Centras, VĮ",Vilnius,3520-5280,3520.0,5280.0,4400.0,1760.0,Data Scientist,Senior
+QUALITY TECHNOLOGIST,UAB „Brolis semiconductors“,Vilnius,1600-2000,1600.0,2000.0,1800.0,400.0,QA Engineer,Not Specified
+Informacinių technologijų ir ryšių saugumo specialistas (-ė),Lietuvos Respublikos ryšių reguliavimo tarnyba,Vilnius,2500-2850,2500.0,2850.0,2675.0,350.0,Security,Not Specified
+Data Governance and Architecture Lead,UAB „DPD Lietuva“,Vilnius,5000-7000,5000.0,7000.0,6000.0,2000.0,Other,Senior
+AI Developer,UAB „ENERGUS GROUP“,Vilnius,2000-3000,2000.0,3000.0,2500.0,1000.0,Software Developer,Not Specified
+Skaitmeninių paslaugų koordinatorius (-ė),Lietuvos Respublikos ryšių reguliavimo tarnyba,Vilnius,2678-3035,2678.0,3035.0,2856.5,357.0,Other,Not Specified
+IT PASLAUGŲ (SERVICE DESK) KOMANDOS VADOVAS (-Ė),UAB „PERSONALO SPRENDIMAI“,Vilnius,3424-3835,3424.0,3835.0,3629.5,411.0,Project Manager/Product Owner,Not Specified
+BACK-END DEVELOPER (AI IMPLEMENTATION),UAB Emplonet,Vilnius,4000-6000,4000.0,6000.0,5000.0,2000.0,Back-end developer,Not Specified
+Junior PHP programuotojas (-a),UAB „Gedlito transportas“,Klaipėda,1300-1800,1300.0,1800.0,1550.0,500.0,Back-end developer,Junior
+IS specialistas I Technologijų skyrius,VšĮ „Centrinė projektų valdymo agentūra“,Vilnius,2374-2963,2374.0,2963.0,2668.5,589.0,System Administrator/Architect,Not Specified
+SDL1 IT Inžinierius (-ė),ATEA grupė,Vilnius,1100-1400,1100.0,1400.0,1250.0,300.0,Other,Not Specified
+Data Operations Analyst,Oxylabs,Vilnius,1500-2400,1500.0,2400.0,1950.0,900.0,Other,Not Specified
+Manager – Intelligent Automation,Citco Group of Companies,Vilnius,4000-5000,4000.0,5000.0,4500.0,1000.0,Other,Not Specified
+Test Automation Engineer (Python),UAB „QDev Technologies“,Vilnius,1900-4500,1900.0,4500.0,3200.0,2600.0,Python,Not Specified
+Quality engineer (medical device registration),UAB „Esco Medical Technologies“,Kaunas,1800-2800,1800.0,2800.0,2300.0,1000.0,QA Engineer,Not Specified
+IT sistemų (Sandėlio valdymo sistemos) priežiūros specialistas (-ė),UAB „Equinox Europe“,Kaunas,1300-2000,1300.0,2000.0,1650.0,700.0,Other,Not Specified
+System Developer (RPA),UAB „Cognizant Technology Solutions Lithuania“,Vilnius,3500-4420,3500.0,4420.0,3960.0,920.0,Software Developer,Not Specified
+IT projektų vadovas (-ė),VšĮ Lietuvos energetikos agentūra,Vilnius,3000-3700,3000.0,3700.0,3350.0,700.0,Project Manager/Product Owner,Not Specified
+JAUNESNYSIS .NET PROGRAMUOTOJAS (-A),ATEA grupė,Šiauliai,1000-1500,1000.0,1500.0,1250.0,500.0,.NET Developer,Not Specified
+IT specialistas (-ė) (vidinė infrastruktūra ir sistemų priežiūra),Hila,Vilnius,3000-3300,3000.0,3300.0,3150.0,300.0,Other,Not Specified
+BUSINESS SYSTEMS ANALYST,UAB „Hollister Lietuva“,Kaunas,2400-3500,2400.0,3500.0,2950.0,1100.0,Other,Not Specified
+IT Architektas (-ė),UAB „KESKO SENUKAI LITHUANIA“,Kaunas,5000-7500,5000.0,7500.0,6250.0,2500.0,Other,Not Specified
+Master data analitikas (-ė),„Vičiūnų“ įmonių grupė,Kaunas,3307-4960,3307.0,4960.0,4133.5,1653.0,Data Analyst,Not Specified
+KOMPIUTERIZUOTŲ DARBO VIETŲ PRIEŽIŪROS INŽINIERĖ (-IUS),Ignitis grupė,Vilnius,1755-2632,1755.0,2632.0,2193.5,877.0,Other,Not Specified
