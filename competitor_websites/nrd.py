@@ -1,11 +1,11 @@
 import csv
 import time
 import re
+import pandas as pd
 from selenium import webdriver
-from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
-from webdriver_manager.firefox import GeckoDriverManager
+
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
@@ -25,8 +25,7 @@ def get_seniority(title):
 options = Options()
 options.headless = False
 
-service = Service(GeckoDriverManager().install())
-driver = webdriver.Firefox(service=service, options=options)
+driver = webdriver.Firefox()
 
 url = "https://www.nrdcs.eu/career/"
 driver.get(url)
@@ -85,9 +84,12 @@ except Exception as e:
 finally:
     driver.quit()
 
-with open('job_listings.csv', 'w', newline='', encoding='utf-8') as file:
-    writer = csv.writer(file)
-    writer.writerow(["Title", "Company", "Location", "Salary", "Seniority"])
-    writer.writerows(job_data)
+#with open('job_listings.csv', 'w', newline='', encoding='utf-8') as file:
+#    writer = csv.writer(file)
+#    writer.writerow(["Title", "Company", "Location", "Salary", "Seniority"])
+#    writer.writerows(job_data)
 
+df = pd.DataFrame(job_data, columns=["Title", "Company", "Location", "Salary", "Seniority"])
+del df['Seniority']
+df.to_csv('mega_dataset.csv', mode='a', header=False, index=False, sep=';')
 print("\nJob listings extracted")

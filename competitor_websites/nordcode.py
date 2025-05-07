@@ -54,4 +54,5 @@ try:
 finally:
     driver.quit()
     df = pd.DataFrame(jobs, columns=["Title", "Company", "Location", "Salary"])
-    df.to_csv("jobs.csv", index=False, sep=";")
+    #df.to_csv("jobs.csv", index=False, sep=";")
+    df.to_csv("mega_dataset.csv", index=False, sep=";")

@@ -1,10 +1,10 @@
 import csv
 import time
+import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
-from webdriver_manager.firefox import GeckoDriverManager
+
 
 def get_seniority(title):
     title_lower = title.lower()
@@ -20,8 +20,7 @@ def get_seniority(title):
 options = Options()
 options.headless = True 
 
-service = Service(GeckoDriverManager().install())
-driver = webdriver.Firefox(service=service, options=options)
+driver = webdriver.Firefox()
 
 try:
     driver.get("https://www.tietoevry.com/en/careers/")
@@ -49,12 +48,15 @@ try:
 
         job_data.append([title, company, location, salary, seniority])
 
-    with open("tietoevry_jobs.csv", "w", newline="", encoding="utf-8") as file:
-        writer = csv.writer(file)
-        writer.writerow(["Title", "Company", "Location", "Salary", "Seniority"])
-        writer.writerows(job_data)
-
-    print("Job data saved to tietoevry_jobs.csv")
+    #with open("tietoevry_jobs.csv", "w", newline="", encoding="utf-8") as file:
+    #    writer = csv.writer(file)
+    #    writer.writerow(["Title", "Company", "Location", "Salary", "Seniority"])
+    #    writer.writerows(job_data)
+#
+    #print("Job data saved to tietoevry_jobs.csv")
+    df = pd.DataFrame(job_data, columns=["Title", "Company", "Location", "Salary", "Seniority"])
+    del df['Seniority']
+    df.to_csv('mega_dataset.csv', mode='a', header=False, index=False, na_rep='N/A', sep=';')
 
 finally:
     driver.quit()
