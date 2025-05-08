@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{ newsletter_title }}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background-color: #ffffff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .header {
+            background-color: #ffffff;
+            color: #333;
+            padding: 20px;
+            text-align: left;
+            border-bottom: 1px solid #eaeaea;
+        }
+        .welcome-text {
+            font-size: 14px;
+            margin-bottom: 5px;
+            font-weight: normal;
+        }
+        .title {
+            color: #3b74d9;
+            font-size: 24px;
+            font-weight: bold;
+            margin: 5px 0;
+        }
+        .subtitle {
+            font-size: 16px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+        }
+        .content {
+            padding: 20px;
+        }
+        .highlights {
+            background-color: #f0f6ff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+        }
+        .highlights-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        .highlight-item {
+            margin-bottom: 12px;
+            display: flex;
+            align-items: flex-start;
+        }
+        .highlight-icon {
+            width: 24px;
+            height: 24px;
+            margin-right: 10px;
+            color: #3b74d9;
+            flex-shrink: 0;
+        }
+        .highlight-text {
+            flex-grow: 1;
+        }
+        .highlight-label {
+            color: #3b74d9;
+            font-weight: bold;
+            margin-right: 5px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        .subsection-title {
+            color: #3b74d9;
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        .footer {
+            background-color: #f1f1f1;
+            padding: 15px;
+            text-align: center;
+            font-size: 12px;
+            color: #777;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .chart {
+            margin: 20px 0;
+            text-align: center;
+        }
+        .chart img {
+            max-width: 100%;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h3 class="welcome-text">Welcome back to  second version</h3>
+            <h1 class="title">{{ newsletter_title }}</h1>
+            <p class="subtitle">{{ newsletter_date }}</p>
+            <p>Stay informed with the latest hiring trends, tech stacks, and salary insights across the Baltics.</p>
+        </div>
+        
+        <div class="content">
+            <div class="highlights">
+                <h2 class="highlights-title">Key Highlights This Week</h2>
+                
+                <div class="highlight-item">
+                    <div class="highlight-icon"></div>
+                    <div class="highlight-text">
+                        <span class="highlight-label">Most In-Demand Role:</span>
+                        <span>{{ most_demand_role }}</span>
+                    </div>
+                </div>
+                
+                <div class="highlight-item">
+                    <div class="highlight-icon"></div>
+                    <div class="highlight-text">
+                        <span class="highlight-label">Top Hiring Company:</span>
+                        <span>{{ top_hiring_company }}</span>
+                    </div>
+                </div>
+                
+                <div class="highlight-item">
+                    <div class="highlight-icon"></div>
+                    <div class="highlight-text">
+                        <span class="highlight-label">Most In-Demand Tech Stack:</span>
+                        <span>{{ most_demand_tech }}</span>
+                    </div>
+                </div>
+                
+                <div class="highlight-item">
+                    <div class="highlight-icon"></div>
+                    <div class="highlight-text">
+                        <span class="highlight-label">Notable Market Move:</span>
+                        <span>{{ notable_market_move }}</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2 class="section-title">Trends This Month</h2>
+                <h3 class="subsection-title">Top Roles In Demand</h3>
+                
+                <div class="chart">
+                    <img src="cid:top_roles_chart" alt="Top Roles In Demand">
+                </div>
+                <p>The chart above shows the top roles in demand based on position frequency and median salary.</p>
+            </div>
+            
+            <div class="section">
+                <h2 class="section-title">Salary Distribution by Job Category</h2>
+                <div class="chart">
+                    <img src="cid:salary_distribution" alt="Salary Distribution by Job Category">
+                </div>
+                <p>The chart above shows the distribution of salaries across different job categories.</p>
+            </div>
+            
+            <div class="section">
+                <h2 class="section-title">Top 5 Highest Paying Job Categories</h2>
+                <table>
+                    <tr>
+                        <th>Rank</th>
+                        <th>Job Category</th>
+                        <th>Median Salary</th>
+                    </tr>
+                    {% for category in top_categories %}
+                    <tr>
+                        <td>{{ loop.index }}</td>
+                        <td>{{ category.name }}</td>
+                        <td>€{{ category.median_salary }}</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div>
+            
+            <div class="section">
+                <h2 class="section-title">Salary by Seniority</h2>
+                <div class="chart">
+                    <img src="cid:salary_seniority" alt="Salary by Seniority Level">
+                </div>
+                <table>
+                    <tr>
+                        <th>Seniority Level</th>
+                        <th>Median Salary</th>
+                        <th>Count</th>
+                    </tr>
+                    {% for level in seniority_levels %}
+                    <tr>
+                        <td>{{ level.name }}</td>
+                        <td>€{{ level.median_salary }}</td>
+                        <td>{{ level.count }}</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>This newsletter is generated automatically based on Baltic IT job market data.</p>
+            <p>To unsubscribe, please reply with "UNSUBSCRIBE" in the subject line.</p>
+        </div>
+    </div>
+</body>
+</html>
