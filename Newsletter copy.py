@@ -12,65 +12,8 @@ import jinja2
 import base64
 from io import BytesIO
 
-import matplotlib.pyplot as plt
-import matplotlib.font_manager as fm
-import matplotlib.patheffects as path_effects
-from matplotlib.patches import Rectangle, PathPatch
 from matplotlib.path import Path
-import numpy as np
-import os
-import matplotlib as mpl
-from io import BytesIO
-
-def download_inter_font():
-    """Download and install the Inter font if it's not already available"""
-    import os
-    import urllib.request
-    import zipfile
-    from io import BytesIO
-    
-    # Create fonts directory if it doesn't exist
-    fonts_dir = os.path.join(os.path.dirname(__file__), 'fonts')
-    os.makedirs(fonts_dir, exist_ok=True)
-    
-    # Path to save the Inter font
-    font_path = os.path.join(fonts_dir, 'Inter-Regular.ttf')
-    
-    # Check if font already exists
-    if os.path.isfile(font_path):
-        print("Inter font already exists at:", font_path)
-        return font_path
-    
-    try:
-        # URL for the Inter font
-        url = 'https://github.com/rsms/inter/releases/download/v3.19/Inter-3.19.zip'
-        print("Downloading Inter font from GitHub...")
-        
-        # Download the zip file
-        response = urllib.request.urlopen(url)
-        zip_data = BytesIO(response.read())
-        
-        # Extract the font file from the zip
-        with zipfile.ZipFile(zip_data) as font_zip:
-            # Find the Regular font file in the zip
-            for file_info in font_zip.infolist():
-                if file_info.filename.endswith('Inter-Regular.ttf'):
-                    # Extract the font to our fonts directory
-                    font_zip.extract(file_info, fonts_dir)
-                    # Move it to the right location if necessary
-                    extracted_path = os.path.join(fonts_dir, file_info.filename)
-                    if extracted_path != font_path:
-                        import shutil
-                        os.makedirs(os.path.dirname(font_path), exist_ok=True)
-                        shutil.move(extracted_path, font_path)
-                    break
-        
-        print("Successfully downloaded and installed Inter font to:", font_path)
-        return font_path
-    
-    except Exception as e:
-        print(f"Error downloading Inter font: {e}")
-        return None
+from matplotlib.patches import PathPatch
 
 class SalaryNewsletter:
 
@@ -82,9 +25,6 @@ class SalaryNewsletter:
         self.template_dir = 'newsletter_templates'
         self.output_dir = 'newsletter_output'
         self.image_dir = 'newsletter_images'
-
-                    # Set up font
-        self.setup_font()
         
         # Create necessary directories
         for directory in [self.template_dir, self.output_dir, self.image_dir]:
@@ -95,34 +35,6 @@ class SalaryNewsletter:
         if template_updated:
             print("Template was created or updated to match the current code definition.")
 
-    def setup_font(self):
-        try:
-            # First try to download the font if it's not already available
-            font_path = download_inter_font()
-            
-            if font_path and os.path.isfile(font_path):
-                # If we have the font file, register it with matplotlib
-                fm.fontManager.addfont(font_path)
-                mpl.rcParams['font.family'] = 'Inter'
-                print("Using Inter font from:", font_path)
-                return
-            
-            # Check if Inter is already in the font list
-            font_names = [f.name for f in fm.fontManager.ttflist]
-            if 'Inter' in font_names:
-                mpl.rcParams['font.family'] = 'Inter'
-                print("Using system-installed Inter font")
-                return
-            
-            # If Inter is not found, fall back to a standard sans-serif font
-            print("Inter font not found, using system sans-serif font instead")
-            mpl.rcParams['font.family'] = 'sans-serif'
-            
-        except Exception as e:
-            print(f"Error setting up font: {e}")
-            # If anything goes wrong, use a safe fallback
-            mpl.rcParams['font.family'] = 'sans-serif'
-        
     def _create_default_template(self):
         """Create a default newsletter template if none exists or update if it differs"""
         template_path = os.path.join(self.template_dir, 'simple_template.html')
@@ -135,7 +47,7 @@ class SalaryNewsletter:
     <title>{{ newsletter_title }}</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Inter, sans-serif;
             line-height: 1.6;
             color: #333;
             max-width: 800px;
@@ -506,11 +418,11 @@ class SalaryNewsletter:
             ax.set_xticks(range(len(roles)))
             
             # Set x-tick labels to job category name + count
-            ax.set_xticklabels([f"{role} ({count})" for role, count in zip(roles, counts)], rotation=0, fontname='Inter')
+            ax.set_xticklabels([f"{role} ({count})" for role, count in zip(roles, counts)], rotation=0)
             
             # Remove the vertical y-axis label and place horizontally at the top
             ax.set_ylabel('')  # Remove the default y-axis label
-            ax.text(-0.5, max(counts) * 1.1, 'Job Postings', fontsize=12, ha='left', fontname='Inter')
+            ax.text(-0.5, max(counts) * 1.1, 'Job Postings', fontsize=12, ha='left')
             
             # Remove spines/borders
             ax.spines['top'].set_visible(False)
@@ -535,7 +447,7 @@ class SalaryNewsletter:
             # Create placeholder chart if job_category column doesn't exist
             plt.figure(figsize=(10, 6))
             plt.text(0.5, 0.5, 'Data not available', 
-                    horizontalalignment='center', verticalalignment='center', fontsize=16, fontname='Inter')
+                    horizontalalignment='center', verticalalignment='center', fontsize=16)
             plt.axis('off')
             plt.tight_layout()
             
