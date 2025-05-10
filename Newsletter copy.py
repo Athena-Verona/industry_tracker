@@ -15,6 +15,9 @@ from io import BytesIO
 from matplotlib.path import Path
 from matplotlib.patches import PathPatch
 
+from matplotlib.lines import Line2D
+import matplotlib.patches as patches
+
 class SalaryNewsletter:
 
 
@@ -25,6 +28,7 @@ class SalaryNewsletter:
         self.template_dir = 'newsletter_templates'
         self.output_dir = 'newsletter_output'
         self.image_dir = 'newsletter_images'
+        self.logo_dir = 'images'  # New directory for custom images like logo
         
         # Create necessary directories
         for directory in [self.template_dir, self.output_dir, self.image_dir]:
@@ -34,6 +38,38 @@ class SalaryNewsletter:
         template_updated = self._create_default_template()
         if template_updated:
             print("Template was created or updated to match the current code definition.")
+
+        # Add this method to your class to handle the logo
+    def add_company_logo(self, logo_path=None):
+        """Add a company logo to the newsletter
+        
+        Args:
+            logo_path: Path to the logo image file. If None, a placeholder will be used.
+        """
+        # Default logo path in the logo directory
+        default_logo = os.path.join(self.logo_dir, 'default_logo.png')
+        
+        if logo_path is None:
+            # Create a simple placeholder logo if none provided
+            if not os.path.exists(default_logo):
+                plt.figure(figsize=(3, 2))
+                plt.text(0.5, 0.5, 'Company\nLogo', 
+                        horizontalalignment='center', 
+                        verticalalignment='center', 
+                        fontsize=20,
+                        color='#3b74d9',
+                        fontweight='bold')
+                plt.axis('off')
+                plt.tight_layout()
+                plt.savefig(default_logo)
+                plt.close()
+            
+            self.logo_path = default_logo
+        else:
+            # Use the provided logo
+            self.logo_path = logo_path
+        
+        return self.logo_path
 
     def _create_default_template(self):
         """Create a default newsletter template if none exists or update if it differs"""
@@ -50,10 +86,18 @@ class SalaryNewsletter:
             font-family: Inter, sans-serif;
             line-height: 1.6;
             color: #333;
-            max-width: 800px;
+            max-width: 650px;
             margin: 0 auto;
             padding: 0;
             background-color: #f9f9f9;
+            font-size: 20px;
+            font-weight: 700;
+        }
+
+        p {
+            font-size: 18px; 
+            line-height: 1.6;
+            margin-bottom: 16px;
         }
         .container {
             background-color: #ffffff;
@@ -67,32 +111,33 @@ class SalaryNewsletter:
             border-bottom: 1px solid #eaeaea;
         }
         .welcome-text {
-            font-size: 14px;
+            font-size: 20px;
             margin-bottom: 5px;
-            font-weight: normal;
+            font-weight: 500;
         }
         .title {
             color: #3b74d9;
-            font-size: 24px;
+            font-size: 25px;
             font-weight: bold;
             margin: 5px 0;
         }
         .subtitle {
-            font-size: 16px;
+            font-size: 15px;
             margin-top: 5px;
             margin-bottom: 15px;
+            font-weight: 500;
         }
         .content {
             padding: 20px;
         }
         .highlights {
-            background-color: #f0f6ff;
+            background-color: #f0f6ff !important;
             padding: 20px;
             margin-bottom: 20px;
             border-radius: 4px;
         }
         .highlights-title {
-            font-size: 18px;
+            font-size: 20px;
             font-weight: bold;
             margin-bottom: 15px;
         }
@@ -110,17 +155,20 @@ class SalaryNewsletter:
         }
         .highlight-text {
             flex-grow: 1;
+            font-size: 17px;
+            font-weight: 500;
         }
         .highlight-label {
             color: #3b74d9;
             font-weight: bold;
             margin-right: 5px;
+            font-size: 17px;
         }
         .section {
             margin-bottom: 30px;
         }
         .section-title {
-            font-size: 22px;
+            font-size: 24px;
             font-weight: bold;
             margin-bottom: 15px;
         }
@@ -134,7 +182,7 @@ class SalaryNewsletter:
             background-color: #f1f1f1;
             padding: 15px;
             text-align: center;
-            font-size: 12px;
+            font-size: 10px;
             color: #777;
         }
         table {
@@ -161,47 +209,77 @@ class SalaryNewsletter:
             border-radius: 4px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
-    </style>
+        
+        .top-bar {
+            position: relative;
+            margin-bottom: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .line {
+            border-top: 1px solid #000;
+            width: 80%;
+            height: 1px;
+            margin-top: 80px;
+        }
+
+        .top-logo {
+            background-color: white;
+            padding: 0 10px;
+            height: 150px; /* adjust as needed */
+            display: flex;
+            align-items: right;
+            margin-left: 100px; /* space between line and logo */
+        }
+
+
+
+        
+
+</style>
 </head>
 <body>
     <div class="container">
-        <div class="header">
-            <h3 class="welcome-text">Welcome back to  second version</h3>
-            <h1 class="title">{{ newsletter_title }}</h1>
-            <p class="subtitle">{{ newsletter_date }}</p>
-            <p>Stay informed with the latest hiring trends, tech stacks, and salary insights across the Baltics.</p>
+            <div class="header">
+                <div class="top-bar">
+                    <div class="line"></div>
+                    <img src="cid:company_logo" alt="Company Logo" class="top-logo">
+                </div>
+                <h3 class="welcome-text">Welcome back</h3>
+                <h1 class="title">{{ newsletter_title }}</h1>
+                <p class="subtitle">{{ newsletter_date }}</p>
+                <p>Stay informed with the latest hiring trends, tech stacks, and salary insights across the Baltics.</p>
+                </div>
         </div>
         
         <div class="content">
             <div class="highlights">
-                <h2 class="highlights-title">Key Highlights This Week</h2>
-                
-                <div class="highlight-item">
-                    <div class="highlight-icon"></div>
+                                <div class="highlight-item">
+                    <div class="highlight-icon">
+                        <img src="cid:binocular" alt="Binocular">
+                    </div>
                     <div class="highlight-text">
                         <span class="highlight-label">Most In-Demand Role:</span>
                         <span>{{ most_demand_role }}</span>
                     </div>
                 </div>
-                
+
                 <div class="highlight-item">
-                    <div class="highlight-icon"></div>
+                    <div class="highlight-icon">
+                        <img src="cid:iris_scan" alt="Iris Scan">
+                    </div>
                     <div class="highlight-text">
                         <span class="highlight-label">Top Hiring Company:</span>
                         <span>{{ top_hiring_company }}</span>
                     </div>
                 </div>
-                
+
                 <div class="highlight-item">
-                    <div class="highlight-icon"></div>
-                    <div class="highlight-text">
-                        <span class="highlight-label">Most In-Demand Tech Stack:</span>
-                        <span>{{ most_demand_tech }}</span>
+                    <div class="highlight-icon">
+                        <img src="cid:splitting" alt="Splitting">
                     </div>
-                </div>
-                
-                <div class="highlight-item">
-                    <div class="highlight-icon"></div>
                     <div class="highlight-text">
                         <span class="highlight-label">Notable Market Move:</span>
                         <span>{{ notable_market_move }}</span>
@@ -210,21 +288,14 @@ class SalaryNewsletter:
             </div>
             
             <div class="section">
+                <div class="line"></div>
                 <h2 class="section-title">Trends This Month</h2>
                 <h3 class="subsection-title">Top Roles In Demand</h3>
                 
                 <div class="chart">
                     <img src="cid:top_roles_chart" alt="Top Roles In Demand">
                 </div>
-                <p>The chart above shows the top roles in demand based on position frequency and median salary.</p>
-            </div>
-            
-            <div class="section">
-                <h2 class="section-title">Salary Distribution by Job Category</h2>
-                <div class="chart">
-                    <img src="cid:salary_distribution" alt="Salary Distribution by Job Category">
-                </div>
-                <p>The chart above shows the distribution of salaries across different job categories.</p>
+                <p>The chart above shows the top roles in demand based on position frequency.</p>
             </div>
             
             <div class="section">
@@ -268,8 +339,8 @@ class SalaryNewsletter:
         </div>
         
         <div class="footer">
-            <p>This newsletter is generated automatically based on Baltic IT job market data.</p>
-            <p>To unsubscribe, please reply with "UNSUBSCRIBE" in the subject line.</p>
+            <p1>This newsletter is generated automatically based on Baltic IT job market data.</p1>
+            <p1>To unsubscribe, please reply with "UNSUBSCRIBE" in the subject line.</p1>
         </div>
     </div>
 </body>
@@ -348,69 +419,169 @@ class SalaryNewsletter:
         salary_dist_buffer.seek(0)
         plt.close()
         
-        # Generate seniority level chart
+# This code should replace the "Generate seniority level chart" section in your generate_visualizations method
+
+        # Generate seniority level chart with improved design
         plt.figure(figsize=(10, 6))
-        sns.boxplot(x='seniority', y='avg_salary', data=self.df, 
-                   order=['Junior', 'Mid', 'Senior'])
-        plt.title('Salary Distribution by Seniority Level', fontsize=16)
-        plt.xlabel('Seniority Level', fontsize=14)
-        plt.ylabel('Average Salary (€)', fontsize=14)
+
+        # Filter for valid seniority data
+        valid_seniority = ['Junior', 'Mid', 'Senior']
+        df_seniority = self.df[self.df['seniority'].isin(valid_seniority)]
+
+        # Calculate statistics for each seniority level
+        seniority_stats = {}
+        for level in valid_seniority:
+            level_data = df_seniority[df_seniority['seniority'] == level]
+            if not level_data.empty:
+                q1 = level_data['avg_salary'].quantile(0.25)
+                median = level_data['avg_salary'].median()
+                q3 = level_data['avg_salary'].quantile(0.75)
+                mean = level_data['avg_salary'].mean()
+                seniority_stats[level] = {
+                    'q1': q1,
+                    'median': median,
+                    'q3': q3,
+                    'mean': mean
+                }
+
+        # Set up the plot with soft background
+        ax = plt.gca()
+        ax.set_facecolor('#ffffff')
+        fig = plt.gcf()
+        fig.patch.set_facecolor('#ffffff')
+
+        # Create positions for the bars
+        positions = range(len(valid_seniority))
+        bar_width = 0.6
+
+        # Draw IQR background first
+        for i, level in enumerate(valid_seniority):
+            if level in seniority_stats:
+                stats = seniority_stats[level]
+                # IQR background as light blue rectangle
+                iqr_height = stats['q3'] - stats['q1']
+                iqr_rect = patches.Rectangle(
+                    (i - bar_width/2, stats['q1']), 
+                    bar_width, 
+                    iqr_height,
+                    facecolor='#f0f7ff',
+                    edgecolor='none',
+                    alpha=0.8,
+                    zorder=1
+                )
+                ax.add_patch(iqr_rect)
+
+        # Draw mean as horizontal lines
+        for i, level in enumerate(valid_seniority):
+            if level in seniority_stats:
+                stats = seniority_stats[level]
+                # Mean line as cyan
+                plt.plot(
+                    [i - bar_width/2 - 0.1, i + bar_width/2 + 0.1],
+                    [stats['mean'], stats['mean']],
+                    color='#36B3C9',
+                    linewidth=2,
+                    zorder=4
+                )
+
+        # Draw median as blue squares
+        for i, level in enumerate(valid_seniority):
+            if level in seniority_stats:
+                stats = seniority_stats[level]
+                # Median as blue square
+                square_size = bar_width * 0.4
+                median_rect = patches.Rectangle(
+                    (i - square_size/2, stats['median'] - square_size/2 * stats['median']/1000), 
+                    square_size, 
+                    square_size * stats['median']/1000,
+                    facecolor='#2D7FF9',
+                    edgecolor='none',
+                    zorder=5
+                )
+                ax.add_patch(median_rect)
+
+        # Set up the axis
+        plt.xlim(-0.5, len(valid_seniority) - 0.5)
+        max_salary = max([stats['q3'] for level, stats in seniority_stats.items()]) * 1.2
+        plt.ylim(0, max_salary)
+        plt.xticks(positions, valid_seniority, fontsize=12)
+        plt.yticks(fontsize=12)
+        plt.ylabel('EUR', fontsize=14)
+
+        # Add legend
+        legend_elements = [
+            patches.Rectangle((0, 0), 1, 1, facecolor='#2D7FF9', label='Median'),
+            patches.Rectangle((0, 0), 1, 1, facecolor='#f0f7ff', label='IQR'),
+            Line2D([0], [0], color='#36B3C9', lw=2, label='Average*')
+        ]
+        plt.legend(handles=legend_elements, loc='upper left', frameon=True, framealpha=1, 
+                facecolor='#f9f9f9', edgecolor='#eeeeee')
+
+        # Remove spines
+        for spine in ax.spines.values():
+            spine.set_visible(False)
+
+        # Add subtle grid lines
+        plt.grid(axis='y', linestyle='--', alpha=0.3, zorder=0)
+
+
         plt.tight_layout()
-        
+
         # Save as image file and as bytes for email embedding
         salary_seniority_path = os.path.join(self.image_dir, 'salary_seniority.png')
-        plt.savefig(salary_seniority_path)
-        
+        plt.savefig(salary_seniority_path, dpi=120, bbox_inches='tight')
+
         salary_seniority_buffer = BytesIO()
-        plt.savefig(salary_seniority_buffer, format='png')
+        plt.savefig(salary_seniority_buffer, format='png', dpi=120, bbox_inches='tight')
         salary_seniority_buffer.seek(0)
         plt.close()
-        
-        # NEW: Generate top roles chart
-        plt.figure(figsize=(12, 8))
-        
-        # Get top 5 roles by count - use job_category instead of Title
+
+        # In the generate_visualizations method:
+        # Get top 5 roles by count
         if 'job_category' in self.df.columns:
-            role_counts = self.df['job_category'].value_counts().head(5)
+            # Filter out "other" category before counting
+            filtered_df = self.df[~self.df['job_category'].str.lower().isin(['other', 'others'])]
+            role_counts = filtered_df['job_category'].value_counts().head(5)
             roles = role_counts.index.tolist()
-            counts = role_counts.values
-            
+            counts = role_counts.values.tolist()
+
             # Create figure
             fig = plt.figure(figsize=(10, 6))
             ax = fig.add_subplot(111)
             
-            # Create a light blue background with rounded corners
-            # Define the rectangle with rounded corners
+            # Set up background with soft rounded corners
             height = max(counts) * 1.2
             width = len(roles) + 0.5
             
-            # Create a custom rounded rectangle for background
-            def rounded_rect(x, y, width, height, radius=0.3):
-                # Create the points of the rounded rectangle
-                xs = [x + radius, x + width - radius, x + width, x + width, x + width - radius, x + radius, x, x, x + radius]
-                ys = [y, y, y + radius, y + height - radius, y + height, y + height, y + height - radius, y + radius, y]
+            # Round the corners of the background 
+            from matplotlib.patches import FancyBboxPatch
+            background = FancyBboxPatch(
+                (-0.5, 0), width, height,
+                boxstyle=f"round,pad=0,rounding_size={0.05*width}",
+                facecolor='#f0f6ff', alpha=0.5, edgecolor='none', zorder=0
+            )
+            ax.add_patch(background)
+            
+            # Create normal bars first
+            bars = ax.bar(range(len(roles)), counts, width=0.7, color='#2D7FF9', zorder=2)
+            
+            # Round the top corners with a simpler approach
+            for bar in bars:
+                x = bar.get_x()
+                y = bar.get_height()
+                width = bar.get_width()
                 
-                # Create the rectangle path
-                codes = [Path.MOVETO] + [Path.LINETO] * 7 + [Path.CLOSEPOLY]
-                path = Path(list(zip(xs, ys)), codes)
-                return PathPatch(path, facecolor='#f0f6ff', alpha=0.5, edgecolor='none', zorder=0)
-            
-            # Add the rounded rectangle to the plot
-            ax.add_patch(rounded_rect(-0.5, 0, width, height))
-            
-            # Create bars
-            for i, count in enumerate(counts):
-                # Create a rectangle for each bar
-                bar = FancyBboxPatch(
-                    (i - 0.35, 0),  # x, y (left corner)
-                    width=0.7,      # width of the bar
-                    height=count,   # height based on count
-                    boxstyle="round,pad=0,rounding_size=0.7",  # rounded corners
-                    facecolor='#2D7FF9',  # blue color
-                    alpha=1.0,
-                    zorder=2
+                # Add rounded caps at the top of each bar
+                radius = 0.15  # Radius for rounded corners
+                
+                # Create a rectangle with rounded corners for the top part
+                from matplotlib.patches import Rectangle
+                bar_top = FancyBboxPatch(
+                    (x, y - radius), width, radius * 2,
+                    boxstyle=f"round,pad=0,rounding_size={radius}",
+                    facecolor='#2D7FF9', edgecolor='none', zorder=3
                 )
-                ax.add_patch(bar)
+                ax.add_patch(bar_top)
             
             # Set up the axis
             ax.set_xlim(-0.5, len(roles) - 0.5)
@@ -422,16 +593,13 @@ class SalaryNewsletter:
             
             # Remove the vertical y-axis label and place horizontally at the top
             ax.set_ylabel('')  # Remove the default y-axis label
-            ax.text(-0.5, max(counts) * 1.1, 'Job Postings', fontsize=12, ha='left')
+            ax.text(-0.4, max(counts) * 1.1, 'Job Postings', fontsize=18, ha='left')
             
             # Remove spines/borders
             ax.spines['top'].set_visible(False)
             ax.spines['right'].set_visible(False)
             ax.spines['left'].set_visible(False)
             ax.spines['bottom'].set_visible(False)
-            
-            # Remove title and values above bars
-            # ax.set_title('Top Roles In Demand', fontsize=18)  # Title removed
             
             plt.tight_layout()
             
@@ -443,27 +611,8 @@ class SalaryNewsletter:
             plt.savefig(top_roles_buffer, format='png')
             top_roles_buffer.seek(0)
             plt.close()
-        else:
-            # Create placeholder chart if job_category column doesn't exist
-            plt.figure(figsize=(10, 6))
-            plt.text(0.5, 0.5, 'Data not available', 
-                    horizontalalignment='center', verticalalignment='center', fontsize=16)
-            plt.axis('off')
-            plt.tight_layout()
-            
-            top_roles_path = os.path.join(self.image_dir, 'top_roles_chart.png')
-            plt.savefig(top_roles_path)
-            
-            top_roles_buffer = BytesIO()
-            plt.savefig(top_roles_buffer, format='png')
-            top_roles_buffer.seek(0)
-            plt.close()
 
         return {
-            'salary_distribution': {
-                'path': salary_dist_path,
-                'buffer': salary_dist_buffer
-            },
             'salary_seniority': {
                 'path': salary_seniority_path,
                 'buffer': salary_seniority_buffer
@@ -640,8 +789,8 @@ class SalaryNewsletter:
         return output_path, rendered_html, newsletter_data
     
     def send_newsletter_email(self, recipients, subject=None, sender_email=None, 
-                             sender_password=None, smtp_server='smtp.gmail.com', 
-                             smtp_port=587):
+                            sender_password=None, smtp_server='smtp.gmail.com', 
+                            smtp_port=587):
         """Send the newsletter via email"""
         if sender_email is None or sender_password is None:
             print("Error: Email credentials required. Please provide sender_email and sender_password.")
@@ -654,16 +803,13 @@ class SalaryNewsletter:
             subject = newsletter_data['newsletter_title']
         
         # Create message
-        message = MIMEMultipart('alternative')  # Changed from 'related' to 'alternative'
+        message = MIMEMultipart('related')
         message['Subject'] = subject
         message['From'] = sender_email
         message['To'] = ', '.join(recipients) if isinstance(recipients, list) else recipients
         
         # Create the HTML part
-        html_part = MIMEMultipart('related')  # Use 'related' for the HTML part with images
-        html_part.attach(MIMEText(html_content, 'html'))
-        
-        # Attach the HTML part to the main message
+        html_part = MIMEText(html_content, 'html')
         message.attach(html_part)
         
         # Attach images with proper Content-ID references
@@ -672,8 +818,39 @@ class SalaryNewsletter:
                 img = MIMEImage(img_file.read())
                 img.add_header('Content-ID', f'<{img_id}>')
                 img.add_header('Content-Disposition', 'inline', filename=f"{img_id}.png")
-                # Attach images to the related HTML part
-                html_part.attach(img)
+                message.attach(img)
+        
+        # Attach the company logo
+        try:
+            logo_path = 'images/Company_logo.png'  # Path to your logo image
+            with open(logo_path, 'rb') as logo_file:
+                logo_img = MIMEImage(logo_file.read())
+                logo_img.add_header('Content-ID', '<company_logo>')
+                logo_img.add_header('Content-Disposition', 'inline', filename="Company_logo.png")
+                message.attach(logo_img)
+        except FileNotFoundError:
+            print(f"Warning: Logo file not found at {logo_path}. Continuing without logo.")
+        except Exception as e:
+            print(f"Warning: Could not attach logo: {e}. Continuing without logo.")
+        
+        # Attach the highlight images
+        highlight_images = [
+            {'path': 'images/Binocular--Streamline-Ultimate.png', 'cid': 'binocular'},
+            {'path': 'images/Iris-Scan-1--Streamline-Ultimate.png', 'cid': 'iris_scan'},
+            {'path': 'images/Splitting.png', 'cid': 'splitting'}
+        ]
+        
+        for img_info in highlight_images:
+            try:
+                with open(img_info['path'], 'rb') as img_file:
+                    img = MIMEImage(img_file.read())
+                    img.add_header('Content-ID', f'<{img_info["cid"]}>')
+                    img.add_header('Content-Disposition', 'inline', filename=os.path.basename(img_info['path']))
+                    message.attach(img)
+            except FileNotFoundError:
+                print(f"Warning: Image file not found at {img_info['path']}. Continuing without image.")
+            except Exception as e:
+                print(f"Warning: Could not attach image: {e}. Continuing without image.")
         
         try:
             # Connect to server and send email
@@ -772,6 +949,7 @@ def run_newsletter_generator():
         
         # To send via email (uncomment and provide credentials)
         newsletter.send_newsletter_email(
+            # recipients=['ba.botinator@gmail.com', 'a.okuneviciute@ba.lt', 'dovran.eymirov@ktu.edu', 'mariia.prantsypal@ktu.edu', 'r.osipovice@ba.lt', 'martynuxgarlauskiux@gmail.com', 'sauleatene@protonmail.com'],
             recipients=['ba.botinator@gmail.com'],
             sender_email='ba.botinator@gmail.com',
             sender_password='mfdg jclg ngox rgql', 
