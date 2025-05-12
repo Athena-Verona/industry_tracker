@@ -7,7 +7,6 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import pandas as pd
 
-
 def get_seniority(title):
     title_lower = title.lower()
     if any(word in title_lower for word in ["senior", "lead", "principal", "head"]):
@@ -17,6 +16,26 @@ def get_seniority(title):
     elif any(word in title_lower for word in ["mid", "middle", "associate"]):
         return "Mid"
     else:
+        return "N/A"
+
+def extract_skills(driver):
+    try:
+        sections = driver.find_elements(By.CSS_SELECTOR, "div.job-ad-section")
+        for section in sections:
+            if "what we expect" in section.text.lower():
+
+                items = section.find_elements(By.CSS_SELECTOR, "ul li")
+                skills = [item.text.strip() for item in items]
+                return ", ".join(skills)
+    
+        bullets = driver.find_elements(By.CSS_SELECTOR, "ul li")
+        skills = []
+        for bullet in bullets:
+            text = bullet.text.strip().lower()
+            if any(keyword in text for keyword in ["experience", "knowledge", "understanding", "skills"]):
+                skills.append(bullet.text.strip())
+        return ", ".join(skills) if skills else "N/A"
+    except:
         return "N/A"
 
 driver = webdriver.Firefox()
@@ -103,6 +122,7 @@ while True:
             salary = "N/A"
 
         seniority = get_seniority(title)
+        
         try:
             date_info = job.find_element(By.CSS_SELECTOR, "div.vacancy-item__info-secondary > div").text.strip()
             if "Expires:" in date_info:
@@ -115,9 +135,35 @@ while True:
         except:
             published = "N/A"
             expires = "N/A"
+        
+        try:
+            job_url = job.find_element(By.CSS_SELECTOR, "a.jsx-3606875256.vacancy-item__title").get_attribute("href")
+        except:
+            job_url = "N/A"
+        
 
+        skills = "N/A"
+        
+        if job_url != "N/A":
+            try:
 
-        jobs.append([title, company, location, salary, seniority, published, expires])
+                driver.execute_script("window.open('');")
+                driver.switch_to.window(driver.window_handles[1])
+                driver.get(job_url)
+                time.sleep(2) 
+       
+                skills = extract_skills(driver)
+                
+                driver.close()
+                driver.switch_to.window(driver.window_handles[0])
+                time.sleep(1)
+            except Exception as e:
+                print(f"Error processing job page: {e}")
+                if len(driver.window_handles) > 1:
+                    driver.close()
+                    driver.switch_to.window(driver.window_handles[0])
+
+        jobs.append([title, company, location, salary, seniority, published, expires, skills, job_url])
 
 
     try:
@@ -136,15 +182,14 @@ while True:
         break
 
 driver.quit()
-df = pd.DataFrame(jobs, columns=["Title", "Company", "Location", "Salary", "Seniority", "Published", "Expires"])
+df = pd.DataFrame(jobs, columns=["Title", "Company", "Location", "Salary", "Seniority", "Published", "Expires", "Skills"])
 df.to_csv("cvonline_jobs.csv", index=False, sep=";")
-
 
 # Save to mega holy dataset
 del df["Expires"]
 del df["Published"]
 del df["Seniority"]
+del df["Job URL"]
 df.to_csv('mega_dataset.csv', mode='a', header=False, index=False, sep=';')
-
 
 print("Data saved to cvonline_jobs.csv and the mega dataset")
