@@ -4,8 +4,8 @@ import seaborn as sns
 import os
 
 # ==== CONFIGURATION ====
-file_earlier = "processed_cvbankas_data.csv"
-file_later = "processed_cvbankas_data (2025-04-17).csv"
+file_earlier = "processed_mega_dataset.csv"
+file_later = "processed_new_mega_dataset.csv"
 plot_dir = "job_category_analysis_plots"
 os.makedirs(plot_dir, exist_ok=True)
 

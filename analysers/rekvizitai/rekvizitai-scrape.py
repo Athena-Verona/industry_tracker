@@ -9,14 +9,12 @@ from pandas import DataFrame
 driver = webdriver.Firefox()
 link_list = ["https://rekvizitai.vz.lt/imone/atea/", "https://rekvizitai.vz.lt/imone/wix_com/",
              "https://rekvizitai.vz.lt/imone/nfq-technologies/",
-             "https://rekvizitai.vz.lt/imone/ivolgamus/",
              "https://rekvizitai.vz.lt/imone/visma_tech/", "https://rekvizitai.vz.lt/imone/accenture_lithuania/",
-             "https://rekvizitai.vz.lt/imone/zet_technologijos/",
-             "https://rekvizitai.vz.lt/imone/moody_s_lithuania/"]
+             "https://rekvizitai.vz.lt/imone/moody_s_lithuania/",
+             "https://rekvizitai.vz.lt/imone/zet_technologijos/"]
 
-#"https://rekvizitai.vz.lt/imone/seb_vilniaus_bankas/",
-#"https://rekvizitai.vz.lt/imone/danske_bankas/",
-#"https://rekvizitai.vz.lt/imone/ignitis_grupes_paslaugu_centras/",
+#link_list2 = ["https://rekvizitai.vz.lt/imone/seb_vilniaus_bankas/", "https://rekvizitai.vz.lt/imone/danske_bankas/", 
+#              "https://rekvizitai.vz.lt/imone/ignitis_grupes_paslaugu_centras/"]
 
 try:
     

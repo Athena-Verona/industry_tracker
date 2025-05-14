@@ -5,18 +5,20 @@ from matplotlib.patches import FancyBboxPatch
 rekvizitai = pd.read_csv("rekvizitai/rekvizitai.csv", sep=';')  
 processed_mega_dataset = pd.read_csv("processed_mega_dataset.csv")  
 
-# Preprocess company names: remove special characters like dots, no whitespace, extract only first word
+# Preprocess
 rekvizitai['Company'] = rekvizitai['Company'].str.strip()  # Strip whitespace
 processed_mega_dataset['Company'] = processed_mega_dataset['Company'].str.strip()
 
-rekvizitai['CCompany'] = rekvizitai['Company'].str.replace(r'[^\w\s]', '', regex=True) # Remove dots
+# Remove dots apostrophes and other special characters
+rekvizitai['CCompany'] = rekvizitai['Company'].str.replace(r'[^\w\s]', '', regex=True)
 processed_mega_dataset['CCompany'] = processed_mega_dataset['Company'].str.replace(r'[^\w\s]', '', regex=True)
+# Lowercase everything 
+rekvizitai['CCompany'] = rekvizitai['CCompany'].str.lower()
+processed_mega_dataset['CCompany'] = processed_mega_dataset['CCompany'].str.lower()
 
 rekvizitai['First Word'] = rekvizitai['CCompany'].str.split().str[0]
 processed_mega_dataset['First Word'] = processed_mega_dataset['CCompany'].str.split().str[0]
 
-# New column for total hiring
-rekvizitai['Hiring'] = 0
 
 for first_word in rekvizitai['First Word']:
     # Filter postings by company and count them
@@ -24,7 +26,7 @@ for first_word in rekvizitai['First Word']:
     total_hiring = len(matching_jobs)
     rekvizitai.loc[rekvizitai['First Word'] == first_word, 'Total Hiring'] = total_hiring
 
-rekvizitai = rekvizitai.drop(columns=['CCompany', 'First Word'])
+rekvizitai = rekvizitai.drop(columns=['First Word'])
 rekvizitai.to_csv("rekvizitai/rekvizitai_updated.csv", sep=';', index=False)
 
 # Sort
@@ -36,12 +38,9 @@ fig = plt.figure(figsize=(7, 8))
 ax = fig.add_subplot(111)
 x = range(len(rekvizitai))
 
-# could you get counts from the data frame instead of hardcoding them?
 counts = rekvizitai['Employees'].tolist() + rekvizitai['Total Hiring'].tolist()
 height = max(counts) * 1.2
 width = len(rekvizitai)
-
-
 background = FancyBboxPatch(
     (-0.5, 0), width, height,
     boxstyle=f"round,pad=0,rounding_size={0.05*width}",
@@ -54,10 +53,8 @@ bar2 = ax.bar(x, rekvizitai['Total Hiring'], bottom=rekvizitai['Employees'], lab
 
 # Add labels
 ax.set_xticks(x)
-ax.set_xticklabels(rekvizitai['Company'], rotation=45, ha='right')
-ax.set_ylabel('Employees', fontsize=12, color='black')
-ax.set_title('Current Employees and Hiring per Company', fontsize=14)
-ax.legend(loc='upper center', fontsize=10,fancybox=True, shadow=True, borderpad=1)
+ax.set_xticklabels(rekvizitai['Company'], rotation=45, ha='right', fontsize=12)
+ax.legend(loc='upper center', fontsize=10 ,fancybox=True, shadow=True, borderpad=1)
 
 for i, total in enumerate(rekvizitai['Total Hiring']):
     total = int(total)
@@ -66,4 +63,4 @@ for i, total in enumerate(rekvizitai['Total Hiring']):
 plt.tight_layout()
 plt.show()
 
-fig.savefig('newsletter_images/rekvizitai_plot.png', bbox_inches='tight', dpi=300)
+#fig.savefig('newsletter_images/rekvizitai_plot.png', bbox_inches='tight', dpi=300)
