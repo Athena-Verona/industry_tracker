@@ -204,11 +204,24 @@ class SalaryNewsletter:
             margin: 20px 0;
             text-align: center;
         }
+
         .chart img {
-            max-width: 100%;
+                max-width: 100%; /* Ensures the image scales responsively */
+                border-radius: 4px;
+                box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            }
+
+        .chart1 img {
+            max-width: 100%; /* Ensures the image scales responsively */
+            height: auto; /* Maintains aspect ratio */
+            width: 600px; /* Set a fixed width for the image */
+            align-items: center;
+            text-align: center;
             border-radius: 4px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
+        
+            
         
         .top-bar {
             position: relative;
@@ -292,7 +305,7 @@ class SalaryNewsletter:
                 <h2 class="section-title">Trends This Month</h2>
                 <h3 class="subsection-title">Top Roles In Demand</h3>
                 
-                <div class="chart">
+                <div class="chart1">
                     <img src="cid:top_roles_chart" alt="Top Roles In Demand">
                 </div>
                 <p>The chart above shows the top roles in demand based on position frequency.</p>
@@ -337,6 +350,17 @@ class SalaryNewsletter:
                 </table>
             </div>
         </div>
+
+        <div class="section">
+                <div class="line"></div>
+                <h2 class="section-title">Specific Competitors</h2>
+                <h3 class="subsection-title">Change in Hiring Trends</h3>
+                
+                <div class="chart1">
+                    <img src="cid:rekvizitai_plot" alt="Graphs_images_rekvizitai">
+                </div>
+            </div>
+        
         
         <div class="footer">
             <p1>This newsletter is generated automatically based on Baltic IT job market data.</p1>
@@ -563,25 +587,24 @@ class SalaryNewsletter:
             ax.add_patch(background)
             
             # Create normal bars first
-            bars = ax.bar(range(len(roles)), counts, width=0.7, color='#2D7FF9', zorder=2)
+            bars = ax.bar(range(len(roles)), counts, width=0.5, color='#2D7FF9', zorder=2)
             
-            # Round the top corners with a simpler approach
-            for bar in bars:
-                x = bar.get_x()
-                y = bar.get_height()
-                width = bar.get_width()
+            # for bar in bars:
+            #     x = bar.get_x()
+            #     y = bar.get_height()
+            #     width = bar.get_width()
                 
-                # Add rounded caps at the top of each bar
-                radius = 0.15  # Radius for rounded corners
+            #     # Add rounded caps at the top of each bar
+            #     radius = 0.15  # Radius for rounded corners
                 
-                # Create a rectangle with rounded corners for the top part
-                from matplotlib.patches import Rectangle
-                bar_top = FancyBboxPatch(
-                    (x, y - radius), width, radius * 2,
-                    boxstyle=f"round,pad=0,rounding_size={radius}",
-                    facecolor='#2D7FF9', edgecolor='none', zorder=3
-                )
-                ax.add_patch(bar_top)
+            #     # Create a rectangle with rounded corners for the top part
+            #     from matplotlib.patches import Rectangle
+            #     bar_top = FancyBboxPatch(
+            #         (x, y - radius), width, radius * 2,
+            #         boxstyle=f"round,pad=0,rounding_size={radius}",
+            #         facecolor='#2D7FF9', edgecolor='none', zorder=3
+            #     )
+            #     ax.add_patch(bar_top)
             
             # Set up the axis
             ax.set_xlim(-0.5, len(roles) - 0.5)
@@ -839,8 +862,12 @@ class SalaryNewsletter:
             {'path': 'images/Iris-Scan-1--Streamline-Ultimate.png', 'cid': 'iris_scan'},
             {'path': 'images/Splitting.png', 'cid': 'splitting'}
         ]
+        Graphs_images = [
+            {'path': 'newsletter_images/rekvizitai_plot.png', 'cid': 'rekvizitai_plot'}
+        ]
+
         
-        for img_info in highlight_images:
+        for img_info in highlight_images + Graphs_images:
             try:
                 with open(img_info['path'], 'rb') as img_file:
                     img = MIMEImage(img_file.read())
