@@ -10,7 +10,7 @@ from collections import Counter
 
 def main():    
     try:
-        df = pd.read_csv('mega_dataset.csv', delimiter=';')
+        df = pd.read_csv('new_mega_dataset.csv', delimiter=';')
         print(f"Successfully loaded data with {len(df)} job listings")
     except Exception as e:
         print(f"Error loading data: {e}")
@@ -21,7 +21,7 @@ def main():
     analyze_salaries(df)
     #create_visualizations(df)
     
-    df.to_csv('processed_mega_dataset.csv', index=False)
+    df.to_csv('processed_new_mega_dataset.csv', index=False)
 
 def clean_data(df):    
     df = df.copy()
