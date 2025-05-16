@@ -7,6 +7,23 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import pandas as pd
 
+# Define IT skills keywords
+IT_SKILLS_KEYWORDS = [
+    'python', 'java', 'javascript', 'c#', 'c++', 'php', 'ruby', 'go', 'swift', 'kotlin',
+    'sql', 'nosql', 'mysql', 'postgresql', 'mongodb', 'redis',
+    'html', 'css', 'sass', 'less', 'bootstrap',
+    'react', 'angular', 'vue', 'node.js', 'express', 'django', 'flask', 'spring',
+    'docker', 'kubernetes', 'aws', 'azure', 'gcp', 'terraform', 'ansible',
+    'machine learning', 'ai', 'tensorflow', 'pytorch', 'data science',
+    'cybersecurity', 'penetration testing', 'ethical hacking',
+    'devops', 'ci/cd', 'jenkins', 'git', 'github', 'gitlab',
+    'agile', 'scrum', 'kanban',
+    'rest api', 'graphql', 'soap',
+    'linux', 'unix', 'windows server',
+    'networking', 'tcp/ip', 'dns', 'vpn',
+    'big data', 'hadoop', 'spark', 'kafka'
+]
+
 def get_seniority(title):
     title_lower = title.lower()
     if any(word in title_lower for word in ["senior", "lead", "principal", "head"]):
@@ -23,7 +40,6 @@ def extract_skills(driver):
         sections = driver.find_elements(By.CSS_SELECTOR, "div.job-ad-section")
         for section in sections:
             if "what we expect" in section.text.lower():
-
                 items = section.find_elements(By.CSS_SELECTOR, "ul li")
                 skills = [item.text.strip() for item in items]
                 return ", ".join(skills)
@@ -37,6 +53,14 @@ def extract_skills(driver):
         return ", ".join(skills) if skills else "N/A"
     except:
         return "N/A"
+
+def extract_skill_keywords(text):
+    found = []
+    text_lower = text.lower()
+    for keyword in IT_SKILLS_KEYWORDS:
+        if keyword in text_lower:
+            found.append(keyword)
+    return ", ".join(found) if found else "N/A"
 
 driver = webdriver.Firefox()
 driver.get("https://www.cvonline.lt/en/")
@@ -80,7 +104,6 @@ try:
     )
     show_jobs_button.click()
     print("Clicked 'Show job ads'")
-
     time.sleep(3)
 
 except Exception as e:
@@ -140,20 +163,20 @@ while True:
             job_url = job.find_element(By.CSS_SELECTOR, "a.jsx-3606875256.vacancy-item__title").get_attribute("href")
         except:
             job_url = "N/A"
-        
 
         skills = "N/A"
-        
+        skill_keywords = "N/A"
+
         if job_url != "N/A":
             try:
-
                 driver.execute_script("window.open('');")
                 driver.switch_to.window(driver.window_handles[1])
                 driver.get(job_url)
-                time.sleep(2) 
-       
+                time.sleep(2)
+
                 skills = extract_skills(driver)
-                
+                skill_keywords = extract_skill_keywords(skills)
+
                 driver.close()
                 driver.switch_to.window(driver.window_handles[0])
                 time.sleep(1)
@@ -163,12 +186,13 @@ while True:
                     driver.close()
                     driver.switch_to.window(driver.window_handles[0])
 
-        jobs.append([title, company, location, salary, seniority, published, expires, skills, job_url])
-
+        jobs.append([
+            title, company, location, salary, seniority, published,
+            expires, skill_keywords
+        ])
 
     try:
         next_button = driver.find_element(By.CSS_SELECTOR, "button.jsx-1632237535.pagination__link[aria-label='Next']")
-        
         if next_button.get_attribute("disabled") is not None:
             print("Reached last page. Scraping finished.")
             break
@@ -182,8 +206,13 @@ while True:
         break
 
 driver.quit()
-df = pd.DataFrame(jobs, columns=["Title", "Company", "Location", "Salary", "Seniority", "Published", "Expires", "Skills"])
-df.to_csv("cvonline_jobs.csv", index=False, sep=";")
+
+df = pd.DataFrame(jobs, columns=[
+    "Title", "Company", "Location", "Salary", "Seniority", "Published",
+    "Expires","Skills"
+])
+df.to_csv("cvonline_jobs_with_skills.csv", index=False, sep=";")
+print("Data saved to cvonline_jobs_with_skills.csv")
 
 # Save to mega holy dataset
 del df["Expires"]
@@ -192,4 +221,4 @@ del df["Seniority"]
 del df["Job URL"]
 df.to_csv('mega_dataset.csv', mode='a', header=False, index=False, sep=';')
 
-print("Data saved to cvonline_jobs.csv and the mega dataset")
+
