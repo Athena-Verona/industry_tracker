@@ -218,7 +218,6 @@ print("Data saved to cvonline_jobs_with_skills.csv")
 del df["Expires"]
 del df["Published"]
 del df["Seniority"]
-del df["Job URL"]
 df.to_csv('mega_dataset.csv', mode='a', header=False, index=False, sep=';')
 
 
