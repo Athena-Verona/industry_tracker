@@ -206,7 +206,7 @@ class SalaryNewsletter:
         }
 
         .chart img {
-                max-width: 100%; /* Ensures the image scales responsively */
+                max-width: 80%; /* Ensures the image scales responsively */
                 border-radius: 4px;
                 box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             }
@@ -219,9 +219,7 @@ class SalaryNewsletter:
             text-align: center;
             border-radius: 4px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-        
-            
+        }            
         
         .top-bar {
             position: relative;
@@ -305,7 +303,7 @@ class SalaryNewsletter:
                 <h2 class="section-title">Trends This Month</h2>
                 <h3 class="subsection-title">Top Roles In Demand</h3>
                 
-                <div class="chart1">
+                <div class="chart">
                     <img src="cid:top_roles_chart" alt="Top Roles In Demand">
                 </div>
                 <p>The chart above shows the top roles in demand based on position frequency.</p>
@@ -313,20 +311,9 @@ class SalaryNewsletter:
             
             <div class="section">
                 <h2 class="section-title">Top 5 Highest Paying Job Categories</h2>
-                <table>
-                    <tr>
-                        <th>Rank</th>
-                        <th>Job Category</th>
-                        <th>Median Salary</th>
-                    </tr>
-                    {% for category in top_categories %}
-                    <tr>
-                        <td>{{ loop.index }}</td>
-                        <td>{{ category.name }}</td>
-                        <td>€{{ category.median_salary }}</td>
-                    </tr>
-                    {% endfor %}
-                </table>
+                <div class="chart">
+                    <img src="cid:top_categories_chart" alt="Top Paying Job Categories">
+                </div>
             </div>
             
             <div class="section">
@@ -534,7 +521,7 @@ class SalaryNewsletter:
 
         # Add legend
         legend_elements = [
-            patches.Rectangle((0, 0), 1, 1, facecolor='#2D7FF9', label='Median'),
+            # patches.Rectangle((0, 0), 1, 1, facecolor='#2D7FF9', label='Median'),
             patches.Rectangle((0, 0), 1, 1, facecolor='#f0f7ff', label='IQR'),
             Line2D([0], [0], color='#36B3C9', lw=2, label='Average*')
         ]
@@ -588,24 +575,7 @@ class SalaryNewsletter:
             
             # Create normal bars first
             bars = ax.bar(range(len(roles)), counts, width=0.5, color='#2D7FF9', zorder=2)
-            
-            # for bar in bars:
-            #     x = bar.get_x()
-            #     y = bar.get_height()
-            #     width = bar.get_width()
-                
-            #     # Add rounded caps at the top of each bar
-            #     radius = 0.15  # Radius for rounded corners
-                
-            #     # Create a rectangle with rounded corners for the top part
-            #     from matplotlib.patches import Rectangle
-            #     bar_top = FancyBboxPatch(
-            #         (x, y - radius), width, radius * 2,
-            #         boxstyle=f"round,pad=0,rounding_size={radius}",
-            #         facecolor='#2D7FF9', edgecolor='none', zorder=3
-            #     )
-            #     ax.add_patch(bar_top)
-            
+
             # Set up the axis
             ax.set_xlim(-0.5, len(roles) - 0.5)
             ax.set_ylim(0, max(counts) * 1.2)  # Add some space at the top
@@ -635,6 +605,9 @@ class SalaryNewsletter:
             top_roles_buffer.seek(0)
             plt.close()
 
+        top_categories_chart = self.generate_top_categories_chart()
+            
+
         return {
             'salary_seniority': {
                 'path': salary_seniority_path,
@@ -643,9 +616,137 @@ class SalaryNewsletter:
             'top_roles_chart': {
                 'path': top_roles_path,
                 'buffer': top_roles_buffer
-            }
+            },
+            'top_categories_chart': top_categories_chart
         }
     
+    def generate_top_categories_chart(self):
+        if self.df is None or 'job_category' not in self.df.columns:
+            print("No data loaded or job_category column missing.")
+            return None
+
+        # Filter categories with at least 4 entries
+        category_counts = self.df['job_category'].value_counts()
+        valid_categories = category_counts[category_counts >= 4].index
+        df_filtered = self.df[self.df['job_category'].isin(valid_categories)]
+        
+        # Get top 5 categories by median salary
+        top_categories = df_filtered.groupby('job_category')['avg_salary'].median().sort_values(ascending=False).head(5)
+        
+        # Calculate popularity (normalize count data)
+        category_popularity = category_counts[top_categories.index]
+        max_count = category_popularity.max()
+        normalized_popularity = category_popularity / max_count
+        
+        # Create figure
+        plt.figure(figsize=(10, 6))
+        
+        # Set up the plot with white base background
+        ax = plt.subplot(111)
+        ax.set_facecolor('#ffffff')
+        fig = plt.gcf()
+        fig.patch.set_facecolor('#ffffff')
+
+        # Define colors
+        bar_color = '#3b74d9'
+        background_color = '#ffffff'
+        
+        # Define title position and chart dimensions
+        title_y_position = len(top_categories) + 1.3
+        chart_top = title_y_position + 0.5  # Add space above the title
+        
+        # Create full-chart blue background that includes the title with gap above
+        from matplotlib.patches import Rectangle
+        full_background = Rectangle(
+            (-0.5, -0.2),  # xy point, start a bit lower
+            width=9,       # Make sure this is wide enough
+            height=chart_top + 0.2,  # Include title and gap above
+            facecolor='#e6f0ff',  # Light blue background
+            zorder=-10     # Make sure it's behind everything
+        )
+        ax.add_patch(full_background)
+        
+        # Set up positions with increased gap after headers
+        y_positions = range(len(top_categories), 0, -1)  # Reversed to match the design
+        
+        # Prepare for drawing
+        plt.axvline(x=0, color='#f0f0f0', linestyle='-', linewidth=0.5)
+        
+        # Add title
+        plt.text(-0.1, title_y_position, 'Top 5 Highest Paying Job Categories', 
+                fontsize=18, color=bar_color, fontweight='bold')
+        
+        # Add headers
+        header_y_position = len(top_categories) + 0.6
+        plt.text(-0.1, header_y_position, '#', fontsize=12, color='#555555')
+        plt.text(0.1, header_y_position, 'Name', fontsize=12, color='#555555')
+        plt.text(3.0, header_y_position, 'Popularity', fontsize=12, color='#555555')
+        plt.text(7.0, header_y_position, 'Salary EUR', fontsize=12, color='#555555')
+        
+        # Add a subtle divider line below headers
+        plt.axhline(y=header_y_position - 0.3, color='#d0d0d0', linestyle='-', linewidth=0.5, alpha=0.5)
+        
+        # Draw for each category
+        for i, (category, salary) in enumerate(top_categories.items()):
+            rank = i + 1
+            y_pos = y_positions[i]
+            popularity = normalized_popularity[category]
+            
+            # Draw rank number
+            plt.text(-0.1, y_pos, f"{rank}", fontsize=14, color='#333333')
+            
+            # Draw category name
+            plt.text(0.1, y_pos, f"{category}", fontsize=14, color='#333333')
+            
+            # Draw popularity bar background
+            plt.barh(y_pos, 3, left=3, height=0.2, color=background_color, alpha=0.5)
+            
+            # Draw popularity bar
+            plt.barh(y_pos, 3 * popularity, left=3, height=0.2, color=bar_color)
+            
+            # Draw salary box
+            salary_text = f"{salary:.0f}"
+            
+            # Add salary box with rounded corners as a patch
+            salary_rect = patches.FancyBboxPatch(
+                (7, y_pos - 0.2), 0.9, 0.4,
+                boxstyle=f"round,pad=0.1,rounding_size=0.2",
+                facecolor='white',
+                edgecolor=bar_color,
+                linewidth=1,
+                zorder=2
+            )
+            ax.add_patch(salary_rect)
+            
+            # Add salary text
+            plt.text(7.45, y_pos, salary_text, fontsize=12, color=bar_color, 
+                    horizontalalignment='center', verticalalignment='center')
+        
+        # Remove axes and spines
+        ax.axis('off')
+        for spine in ax.spines.values():
+            spine.set_visible(False)
+        
+        # Set limits to include the title area
+        plt.xlim(-0.5, 8.5)
+        plt.ylim(-0.2, chart_top)
+        
+        plt.tight_layout()
+        
+        # Save chart with non-transparent background to keep blue color
+        top_categories_path = os.path.join(self.image_dir, 'top_categories_chart.png')
+        plt.savefig(top_categories_path, dpi=120, bbox_inches='tight', transparent=False)
+        
+        top_categories_buffer = BytesIO()
+        plt.savefig(top_categories_buffer, format='png', dpi=120, bbox_inches='tight', transparent=False)
+        top_categories_buffer.seek(0)
+        plt.close()
+        
+        return {
+            'path': top_categories_path,
+            'buffer': top_categories_buffer
+        }
+        
     def prepare_newsletter_data(self):
         """Prepare all the data needed for the newsletter"""
         if self.df is None:

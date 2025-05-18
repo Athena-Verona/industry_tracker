@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>{{ newsletter_title }}</title>
+    <title>Weekly IT Salary Market Insights</title>
     <style>
         body {
             font-family: Inter, sans-serif;
@@ -181,8 +181,8 @@
                     <img src="cid:company_logo" alt="Company Logo" class="top-logo">
                 </div>
                 <h3 class="welcome-text">Welcome back</h3>
-                <h1 class="title">{{ newsletter_title }}</h1>
-                <p class="subtitle">{{ newsletter_date }}</p>
+                <h1 class="title">Weekly IT Salary Market Insights</h1>
+                <p class="subtitle">May 18, 2025</p>
                 <p>Stay informed with the latest hiring trends, tech stacks, and salary insights across the Baltics.</p>
                 </div>
         </div>
@@ -195,7 +195,7 @@
                     </div>
                     <div class="highlight-text">
                         <span class="highlight-label">Most In-Demand Role:</span>
-                        <span>{{ most_demand_role }}</span>
+                        <span>AI Engineer</span>
                     </div>
                 </div>
 
@@ -205,7 +205,7 @@
                     </div>
                     <div class="highlight-text">
                         <span class="highlight-label">Top Hiring Company:</span>
-                        <span>{{ top_hiring_company }}</span>
+                        <span>Danske Bank Lithuania</span>
                     </div>
                 </div>
 
@@ -215,7 +215,7 @@
                     </div>
                     <div class="highlight-text">
                         <span class="highlight-label">Notable Market Move:</span>
-                        <span>{{ notable_market_move }}</span>
+                        <span>Highest paying category: Database Admin (€5250)</span>
                     </div>
                 </div>
             </div>
@@ -249,13 +249,25 @@
                         <th>Median Salary</th>
                         <th>Count</th>
                     </tr>
-                    {% for level in seniority_levels %}
+                    
                     <tr>
-                        <td>{{ level.name }}</td>
-                        <td>â‚¬{{ level.median_salary }}</td>
-                        <td>{{ level.count }}</td>
+                        <td>Junior</td>
+                        <td>€2375</td>
+                        <td>32</td>
                     </tr>
-                    {% endfor %}
+                    
+                    <tr>
+                        <td>Mid</td>
+                        <td>€4150</td>
+                        <td>25</td>
+                    </tr>
+                    
+                    <tr>
+                        <td>Senior</td>
+                        <td>€5308</td>
+                        <td>142</td>
+                    </tr>
+                    
                 </table>
             </div>
         </div>
